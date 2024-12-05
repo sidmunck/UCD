@@ -1,5 +1,5 @@
-# Paniek fzo
-*Omschrijving van je concept in 1 zin* 
+# Chill Pill
+*Een kleine device die de user helpt om paniekaanvallen te verminderen* 
 
 *Projectteam: Sid De Munck, Mattiz Vermeulen, Diego Vande Vyvere*
 
