@@ -1,7 +1,7 @@
 # Projecttitelfjskd
 *Omschrijving van je concept in 1 zin* 
 
-*Projectteam: Mattiz Vermeulen*
+*Projectteam: Mattiz Vermeulen, Diego Vande Vyvere, Sid De munck*
 
 Datum
 
