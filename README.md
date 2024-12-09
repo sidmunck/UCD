@@ -28,6 +28,16 @@ Aangezien het reeds vast stond dat het product een bijhorende app zou hebben, ri
 Op basis van de verkregen informatie uit deze gebruikerstesten werd een meer verfijnd concept ontwikkeld dat we als team in januari tijdens de examens zullen pitchen voor een jury.
 
 ## Discovery
+Doelstellingen
+Wij formuleerden de opdracht uiteindelijk als: "Hoe kunnen we op een betere manier mensen die last hebben van een paniekstoornis ondersteunen met behulp van zelfhulp(tools) aan de hand van technologie?"
+Het doel is om te onderzoeken of er hier daadwerkelijk sprake is van een probleem en hoe dit probleem dan effectief kan worden opgelost.
+
+Materiaal en methoden
+
+Resultaten
+
+Conclusies en implicaties
+
 Max. 1000 woorden
 ### Doestellingen
 Wat wilde je bereiken?
