@@ -28,11 +28,11 @@ Aangezien het reeds vast stond dat het product een bijhorende app zou hebben, ri
 Op basis van de verkregen informatie uit deze gebruikerstesten werd een meer verfijnd concept ontwikkeld dat we als team in januari tijdens de examens zullen pitchen voor een jury.
 
 ## Discovery
-# Doelstellingen
+### Doelstellingen
 Wij formuleerden de opdracht uiteindelijk als: "Hoe kunnen we op een betere manier mensen die last hebben van een paniekstoornis ondersteunen met behulp van zelfhulp(tools) aan de hand van technologie?"
 Het doel is om te onderzoeken of er hier daadwerkelijk sprake is van een probleem en hoe dit probleem dan effectief kan worden opgelost.
 
-# Materiaal en methoden
+### Materiaal en methoden
 Na het bepalen van een doelgroep werd er doormiddel van deskresearch en gebruikersinterviews inzicht verkregen in het probleem. 
 Uit de Public Health Monitor 2023 kwamen een aantal zeer schokkende cijfers naar boven. Maar liefst 22% van de Vlaamse bevolking kampt met psychische stoornissen, waarvan 12% met angststoornissen. Een paniekstoornis is een onderdeel binnen de angststoornissen. 
 Naast online naar cijfers zoeken werd er ook een benchmarking onderzoek (n=10) uitgevoerd naar de reeds bestaande hulpmiddelen voor paniekaanvallen. Dit was belangrijk om een beter inzicht te krijgen in welke methoden door de mens als goed werden gezien en welke juist absoluut niet.
@@ -41,7 +41,7 @@ Ook werden er drie gebruikersinterviews afgelegd. Hiervan zijn het protocol, rap
 Om het interview op te stellen werd er gestart vanuit de onderzoeksvraag: “Hoe kunnen technologie-gebaseerde zelfhulpmiddelen effectief worden ingezet om mensen met paniekaanvallen beter te ondersteunen en tegelijkertijd de druk op de wachtlijsten voor psychologische hulp te verminderen?”. Ook werd er dieper ingegaan op de vragen: “Wat zijn de belangrijkste voorwaarden waaraan het product moet voldoen?” en “Welke oplossingen bestaan er nu al? En wat is er goed/slecht aan?”.
 Uit de verzamelde inzichten konden de steeds herhalende antwoorden worden geclusterd. Dit zou dan ook de basis vormen voor het product. 
 
-# Resultaten
+### Resultaten
 Met die verkregen informatie uit de interviews kon er een rapport worden opgesteld, een persona en een WWWWWH model. 
 Een paar zeer opvallende en veel voorkomende wensen die in de interviews aan bod kwamen zijn:
 -	Nood aan emotionele geruststelling van een (vertrouwde) persoon
@@ -51,7 +51,7 @@ Een paar zeer opvallende en veel voorkomende wensen die in de interviews aan bod
 
 Al snel werd het idee verkregen om een klein apparaatje te produceren dat als luidspreker zou dienen, met hierbij horend een app. Via de app zou het apparaat dan moeten worden aangestuurd. Een belangrijke wens die via de app zou kunnen worden vervuld is het personaliseren van het apparaat. Via de app zou de gebruiker dan de functie die hij/zij op dat moment het meest nodig heeft kunnen gebruiken. 
 
-# Conclusies en implicaties
+### Conclusies en implicaties
 
 Max. 1000 woorden
 ### Doestellingen
