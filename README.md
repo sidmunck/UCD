@@ -14,6 +14,8 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image
 
+Wij hebben ons gericht om de druk te verlagen in de zorgsector. Ons onderzoeksterrein binnen de zorg is de ondersteuning van mensen met paniekstoornissen. De samenleving wordt steeds veeleisender, en dit heeft een directe impact op de mentale gezondheid. Vooral gezien het feit dat psychologen lange wachtlijsten hebben en in sommige gebieden een aanmeldingsstop is, lijkt er een probleem te zijn. Het doel van ons onderzoek is om product te ontwikkelen dat mensen die aan frequente paniekaanvallen leiden, kunnen gebruiken. Het doel van dit product is om het aantal sessies met een hulpverlener te verminderen en een sessie efficiënter in te delen door de patiënt te helpen de symptomen in een eerder stadium te herkennen en te reguleren. 
+
 ## Introductie
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
