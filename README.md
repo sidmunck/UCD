@@ -26,6 +26,14 @@ Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
 
+De toenemende gevallen van mentale gezondheidsproblemen blijft een uitdaging in onze samenleving. Deze toename legt een hoge druk op de zorg sector, dit is te zien aan het feit dat er al een aanmeldingstop is op de wachtlijsten. Het doel van dit onderzoek is daarom om een product te ontwikkelen dat niet alleen beter aansluit op de behoeften van mensen met paniekaanvallen, maar ook een deel van deze druk kan verlichten.
+
+Met deze project willen we daarom richten op het ontwerpen van een product dat mensen met paniekaanvallen beter kan ondersteunen en er mee kunnen leren omgaan. Ondanks dat er al verschillende hulpmiddelen bestaan, voldoen ze vaak niet aan de specifieke behoeften van gebruikers. Ook bestaan er nog geen hulpmiddelen dat paniekaanvallen van aan de bron gaan aanpakken. Minder nog een product die de methodes van klinische psychologen toepassen.
+[naam product] is zodanig ontworpen dat de gebruiker intuïtief en veelzijdig gebruik kan maken van de functies. [naam product] maakt ook gebruik van auditieve, visuele en tactiele signalen om de gebruiker te leiden door de paniekaanvallen en oefeningen aan te leren. Dit zorgt ervoor dat de gebruiker kan kiezen naar de kalmeer methode naar gelang persoonlijke mening.
+
+Dit rapport beschrijft het ontwerpproces, de gebruikerstesten en de belangrijkste bevindingen die hebben bijgedragen aan de ontwikkeling van [naam product].
+
+
 ## Methodologie
 Bij de start van het eerste semester werd er individueel aan een concept gewerkt. In deze fase werd er vanuit een divergerend perspectief nagedacht. Hierbij werd er uitgebreid onderzoek gedaan naar het gekozen onderwerp. Er werd een benchmarking onderzoek uitgevoerd en er werden interviews opgesteld en afgenomen (n=3). Deze interviews leverden een aantal belangrijke inzichten die zeker meespeelden bij het ontwikkelen van een eerste concept. Op 31/11/2024 werd dit concept gepitched en werden de teams samengesteld.
 
