@@ -15,7 +15,9 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Hero sketch/render/image
 
 De samenleving wordt steeds veeleisender, en dit heeft een directe impact op de mentale gezondheid. Vooral gezien het feit dat psychologen lange wachtlijsten hebben en in sommige gebieden een aanmeldingsstop is. Om deze druk op de sector te verminderen, willen wij met [naam product] mensen met paniekaanvallen helpen om zelf methodes aan te leren om met de paniekaanvallen om te kunnen gaan.
+
 Uit interviews en gebruiker testen heeft gebleken dat gebruiksvriendelijkheid en discretie cruciale aspecten zijn. Wij maken gebruik van auditieve, visuele en tactiele signalen om de gebruiker te leiden door de paniekaanvallen en de oefeningen aan te leren.
+
 Het uiteindelijke doel is om de druk op de zorg sector te verminderen door de gebruikers aan te leren hoe ze met paniekaanvallen moeten omgaan.
 
 
