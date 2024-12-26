@@ -6,32 +6,19 @@
 *2024-2025*
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
-
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image
-
-De samenleving wordt steeds veeleisender, en dit heeft een directe impact op de mentale gezondheid. Vooral gezien het feit dat psychologen lange wachtlijsten hebben en in sommige gebieden een aanmeldingsstop is. Om deze druk op de sector te verminderen, willen wij met [naam product] mensen met paniekaanvallen helpen om zelf methodes aan te leren om met de paniekaanvallen om te kunnen gaan.
-
-Uit interviews en gebruiker testen heeft gebleken dat gebruiksvriendelijkheid en discretie cruciale aspecten zijn. Wij maken gebruik van auditieve, visuele en tactiele signalen om de gebruiker te leiden door de paniekaanvallen en de oefeningen aan te leren.
-
-Het uiteindelijke doel is om de druk op de zorg sector te verminderen door de gebruikers aan te leren hoe ze met paniekaanvallen moeten omgaan.
+De samenleving wordt steeds veeleisender, en dit heeft een directe impact op de mentale gezondheid. Vooral gezien het feit dat psychologen lange wachtlijsten hebben en in sommige gebieden een aanmeldingsstop is, lijkt er een probleem te zijn. 
+Door het afnemen van interviews en het uitvoeren van een benchmarking onderzoek, kon er besloten worden dat dit steeds meer toenemende aantal mensen met paniekaanvallen als een maatschappelijk probleem kan worden beschouwd. 
+Een oplossing die mensen met paniekaanvallen kan ondersteunen bestaat uit een klein apparaatje dat als luidspreker zal functioneren en een hierbij horende app. Er wordt gebruik gemaakt van visuele, auditieve en tactiele signalen om de gebruiker doorheen de paniekaanval te leiden tot deze weer is gekalmeerd. 
+Dit apparaat biedt diverse mogelijkheden om paniekaanvallen te leren beheersen, ongeacht de locatie of het tijdstip, met een groot aanbod aan functies. En dit allemaal op een zeer discrete, toegankelijke manier die altijd beschikbaar is. 
 
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
-
-De toenemende gevallen van mentale gezondheidsproblemen blijft een uitdaging in onze samenleving. Deze toename legt een hoge druk op de zorg sector, dit is te zien aan het feit dat er al een aanmeldingstop is op de wachtlijsten. Het doel van dit onderzoek is daarom om een product te ontwikkelen dat niet alleen beter aansluit op de behoeften van mensen met paniekaanvallen, maar ook een deel van deze druk kan verlichten.
-
-Met deze project willen we daarom richten op het ontwerpen van een product dat mensen met paniekaanvallen beter kan ondersteunen en er mee kunnen leren omgaan. Ondanks dat er al verschillende hulpmiddelen bestaan, voldoen ze vaak niet aan de specifieke behoeften van gebruikers. Ook bestaan er nog geen hulpmiddelen dat paniekaanvallen van aan de bron gaan aanpakken. Minder nog een product die de methodes van klinische psychologen toepassen.
-[naam product] is zodanig ontworpen dat de gebruiker intuïtief en veelzijdig gebruik kan maken van de functies. [naam product] maakt ook gebruik van auditieve, visuele en tactiele signalen om de gebruiker te leiden door de paniekaanvallen en oefeningen aan te leren. Dit zorgt ervoor dat de gebruiker kan kiezen naar de kalmeer methode naar gelang persoonlijke mening.
-
-Dit rapport beschrijft het ontwerpproces, de gebruikerstesten en de belangrijkste bevindingen die hebben bijgedragen aan de ontwikkeling van [naam product].
+Het aantal mensen dat terecht komt in de psychologische zorg stijgt, dit komt door het groeiende bewustzijn rond mentale gezondheid, minder stigma en een steeds meer toenemende stress in de samenleving. Deze stijging leidt tot een verhoging van de druk binnen de zorgsector. Dit is duidelijk op te merken aan de lange wachtlijsten om bij psychologen binnen te geraken, die soms zelfs gepaard gaan met een aanmeldingsstop. 
+Het doel van dit onderzoek is een product te ontwikkelen dat beter aansluit bij de behoeften van de gebruikers en gebruikers kan helpen bij het zelfstandig reduceren van paniekaanvallen. Op deze manier is er minder regelmatig een bezoek aan een psycholoog nodig waardoor dit op termijn voorzichtig kan bijdragen aan het verkorten van de wachtlijsten. 
+Maar liefst twaalf procent van de Vlaamse bevolking kampt met angststoornissen, waarvan de paniekstoornis deel uit maakt. Met dit project ligt de focus dus op het ontwikkelen van een product dat mensen met paniekaanvallen beter kan ondersteunen waardoor ze er op een zelfstandige manier beter met kunnen leren omgaan. 
+Ondanks dat er al zeer veel verschillende bestaande hulpmiddelen op de markt zijn, voldoen ze vaak niet specifiek aan de behoeften van de gebruiker. Ook bestaan er nog geen hulpmiddelen die paniekaanvallen van aan de bron gaan aanpakken, dit met een techniek die tijdens de behandelingssessie van klinische psychologen gebruikt wordt. 
+Dankzij de app die bij het product hoort, kan de gebruiker het toestel meer personaliseren naar zijn/haar noden en uitzoeken wat de meest effectieve methode is om met paniekaanvallen om te gaan. 
+De doelstelling is om een product te ontwikkelen dat gebruikers overal subtiel kunnen gebruiken. Het product moet in minder dan vijftien seconden kunnen worden opgestart en de gebruiker moet in minder dan vijf seconden zich een weg kunnen banen doorheen de interface van de app.  
 
 
 ## Methodologie
