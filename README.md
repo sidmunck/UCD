@@ -92,7 +92,7 @@ Definieer de belangrijkste designbeslissingen
 - App interface
 - 3D printing filament (ABS)
 
-![Materialen](https://github.com/MattizV/UCD/blob/main/schema_BillOfMaterials.png) 
+![Materialen](https://github.com/MattizV/UCD/blob/main/fotos/schema_BillOfMaterials.png) 
 
 ## Kritische reflectie
 Max. 500 woorden
