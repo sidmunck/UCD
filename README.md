@@ -38,7 +38,7 @@ Naast deze twee waves werd er nog een literatuuronderzoek uitgevoerd over 'inter
 
 Op basis van de verkregen informatie uit deze gebruikerstesten werd een meer verfijnd concept ontwikkeld dat we als team in januari tijdens de examens zullen pitchen voor een jury.
 
-![methodologie](https://github.com/MattizV/UCD/blob/main/methodologie%20.png) 
+![methodologie](https://github.com/MattizV/UCD/blob/main/fotos/methodologie%20.png) 
 
 ## Discovery
 ### Doelstellingen
