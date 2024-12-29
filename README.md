@@ -26,7 +26,6 @@ Dankzij de app die bij het product hoort, kan de gebruiker het toestel meer pers
 
 De doelstelling is om een product te ontwikkelen dat gebruikers overal subtiel kunnen gebruiken. Het product moet in minder dan vijftien seconden kunnen worden opgestart en de gebruiker moet in minder dan vijf seconden zich een weg kunnen banen doorheen de user interface van de app.  
 
-
 ## Methodologie
 Bij de start van het eerste semester werd er individueel aan een concept gewerkt. In deze fase werd er vanuit een divergerend perspectief nagedacht. Hierbij werd er uitgebreid onderzoek gedaan naar het gekozen onderwerp. Er werd een benchmarking onderzoek uitgevoerd en er werden interviews opgesteld en afgenomen (n=3). Deze interviews leverden een aantal belangrijke inzichten die zeker meespeelden bij het ontwikkelen van een eerste concept. Al deze informatie werd gebundeld in een rapport waarna uit deze bekomen info de belangrijkste aspecten konden worden bepaald. Dit werd gedaan aan de hand van een WWWWWH en een persona. 
 Op 31/11/2024 werd dit concept gepitched en werden de teams samengesteld.
@@ -36,23 +35,26 @@ Naast deze twee waves werd er nog een literatuuronderzoek uitgevoerd over 'inter
 
 Op basis van de verkregen informatie uit deze gebruikerstesten werd een meer verfijnd concept ontwikkeld dat we als team in januari tijdens de examens zullen pitchen voor een jury.
 
+![methodologie](https://github.com/MattizV/UCD/blob/main/methodologie%20.png) 
+
 ## Discovery
 ### Doelstellingen
+In dit project wordt er gestreefd naar een product dat helpt bij het verlagen van de druk op de psychologische sector. Met de hedendaagse producten is dit momenteel nog niet mogelijk waardoor er dus wordt gezocht naar een product dat hier wel aan kan bijdragen. De doelstellingen binnen deze discovery fase zijn: achterhalen wie de gebruiker is en wat de noden en behoeften van deze gebruiker zijn. 
 Wij formuleerden de opdracht uiteindelijk als: "Hoe kunnen we op een betere manier mensen die last hebben van een paniekstoornis ondersteunen met behulp van zelfhulp(tools) aan de hand van technologie?"
-Het doel is om te onderzoeken of er hier daadwerkelijk sprake is van een probleem en hoe dit probleem dan effectief kan worden opgelost.
 
 ### Materiaal en methoden
 Na het bepalen van een doelgroep werd er doormiddel van deskresearch en gebruikersinterviews inzicht verkregen in het probleem. 
 
 Uit de Public Health Monitor 2023 kwamen een aantal zeer schokkende cijfers naar boven. Maar liefst 22% van de Vlaamse bevolking kampt met psychische stoornissen, waarvan 12% met angststoornissen. Een paniekstoornis is een onderdeel binnen de angststoornissen. 
-
 Naast online naar cijfers zoeken werd er ook een benchmarking onderzoek (n=10) uitgevoerd naar de reeds bestaande hulpmiddelen voor paniekaanvallen. Dit was belangrijk om een beter inzicht te krijgen in welke methoden door de mens als goed werden gezien en welke juist absoluut niet.
 Hierbij werd gekeken naar wat het product net zo goed of slecht maakt en wat de speciale eigenschappen van het product zijn. Uit deze reeds bestaande producten kunnen we eventueel enkele elementen laten terug komen in ons eigen product. 
 
 Ook werden er drie gebruikersinterviews afgelegd. Hiervan zijn het protocol, rapport en informed consent terug te vinden in de bijlagen. 
 Om het interview op te stellen werd er gestart vanuit de onderzoeksvraag: “Hoe kunnen technologie-gebaseerde zelfhulpmiddelen effectief worden ingezet om mensen met paniekaanvallen beter te ondersteunen en tegelijkertijd de druk op de wachtlijsten voor psychologische hulp te verminderen?”. Ook werd er dieper ingegaan op de vragen: “Wat zijn de belangrijkste voorwaarden waaraan het product moet voldoen?” en “Welke oplossingen bestaan er nu al? En wat is er goed/slecht aan?”.
 
-Uit de verzamelde inzichten konden de steeds herhalende antwoorden worden geclusterd. Dit zou dan ook de basis vormen voor het product. 
+Uit de verzamelde inzichten konden de steeds herhalende antwoorden worden geclusterd, deze vormen dan ook de basis van het product. In de tabel zijn verschillende functies geordend op hoe belangrijk ze worden gezien door de gebruiker. De meest belangrijke elementen zijn dus discretie, compactheid en gebruiksgemak.
+
+
 
 ### Resultaten
 Met die verkregen informatie uit de interviews kon er een rapport worden opgesteld, een persona en een WWWWWH model. 
@@ -62,10 +64,13 @@ Een paar zeer opvallende en veel voorkomende wensen die in de interviews aan bod
 -	Discreet in gebruik
 -	Manier om het apparaat te personaliseren naar eigen wensen
 
-Al snel werd het idee verkregen om een klein apparaatje te produceren dat als luidspreker zou dienen, met hierbij horend een app. Via de app zou het apparaat dan moeten worden aangestuurd. Een belangrijke wens die via de app zou kunnen worden vervuld is het personaliseren van het apparaat. Via de app zou de gebruiker dan de functie die hij/zij op dat moment het meest nodig heeft kunnen gebruiken. 
+Al snel werd het idee verkregen om een klein apparaatje te produceren dat als luidspreker zou dienen, met eventueel hierbij horend een app. Via de app zou het apparaat dan moeten worden aangestuurd. Een belangrijke wens die via de app zou kunnen worden vervuld is het personaliseren van het apparaat. Via de app zou de gebruiker dan de functie die hij/zij op dat moment het meest nodig heeft kunnen gebruiken. 
 
 ### Conclusies en implicaties
+Uit het vooronderzoek is het duidelijk geworden aan welke aspecten het apparaat moet voldoen. Het meest belangrijke aspect is dat het toestel de gebruiker tot rust moet kunnen brengen bij paniek. Naast deze functie is een trainingsfunctie bij het toestel ook zeer belangrijk om op deze manier de druk op de psychologische sector effectief te verlagen. Dit vormt een soort cyclisch proces want wanneer er tijdens de training nood is aan een hulpmiddel om te kalmeren, kan dit meteen gebruikt worden. 
+Het is dus duidelijk dat er verschillende functies moeten kunnen worden opgestart, en ook overschakelen tussen de verschillende functies is belangrijk. Er zal dus een manier moeten gezocht worden om al deze functies in een klein apparaatje te steken dat zeer effectief, compact en esthetisch is. 
 
+## Discovery
 Max. 1000 woorden
 ### Doestellingen
 Wat wilde je bereiken?
