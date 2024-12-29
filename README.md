@@ -87,7 +87,7 @@ Definieer de belangrijkste designbeslissingen
 ## Bill of materials
 
 <p align=center>  
-  <img src="fotos/schema_BillOfMaterials.png") alt=testlocatie height=80% />
+  <img src="fotos/schema_BillOfMaterials.png") alt=testlocatie width=50% />
 </p>
 
 
