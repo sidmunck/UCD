@@ -70,17 +70,6 @@ Al snel werd het idee verkregen om een klein apparaatje te produceren dat als lu
 Uit het vooronderzoek is het duidelijk geworden aan welke aspecten het apparaat moet voldoen. Het meest belangrijke aspect is dat het toestel de gebruiker tot rust moet kunnen brengen bij paniek. Naast deze functie is een trainingsfunctie bij het toestel ook zeer belangrijk om op deze manier de druk op de psychologische sector effectief te verlagen. Dit vormt een soort cyclisch proces want wanneer er tijdens de training nood is aan een hulpmiddel om te kalmeren, kan dit meteen gebruikt worden. 
 Het is dus duidelijk dat er verschillende functies moeten kunnen worden opgestart, en ook overschakelen tussen de verschillende functies is belangrijk. Er zal dus een manier moeten gezocht worden om al deze functies in een klein apparaatje te steken dat zeer effectief, compact en esthetisch is. 
 
-## Discovery
-Max. 1000 woorden
-### Doestellingen
-Wat wilde je bereiken?
-### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
-
 ## Definition
 Max. 1000 woorden
 ### Doestellingen
@@ -93,15 +82,13 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 Definieer de belangrijkste designbeslissingen
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+- Arduino Nano
+- Batterij
+- Speaker
+- Trilmotor
+- App interface
+- 3D printing filament (ABS)
+
 
 ## Kritische reflectie
 Max. 500 woorden
