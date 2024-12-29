@@ -96,7 +96,6 @@ Definieer de belangrijkste designbeslissingen
 | Trilmotor | Grove Vibration Motor | €2.50 |
 | Speaker | RS Pro 117-6046 | €2.23 - €2.43 |
 | Totaalprijs (Zonder PLA kosten) |  | €12.04 - €13.96 |
-| ------------- | ------------- | ------------- |
 
 ## Kritische reflectie
 Max. 500 woorden
