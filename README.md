@@ -88,8 +88,6 @@ Definieer de belangrijkste designbeslissingen
 
 <p align=center>  
   <img src="fotos/schema_BillOfMaterials.png") alt=testlocatie width=50% />
-</p>
-
 
 |  | Product/ Materiaal | Prijs (Bulk - Enkel) |
 | ------------- | ------------- | ------------- |
@@ -99,6 +97,7 @@ Definieer de belangrijkste designbeslissingen
 | Trilmotor | Grove Vibration Motor | €2.50 |
 | Speaker | RS Pro 117-6046 | €2.23 - €2.43 |
 | Totaalprijs (Zonder PLA kosten) |  | €12.04 - €13.96 |
+</p>
 
 ## Kritische reflectie
 Max. 500 woorden
