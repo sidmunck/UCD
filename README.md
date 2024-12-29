@@ -21,10 +21,10 @@ Het doel van dit onderzoek is een product te ontwikkelen dat beter aansluit bij 
 
 Maar liefst twaalf procent van de Vlaamse bevolking kampt met angststoornissen, waarvan de paniekstoornis deel uit maakt. Met dit project ligt de focus dus op het ontwikkelen van een product dat mensen met paniekaanvallen beter kan ondersteunen waardoor ze er op een zelfstandige manier beter met kunnen leren omgaan. 
 
-Ondanks dat er al zeer veel verschillende bestaande hulpmiddelen op de markt zijn, voldoen ze vaak niet specifiek aan de behoeften van de gebruiker. Ook bestaan er nog geen hulpmiddelen die paniekaanvallen van aan de bron gaan aanpakken, dit met een techniek die tijdens de behandelingssessie van klinische psychologen gebruikt wordt. 
+Ondanks dat er al veel verschillende bestaande hulpmiddelen op de markt zijn, voldoen ze vaak niet specifiek aan de behoeften van de gebruiker. Ook bestaan er nog geen hulpmiddelen die paniekaanvallen van aan de bron gaan aanpakken, dit met een techniek die tijdens de behandelingssessie van klinische psychologen gebruikt wordt. 
 Dankzij de app die bij het product hoort, kan de gebruiker het toestel meer personaliseren naar zijn/haar noden en uitzoeken wat de meest effectieve methode is om met paniekaanvallen om te gaan. 
 
-De doelstelling is om een product te ontwikkelen dat gebruikers overal subtiel kunnen gebruiken. Het product moet in minder dan vijftien seconden kunnen worden opgestart en de gebruiker moet in minder dan vijf seconden zich een weg kunnen banen doorheen de interface van de app.  
+De doelstelling is om een product te ontwikkelen dat gebruikers overal subtiel kunnen gebruiken. Het product moet in minder dan vijftien seconden kunnen worden opgestart en de gebruiker moet in minder dan vijf seconden zich een weg kunnen banen doorheen de user interface van de app.  
 
 
 ## Methodologie
