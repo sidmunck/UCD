@@ -86,7 +86,10 @@ Definieer de belangrijkste designbeslissingen
 
 ## Bill of materials
 
-![Materialen](https://github.com/MattizV/UCD/blob/main/fotos/schema_BillOfMaterials.png) 
+<p align=center>  
+  <img src="fotos/schema_BillOfMaterials.png") alt=testlocatie width=50% />
+</p>
+
 
 |  | Product/ Materiaal | Prijs (Bulk - Enkel) |
 | ------------- | ------------- | ------------- |
