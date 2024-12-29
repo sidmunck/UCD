@@ -21,6 +21,9 @@ Het doel van dit onderzoek is een product te ontwikkelen dat beter aansluit bij 
 
 Maar liefst twaalf procent van de Vlaamse bevolking kampt met angststoornissen, waarvan de paniekstoornis deel uit maakt. Met dit project ligt de focus dus op het ontwikkelen van een product dat mensen met paniekaanvallen beter kan ondersteunen waardoor ze er op een zelfstandige manier beter met kunnen leren omgaan. 
 
+> [!NOTE]
+> - Bron voor percentages moet er nog bij
+
 Ondanks dat er al veel verschillende bestaande hulpmiddelen op de markt zijn, voldoen ze vaak niet specifiek aan de behoeften van de gebruiker. Ook bestaan er nog geen hulpmiddelen die paniekaanvallen van aan de bron gaan aanpakken, dit met een techniek die tijdens de behandelingssessie van klinische psychologen gebruikt wordt. 
 Dankzij de app die bij het product hoort, kan de gebruiker het toestel meer personaliseren naar zijn/haar noden en uitzoeken wat de meest effectieve methode is om met paniekaanvallen om te gaan. 
 
@@ -48,27 +51,27 @@ Na het bepalen van een doelgroep werd er doormiddel van deskresearch en gebruike
 Uit de Public Health Monitor 2023 kwamen een aantal zeer schokkende cijfers naar boven. Maar liefst 22% van de Vlaamse bevolking kampt met psychische stoornissen, waarvan 12% met angststoornissen. Een paniekstoornis is een onderdeel binnen de angststoornissen. 
 Naast online naar cijfers zoeken werd er ook een benchmarking onderzoek (n=10) uitgevoerd naar de reeds bestaande hulpmiddelen voor paniekaanvallen. Dit was belangrijk om een beter inzicht te krijgen in welke methoden door de mens als goed werden gezien en welke juist absoluut niet.
 Hierbij werd gekeken naar wat het product net zo goed of slecht maakt en wat de speciale eigenschappen van het product zijn. Uit deze reeds bestaande producten kunnen we eventueel enkele elementen laten terug komen in ons eigen product. 
+> [!NOTE]
+> - Bron voor percentages moet er nog bij
 
 Ook werden er drie gebruikersinterviews afgelegd. Hiervan zijn het protocol, rapport en informed consent terug te vinden in de bijlagen. 
 Om het interview op te stellen werd er gestart vanuit de onderzoeksvraag: “Hoe kunnen technologie-gebaseerde zelfhulpmiddelen effectief worden ingezet om mensen met paniekaanvallen beter te ondersteunen en tegelijkertijd de druk op de wachtlijsten voor psychologische hulp te verminderen?”. Ook werd er dieper ingegaan op de vragen: “Wat zijn de belangrijkste voorwaarden waaraan het product moet voldoen?” en “Welke oplossingen bestaan er nu al? En wat is er goed/slecht aan?”.
 
 Uit de verzamelde inzichten konden de steeds herhalende antwoorden worden geclusterd, deze vormen dan ook de basis van het product. In de tabel zijn verschillende functies geordend op hoe belangrijk ze worden gezien door de gebruiker. De meest belangrijke elementen zijn dus discretie, compactheid en gebruiksgemak.
 
-
-
 ### Resultaten
-Met die verkregen informatie uit de interviews kon er een rapport worden opgesteld, een persona en een WWWWWH model. 
+Met de verkregen informatie uit de interviews kon er een rapport, een persona en een WWWWWH model worden opgesteld. 
 Een paar zeer opvallende en veel voorkomende wensen die in de interviews aan bod kwamen zijn:
 -	Nood aan emotionele geruststelling van een (vertrouwde) persoon
 -	Toegankelijk en makkelijk te gebruiken
 -	Discreet in gebruik
 -	Manier om het apparaat te personaliseren naar eigen wensen
 
-Al snel werd het idee verkregen om een klein apparaatje te produceren dat als luidspreker zou dienen, met eventueel hierbij horend een app. Via de app zou het apparaat dan moeten worden aangestuurd. Een belangrijke wens die via de app zou kunnen worden vervuld is het personaliseren van het apparaat. Via de app zou de gebruiker dan de functie die hij/zij op dat moment het meest nodig heeft kunnen gebruiken. 
+Al snel werd het idee verkregen om een klein apparaatje te produceren dat als luidspreker zou dienen, met eventueel hierbij horend een app. Via de app zou het apparaat dan worden aangestuurd. Een belangrijke wens die de app zou kunnen vervullen, is de personalisatie van het apparaat. Via de app zou de gebruiker dan de functie die hij/zij op dat moment het meest nodig heeft kunnen gebruiken. 
 
 ### Conclusies en implicaties
-Uit het vooronderzoek is het duidelijk geworden aan welke aspecten het apparaat moet voldoen. Het meest belangrijke aspect is dat het toestel de gebruiker tot rust moet kunnen brengen bij paniek. Naast deze functie is een trainingsfunctie bij het toestel ook zeer belangrijk om op deze manier de druk op de psychologische sector effectief te verlagen. Dit vormt een soort cyclisch proces want wanneer er tijdens de training nood is aan een hulpmiddel om te kalmeren, kan dit meteen gebruikt worden. 
-Het is dus duidelijk dat er verschillende functies moeten kunnen worden opgestart, en ook overschakelen tussen de verschillende functies is belangrijk. Er zal dus een manier moeten gezocht worden om al deze functies in een klein apparaatje te steken dat zeer effectief, compact en esthetisch is. 
+Uit het vooronderzoek is het duidelijk geworden aan welke aspecten het apparaat moet voldoen. Het meest belangrijke aspect is dat het toestel de gebruiker tot rust moet kunnen brengen bij paniek. Naast deze functie is een trainingsfunctie bij het toestel ook zeer belangrijk om op deze manier de druk op de psychologische sector effectief te verlagen. Dit vormt een soort cyclisch proces, wanneer er tijdens de training nood is aan een hulpmiddel om te kalmeren, kan dit meteen gebruikt worden. 
+Het is dus duidelijk dat er een nood is aan een variatie van functies. Daarnaast is het ook belangrijk dat de gebruiker snel kan overschakkelen tussen de aangeboden functies. Er zal daarom een manier moeten gezocht worden om al deze functies in een klein apparaatje te steken dat effectief, compact en esthetisch is. 
 
 ## Definition
 Max. 1000 woorden
