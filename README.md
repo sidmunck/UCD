@@ -87,18 +87,47 @@ Definieer de belangrijkste designbeslissingen
 ## Bill of materials
 
 <p align=center>  
-  <img src="fotos/schema_BillOfMaterials.png") alt=testlocatie width=50% />
+  <img src="fotos/schema_BillOfMaterials.png") alt=testlocatie height=80% />
 </p>
 
-|  | Product/ Materiaal | Prijs (Bulk - Enkel) |
-| :---: | :---: | :---: |
-| Behuizing | PLA | ~ €18/kg |
-| Microcontroller | Adafruit Trinket M0 | €6.87 - €8.59 |
-| Battery pack | 3V battery pack | €0.44 |
-| Trilmotor | Grove Vibration Motor | €2.50 |
-| Speaker | RS Pro 117-6046 | €2.23 - €2.43 |
-| Totaalprijs (Zonder PLA kosten) |  | €12.04 - €13.96 |
 
+<table align=center>
+        <tr>
+            <th></th>
+            <th>Product/ Materiaal</th>
+            <th>Prijs (Bulk - Enkel)</th>
+        </tr>
+        <tr>
+            <td>Behuizing</td>
+            <td>PLA</td>
+            <td>~ €18/kg</td>
+        </tr>
+        <tr>
+            <td>Microcontroller</td>
+            <td>Adafruit Trinket M0</td>
+            <td>€6.87 - €8.59</td>
+        </tr>
+        <tr>
+            <td>Battery pack</td>
+            <td>3V battery pack</td>
+            <td>€0.44</td>
+        </tr>
+        <tr>
+            <td>Trilmotor</td>
+            <td>Grove Vibration Motor</td>
+            <td>€2.50</td>
+        </tr>
+        <tr>
+            <td>Speaker</td>
+            <td>RS Pro 117-6046</td>
+            <td>€2.23 - €2.43</td>
+        </tr>
+        <tr>
+            <td><strong>Totaalprijs (Zonder PLA kosten)</strong></td>
+            <td></td>
+            <td><strong>€12.04 - €13.96</strong></td>
+        </tr>
+    </table>
 
 ## Kritische reflectie
 Max. 500 woorden
