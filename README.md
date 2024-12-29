@@ -85,14 +85,18 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 Definieer de belangrijkste designbeslissingen
 
 ## Bill of materials
-- Arduino Nano
-- Batterij
-- Speaker
-- Trilmotor
-- App interface
-- 3D printing filament (ABS)
 
 ![Materialen](https://github.com/MattizV/UCD/blob/main/schema_BillOfMaterials.png) 
+
+|  | Product/ Materiaal | Prijs (Bulk - Enkel) |
+| ------------- | ------------- | ------------- |
+| Behuizing | PLA | ~ €18/kg |
+| Microcontroller | Adafruit Trinket M0 | €6.87 - €8.59 |
+| Battery pack | 3V battery pack | €0.44 |
+| Trilmotor | Grove Vibration Motor | €2.50 |
+| Speaker | RS Pro 117-6046 | €2.23 - €2.43 |
+| Totaalprijs (Zonder PLA kosten) |  | €12.04 - €13.96 |
+| ------------- | ------------- | ------------- |
 
 ## Kritische reflectie
 Max. 500 woorden
