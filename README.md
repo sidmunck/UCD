@@ -86,13 +86,25 @@ Hoe onderzocht je dit? Wees volledig.
 Om de doelstellingen van de Definition-fase te bereiken, werd gebruikgemaakt van een combinatie van onderzoeksmethoden:
 
 #### 1. Gebruikertesten
-...
+
+- Er werden interviews afgenomen met zeven gebruikers die ervaring hebben met paniekaanvallen​.
+- De gesprekken richtten zich op verwachtingen van het apparaat, interactievoorkeuren, mogelijke frustraties en praktische gebruiksscenario’s​.
+- De informed consent werd voorafgaand aan elk interview ondertekend.
+
 #### 2. Prototypen en testen
-...
+
+Drie verschillende low-fidelity prototypes werden ontworpen en getest​.
+
+- Prototype 1 (Zonder app): Volledige bediening op het apparaat zelf.
+- Prototype 2 (Hybride): Basisfunctionaliteiten via een app ondersteund door knoppen op het apparaat.
+- Prototype 3 (Enkel via app): Alle interactie verloopt via een app​.
+  
+Elke test werd uitgevoerd in gesimuleerde scenario's, zoals een paniekaanval in een openbare ruimte en een rustige privéomgeving​.
+
 #### 3. Roleplay
-...
-#### 4. Benchmarks
-...
+
+-Tijdens tests werd een rollenspel gebruikt waarbij deelnemers werden gevraagd om in specifieke situaties het apparaat te gebruiken​.
+- Observaties werden vastgelegd en directe feedback werd verzameld​.
 
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
@@ -120,22 +132,12 @@ in een rustige omgeving => "hybride systeem" met de app als een extra
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
-#### 1. Gebruiksvriendelijkheid
-...
-#### 2. Discretie en draagbaarheid
-...
-#### 3. Effectiviteit van signalen
-- Visueel (leds)
-- Auditief (speaker)
-- Tactiel (trilling)
-...
-#### 4. Personalisatie
-...
-#### 5. App
+Het product moet onmiddellijk bruikbaar zijn, vooral tijdens een paniekaanval.
+Zowel het ontwerp als de interactiemethoden moeten subtiel en onopvallend zijn.
+Een combinatie van visuele, auditieve en tactiele signalen biedt de beste ondersteuning​.
+De mogelijkheid om instellingen aan te passen via een app verhoogt de bruikbaarheid en tevredenheid van de gebruiker​.
+In een publieke ruimte zijn directe fysieke knoppen handiger, terwijl in een rustige ruimte app-bediening meer flexibiliteit biedt​.
 
-Drukke ruimte's => geen app
-
-in een rustige omgeving => "hybride systeem" met de app als een extra
 ...
 
 ## Bill of materials
