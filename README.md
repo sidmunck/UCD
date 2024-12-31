@@ -77,11 +77,13 @@ Het is dus duidelijk dat er een nood is aan een variatie van functies. Daarnaast
 Max. 1000 woorden
 ### Doestellingen
 Wat wilde je bereiken?
+
 Bij de definition-fase was ons hoofddoel het bekijken hoe we de huidige oplossingen die op de markt zijn kunnen benutten en/of verbeteren. We hebben dit gedaan door middel van 2 waves. Hierbij wouden we vaststellen welke klameers methode het meest effectief is en daarbij werd er ook gekeken of er effectief een nood is voor een app. Verder nog werd er tijden de interviews gepolsd of de correspondenten eisen hadden over het product dat nog niet aan bod waren gekomen.
 
 ### Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.
-Om de doelstellingen van de Discovery-fase te bereiken, werd gebruikgemaakt van een combinatie van onderzoeksmethoden:
+
+Om de doelstellingen van de Definition-fase te bereiken, werd gebruikgemaakt van een combinatie van onderzoeksmethoden:
 
 #### 1. Gebruikertesten
 ...
