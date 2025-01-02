@@ -74,78 +74,55 @@ Uit het vooronderzoek is het duidelijk geworden aan welke aspecten het apparaat 
 Het is dus duidelijk dat er een nood is aan een variatie van functies. Daarnaast is het ook belangrijk dat de gebruiker snel kan overschakkelen tussen de aangeboden functies. Er zal daarom een manier moeten gezocht worden om al deze functies in een klein apparaatje te steken dat effectief, compact en esthetisch is. 
 
 ## Definition
-Max. 1000 woorden
 ### Doestellingen
-Wat wilde je bereiken?
-
 Bij de definition-fase was ons hoofddoel het bekijken hoe we de huidige oplossingen die op de markt zijn kunnen benutten en/of verbeteren. We hebben dit gedaan door middel van 2 waves. Hierbij wouden we vaststellen welke klameers methode het meest effectief is en daarbij werd er ook gekeken of er effectief een nood is voor een app. Verder nog werd er tijden de interviews gepolsd of de correspondenten eisen hadden over het product dat nog niet aan bod waren gekomen.
 
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
-
 Om de doelstellingen van de Definition-fase te bereiken, werd gebruikgemaakt van een combinatie van onderzoeksmethoden:
 
 #### 1. Gebruikertesten
-
-- Er werden interviews afgenomen met zeven gebruikers die ervaring hebben met paniekaanvallen​.
-- De gesprekken richtten zich op verwachtingen van het apparaat, interactievoorkeuren, mogelijke frustraties en praktische gebruiksscenario’s​.
-- De informed consent werd voorafgaand aan elk interview ondertekend.
+Zeven respondenten met ervaring met paniekaanvallen werden geïnterviewd om verwachtingen, behoeften en frustraties in kaart te brengen​. De focus lag op gebruiksvriendelijkheid, discretie, en interactievoorkeuren met het apparaat en de bijhorende app​. Tijdens de gerbuikerstesten werd er gevraagd aan de gebruiker om te rolspelen. In specifieke scenario's werd getest hoe snel en intuïtief de prototypes gebruikt konden worden tijdens acute paniekaanvallen​. Observaties werden vastgelegd en directe feedback werd verzameld​. De informed consent werd voorafgaand aan elk interview ondertekend.
 
 #### 2. Prototypen en testen
+In de eerste wave werden de gebruikers getest op  verschillende klameringsmethodes: visueel, tactiel en auditief. Daarna werden er in de tweede wave drie low-fidelity prototypes ontwikkeld: één zonder app, één hybride versie en één volledig app-gebaseerd​. Deze prototypes werden getest in gesimuleerde scenario's, zoals een drukke openbare ruimte en een rustige omgeving. Testpersonen voerden taken uit, zoals een oefening starten, geluid aanpassen en trillingen activeren.
 
-Drie verschillende low-fidelity prototypes werden ontworpen en getest​.
-
-- Prototype 1 (Zonder app): Volledige bediening op het apparaat zelf.
-- Prototype 2 (Hybride): Basisfunctionaliteiten via een app ondersteund door knoppen op het apparaat.
-- Prototype 3 (Enkel via app): Alle interactie verloopt via een app​.
-  
-Elke test werd uitgevoerd in gesimuleerde scenario's, zoals een paniekaanval in een openbare ruimte en een rustige privéomgeving​.
-
-#### 3. Roleplay
-
--Tijdens tests werd een rollenspel gebruikt waarbij deelnemers werden gevraagd om in specifieke situaties het apparaat te gebruiken​.
-- Observaties werden vastgelegd en directe feedback werd verzameld​.
+#### 3. Literatuur onderzoek
+Er werd onderzoek gedaan naar psychologische methoden, zoals interoceptieve exposure, en de effectiviteit van ademhalingstechnieken​.
 
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-
 Uit de verzamelde data kwamen enkele duidelijke patronen en inzichten naar voren:
 
 #### 1. Gebruiksvriendelijkheid
-...
+Gebruikers gaven aan dat het apparaat intuïtief en direct bruikbaar moet zijn, vooral tijdens een paniekaanval. Complexe interfaces of trage reactietijden vergroten de stress​.
+
 #### 2. Discretie en draagbaarheid
-...
+Het apparaat moet compact en onopvallend zijn, zodat het zonder schaamte in publieke ruimtes kan worden gebruikt. Fysieke knoppen zijn in bepaalde scenario's praktischer dan app-bediening​. Daarom dat we verder zullen werken met een beter gedachte hybride systeem van app en product.
+
 #### 3. Effectiviteit van signalen
-- Visueel (leds)
-- Auditief (speaker)
-- Tactiel (trilling)
-...
+- Visueel (leds): Lichtpatronen werden als effectief ervaren bij ademhalingsbegeleiding. We zullen voor volgende iteraties kijken naar de mogelijkheid om de lichtpatronen oefening via de app te doen om te zorgen dat de gebruiker deze testen met discretie kan voltooien.
+- Auditief (speaker): Natuurlijke geluiden, zoals het geluid van de zee, bleken rustgevend en intuïtief​.
+- Tactiel (trilling): Trillingen waren nuttig voor sommigen, maar storend voor anderen, wat de noodzaak van personalisatie onderstreept​. 
+
 #### 4. Personalisatie
-...
+Gebruikers hechten veel waarde aan de mogelijkheid om instellingen zoals lichtintensiteit, geluidsvolume en trillingspatronen aan te passen via de app​.
+
 #### 5. App
+In een drukke omgeving bleek fysieke bediening op het apparaat zelf sneller en intuïtiever, terwijl in rustigere omgevingen app-bediening meer flexibiliteit bood​.
 
-Drukke ruimte's => geen app
-
-in een rustige omgeving => "hybride systeem" met de app als een extra
-...
+Deze inzichten tonen aan dat een hybride aanpak, waarbij zowel fysieke knoppen als app-functionaliteit worden geïntegreerd, de meeste gebruikersvoordelen biedt. De combinatie van visuele, auditieve en tactiele feedback, samen met personalisatiemogelijkheden, vormt de kern van een effectief ontwerp voor het product.
 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Uit de Definition-fase blijkt dat gebruiksvriendelijkheid, discretie, en personalisatie de kernpijlers vormen voor een effectief hulpmiddel bij paniekaanvallen. Het apparaat moet intuïtief en direct bruikbaar zijn, zonder ingewikkelde handelingen, vooral tijdens een paniekaanval. Daarnaast moet het ontwerp zoal de interactiemethoden discreet en draagbaar zijn, zodat gebruikers zich comfortabel voelen bij gebruik in zowel publieke als privéomgevingen​.
+De combinatie van visuele, auditieve en tactiele signalen bleek het beste te zijn om de ademhalingsoefeningen te voltooien. Visuele lichtpatronen en natuurlijke geluiden, zoals het geluid van de zee, werden als bijzonder rustgevend ervaren. Tactiele signalen, zoals trillingen, boden potentieel, maar waren niet voor iedereen even effectief​.
+Personalisatie via een mobiele app werd gezien als een cruciale toevoeging. Gebruikers willen instellingen zoals lichtintensiteit, geluidsvolume en trillingspatronen kunnen aanpassen aan hun persoonlijke voorkeuren​. Verder bleek uit scenario-tests dat fysieke bedieningen praktischer zijn in drukke omgevingen, terwijl app-functionaliteit meer flexibiliteit biedt in rustige settings​.
 
-Het product moet onmiddellijk bruikbaar zijn, vooral tijdens een paniekaanval.
-Zowel het ontwerp als de interactiemethoden moeten subtiel en onopvallend zijn.
-Een combinatie van visuele, auditieve en tactiele signalen biedt de beste ondersteuning​.
-De mogelijkheid om instellingen aan te passen via een app verhoogt de bruikbaarheid en tevredenheid van de gebruiker​.
-In een publieke ruimte zijn directe fysieke knoppen handiger, terwijl in een rustige ruimte app-bediening meer flexibiliteit biedt​.
-
-...
+De implicaties voor het ontwerp zijn duidelijk: het product moet een hybride interactiemodel combineren, waarbij fysieke bediening en app-functionaliteit samenwerken. Daarnaast is verdere verfijning van de feedbacksignalen noodzakelijk, zodat ze effectief zijn zonder overweldigend te worden.
+Door deze inzichten actief te integreren in het ontwerp, kan Chill Pill uitgroeien tot een intuïtief, discreet en veelzijdig hulpmiddel dat niet alleen paniekaanvallen ondersteunt, maar ook bijdraagt aan het verminderen van de druk op de zorgsector.
 
 ## Bill of materials
-
 <p align=center>  
   <img src="fotos/schema_BillOfMaterials.png") alt=testlocatie width=50% />
 </p>
-
 
 <table align=center>
         <tr>
