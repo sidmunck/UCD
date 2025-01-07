@@ -22,9 +22,6 @@ Het doel van dit onderzoek is een product te ontwikkelen dat beter aansluit bij 
 
 Maar liefst twaalf procent van de Vlaamse bevolking kampt met angststoornissen, waarvan de paniekstoornis deel uit maakt. Met dit project ligt de focus dus op het ontwikkelen van een product dat mensen met paniekaanvallen beter kan ondersteunen waardoor ze er op een zelfstandige manier beter met kunnen leren omgaan. 
 
-> [!NOTE]
-> - Bron voor percentages moet er nog bij (https://vvkp.be/nieuws/ook-de-wachtlijst-vol)
-
 Ondanks dat er al veel verschillende bestaande hulpmiddelen op de markt zijn, voldoen ze vaak niet specifiek aan de behoeften van de gebruiker. Ook bestaan er nog geen hulpmiddelen die paniekaanvallen van aan de bron aanpakken, dit met een techniek die tijdens de behandelingssessie van klinische psychologen gebruikt wordt. 
 Dankzij de app die bij het product hoort, kan de gebruiker het toestel meer personaliseren naar zijn/haar noden en uitzoeken wat de meest effectieve methode is om met paniekaanvallen om te gaan. 
 
@@ -49,11 +46,11 @@ Wij formuleerden de opdracht uiteindelijk als: "Hoe kunnen we op een betere mani
 ### Materiaal en methoden
 Na het bepalen van een doelgroep werd er doormiddel van deskresearch en gebruikersinterviews inzicht verkregen in het probleem. 
 
-Uit de Public Health Monitor 2023 kwamen een aantal zeer schokkende cijfers naar boven. Maar liefst 22% van de Vlaamse bevolking kampt met psychische stoornissen, waarvan 12% met angststoornissen. Een paniekstoornis is een onderdeel binnen de angststoornissen. 
+Uit de Public Health Monitor 2023 kwamen een aantal zeer schokkende cijfers naar boven. Maar liefst 22% van de Vlaamse bevolking kampt met psychische stoornissen, waarvan 12% met angststoornissen[^2]. Een paniekstoornis is een onderdeel binnen de angststoornissen. 
 Naast online naar cijfers zoeken werd er ook een benchmarking onderzoek (n=10) uitgevoerd naar de reeds bestaande hulpmiddelen voor paniekaanvallen. Dit was belangrijk om een beter inzicht te krijgen in welke methoden door de mens als goed werden gezien en welke juist absoluut niet.
 Hierbij werd gekeken naar wat het product net zo goed of slecht maakt en wat de speciale eigenschappen van het product zijn. Uit deze reeds bestaande producten kunnen we eventueel enkele elementen laten terug komen in ons eigen product. 
-> [!NOTE]
-> - Bron voor percentages moet er nog bij (https://www.zorgneticuro.be/sites/default/files/publication/2024-02/De%20mythes%20bevraagd.%20Resultaten%20van%20de%20Public%20Mental%20Health%20Monitor%202023.pdf)
+
+[^2]: Zorgnet-Icuro. (2023). De mythes bevraagd: Resultaten van de Public Mental Health Monitor 2023. Zorgnet-Icuro. https://www.zorgneticuro.be/sites/default/files/publication/2024-02/De%20mythes%20bevraagd.%20Resultaten%20van%20de%20Public%20Mental%20Health%20Monitor%202023.pdf
 
 Ook werden er drie gebruikersinterviews afgelegd. Hiervan zijn het protocol, rapport en informed consent terug te vinden in de bijlagen. 
 Om het interview op te stellen werd er gestart vanuit de onderzoeksvraag: “Hoe kunnen technologie-gebaseerde zelfhulpmiddelen effectief worden ingezet om mensen met paniekaanvallen beter te ondersteunen en tegelijkertijd de druk op de wachtlijsten voor psychologische hulp te verminderen?”. Ook werd er dieper ingegaan op de vragen: “Wat zijn de belangrijkste voorwaarden waaraan het product moet voldoen?” en “Welke oplossingen bestaan er nu al? En wat is er goed/slecht aan?”.
