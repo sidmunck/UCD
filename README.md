@@ -82,7 +82,7 @@ De bedoeling is om naar de sterke en zwakke punten te zoeken en op deze manier e
 ### Materiaal & methoden
 Om de doelstellingen van de Definition-fase te bereiken, werd gebruikgemaakt van een combinatie van onderzoeksmethoden:
 #### 1. Gebruikertesten
-Er werden twee waves uitgevoerd waarin telkens zeven respondenten werden geïnterviewd en prototypes zouden uittesten. Bij elke wave werd de focus op een ander aspect gelegd. Gebruikers konden hun verwachtingen, behoeften en frustraties in kaart brengen.
+Er werden twee waves uitgevoerd waarin telkens zeven respondenten werden geïnterviewd en prototypes moesten uittesten. Bij elke wave werd de focus op een ander aspect gelegd. Gebruikers konden hun verwachtingen, behoeften en frustraties in kaart brengen.
 Bij de eerste wave lag de focus op verschillende manieren om ademhalingsoefeningen aan te brengen. Het uitvoeren van ademhalingsoefeningen is de meest gebruikte manier om rust terug te vinden bij het hebben van paniek. Dit kan zeer discreet en overal worden uitgevoerd, een belangrijke factor in wat het product uiteindelijk ook moet kunnen. 
 Met behulp van low-fidelity prototypes konden de respondenten met behulp van kleuren, trillingen, geluid van de zee, klok, timer of stem de ademhalingsoefeningen uitvoeren. 
 (foto’s gebruikers die deze testen uitvoeren + foto’s van deze prototypes)
