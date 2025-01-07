@@ -170,5 +170,6 @@ Max. 500 woorden
 
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+[^1]: Vlaamse Vereniging van Klinisch Psychologen. (2023). Ook de wachtlijst vol. Vlaamse Vereniging van Klinisch Psychologen. https://vvkp.be/nieuws/ook-de-wachtlijst-vol
 
 ## Bijlagen
