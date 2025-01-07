@@ -193,7 +193,7 @@ $^2$ Zorgnet-Icuro. (2023). De mythes bevraagd: Resultaten van de Public Mental 
 storyboards:
 
 ![methodologie](https://github.com/MattizV/UCD/blob/main/fotos/moodboard_aula.jpg)
-Storyboard: Gebruik in een drukke ruimte
+Storyboard: Remmie gebruiken in een drukke ruimte
 
 ![methodologie](https://github.com/MattizV/UCD/blob/main/fotos/moodboard_thuis.jpg)
 Storyboard: Remmie gebruiken als hulpmiddel om met angst te leren omgaan
