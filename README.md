@@ -165,7 +165,22 @@ Designrequirements:
     </table>
 
 ## Kritische reflectie
-Max. 500 woorden
+In deze reflectie blikken we terug naar het eerste semester van het project ‘Werkbaar werk in de zorg’. Het project bracht een grote uitdaging met zich mee die ons veel heeft geleerd, maar ons ook waardevolle inzichten heeft gegeven. Het heeft ons laten beseffen waar we in de toekomst beter op moeten letten. Het was een leerproces waar we alle drie heel wat kennis uit hebben gehaald die in onze verdere carrière zeker nog van pas zal komen. 
+
+De sterkste eigenschap van ons team is planning. Naast de deadline voor de opdracht, werden er wekelijks deadlines voor elke teamlid opgelegd. Deze werden meestal gehaald waardoor er in de blok heel wat tijd werd gewonnen. 
+
+Een ander belangrijk aspect binnen het team is het feit dat elk teamlid zijn/haar kennis op zijn/haar eigen manier heeft kunnen toepassen. Zo zijn er teamleden die beter zijn met computers, teksten schrijven, tekenen… Deze talenten werden op voorhand besproken en op deze manier kreeg iedereen telkens opdrachten die aanleunden bij waar ze net goed in waren. Dit zorgde niet alleen voor een efficiënter proces, maar ook tilde het de kwaliteit van ons project naar een hoger niveau.
+
+Een uitdaging voor het team was het nemen van initiatief en het betreden van onbekend terrein. Zo duurde het telkens heel lang voordat er naar een volgende fase in het project kon worden gedaan. Er was sprake van veel twijfel en de knoop doorhakken leek voor iedereen best moeilijk. Eens dat we dan met een nieuwe fase van het proces bezig waren, liep alles meestal weer vlot. 
+
+Een grote fout die we in het begin maakten, en waar we ook zeer veel tijd mee zijn verloren, is het focussen op de vorm van het product en plaatsing van de knoppen. We dachten op dat moment even niet helder na maar gelukkig konden we op tijd van deze denkwijze afstappen, het roer omgooien en een volledig nieuwe wave uitschrijven. 
+
+Dit project heeft ons alle drie heel wat geleerd. Het onderbouwen, kritisch nadenken, reflecteren en grondig onderzoek doen zijn zeer belangrijke aspecten die we in het begin van het semester nog niet echt grondig gebruikten. Door het proces te doorlopen is het duidelijk geworden dat deze heel belangrijk zijn en hebben we onze focus hier dan ook op gelegd. 
+
+Ook leerde dit proces ons hoe we moesten omgaan met onverwachte wijzigingen. In plaats van in paniek over te gaan, zijn we hier constructief met aan de slag gegaan en hebben we er uiteindelijk toch nog iets van kunnen maken. 
+
+Momenteel is het project ‘Werkbaar werk in de zorg’ al een zeer leerrijk traject geweest. Met behulp van de nieuw verkregen kennis zijn we stap voor stap een beetje meer klaar voor de toekomst. 
+
 
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
