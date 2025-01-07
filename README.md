@@ -15,7 +15,8 @@ Dit apparaat biedt ook diverse mogelijkheden om paniekaanvallen te leren beheers
 
 
 ## Introductie
-Het aantal mensen dat terecht komt in de psychologische zorg stijgt, dit komt door het groeiende bewustzijn rond mentale gezondheid, minder stigma en een steeds meer toenemende stress in de samenleving. Deze stijging leidt tot een verhoging van de druk binnen de zorgsector. Dit is duidelijk op te merken aan de lange wachtlijsten om bij psychologen binnen te geraken, die soms zelfs gepaard gaan met een aanmeldingsstop. 
+Het aantal mensen dat terecht komt in de psychologische zorg stijgt, dit komt door het groeiende bewustzijn rond mentale gezondheid, minder stigma en een steeds meer toenemende stress in de samenleving. Deze stijging leidt tot een verhoging van de druk binnen de zorgsector. Dit is duidelijk op te merken aan de lange wachtlijsten om bij psychologen binnen te geraken, die soms zelfs gepaard gaan met een aanmeldingsstop [^1]. 
+[^1]: Vlaamse Vereniging van Klinisch Psychologen. (2023). Ook de wachtlijst vol. Vlaamse Vereniging van Klinisch Psychologen. https://vvkp.be/nieuws/ook-de-wachtlijst-vol
 
 Het doel van dit onderzoek is een product te ontwikkelen dat beter aansluit bij de behoeften van de gebruikers en gebruiker kan helpen bij het zelfstandig verhelpen van paniekaanvallen. Op deze manier is er minder regelmatig een bezoek aan een psycholoog nodig waardoor dit op termijn voorzichtig kan bijdragen aan het verkorten van de wachtlijsten. 
 
