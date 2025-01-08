@@ -183,8 +183,6 @@ Momenteel is het project ‘Werkbaar werk in de zorg’ al een zeer leerrijk tra
 
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
-
 $^1$ Vlaamse Vereniging van Klinisch Psychologen. (2023). Ook de wachtlijst vol. Vlaamse Vereniging van Klinisch Psychologen. https://vvkp.be/nieuws/ook-de-wachtlijst-vol
 
 $^2$ Zorgnet-Icuro. (2023). De mythes bevraagd: Resultaten van de Public Mental Health Monitor 2023. Zorgnet-Icuro. https://www.zorgneticuro.be/sites/default/files/publication/2024-02/De%20mythes%20bevraagd.%20Resultaten%20van%20de%20Public%20Mental%20Health%20Monitor%202023.pdf
