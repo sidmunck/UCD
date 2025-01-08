@@ -15,7 +15,7 @@ Dit apparaat biedt ook diverse mogelijkheden om paniekaanvallen te leren beheers
 
 
 ## Introductie
-Het aantal mensen dat terecht komt in de psychologische zorg stijgt, dit komt door het groeiende bewustzijn rond mentale gezondheid, minder stigma en een steeds meer toenemende stress in de samenleving. Deze stijging leidt tot een verhoging van de druk binnen de zorgsector. Dit is duidelijk op te merken aan de lange wachtlijsten om bij psychologen binnen te geraken, die soms zelfs gepaard gaan met een aanmeldingsstop $^1$. 
+Het aantal mensen dat terecht komt in de psychologische zorg stijgt, dit komt door het groeiende bewustzijn rond mentale gezondheid, minder stigma en een steeds meer toenemende stress in de samenleving. Deze stijging leidt tot een verhoging van de druk binnen de zorgsector. Dit is duidelijk op te merken aan de lange wachtlijsten om bij psychologen binnen te geraken, die soms zelfs gepaard gaan met een aanmeldingsstop [^1]. 
 
 
 Het doel van dit onderzoek is een product te ontwikkelen dat beter aansluit bij de behoeften van de gebruikers en gebruiker kan helpen bij het zelfstandig verhelpen van paniekaanvallen. Op deze manier is er minder regelmatig een bezoek aan een psycholoog nodig waardoor dit op termijn voorzichtig kan bijdragen aan het verkorten van de wachtlijsten. 
@@ -46,7 +46,7 @@ Wij formuleerden de opdracht uiteindelijk als: "Hoe kunnen we op een betere mani
 ### Materiaal en methoden
 Na het bepalen van een doelgroep werd er doormiddel van deskresearch en gebruikersinterviews inzicht verkregen in het probleem. 
 
-Uit de Public Health Monitor 2023 kwamen een aantal zeer schokkende cijfers naar boven. Maar liefst 22% van de Vlaamse bevolking kampt met psychische stoornissen, waarvan 12% met angststoornissen $^2$. Een paniekstoornis is een onderdeel binnen de angststoornissen. 
+Uit de Public Health Monitor 2023 kwamen een aantal zeer schokkende cijfers naar boven. Maar liefst 22% van de Vlaamse bevolking kampt met psychische stoornissen, waarvan 12% met angststoornissen [^2]. Een paniekstoornis is een onderdeel binnen de angststoornissen. 
 Naast online naar cijfers zoeken werd er ook een benchmarking onderzoek (n=10) uitgevoerd naar de reeds bestaande hulpmiddelen voor paniekaanvallen. Dit was belangrijk om een beter inzicht te krijgen in welke methoden door de mens als goed werden gezien en welke juist absoluut niet.
 Hierbij werd gekeken naar wat het product net zo goed of slecht maakt en wat de speciale eigenschappen van het product zijn. Uit deze reeds bestaande producten kunnen we eventueel enkele elementen laten terug komen in ons eigen product. 
 
@@ -183,9 +183,9 @@ Momenteel is het project ‘Werkbaar werk in de zorg’ al een zeer leerrijk tra
 
 
 ## Bronnen
-$^1$ Vlaamse Vereniging van Klinisch Psychologen. (2023). Ook de wachtlijst vol. Vlaamse Vereniging van Klinisch Psychologen. https://vvkp.be/nieuws/ook-de-wachtlijst-vol
+[^1]: Vlaamse Vereniging van Klinisch Psychologen. (2023). Ook de wachtlijst vol. Vlaamse Vereniging van Klinisch Psychologen. https://vvkp.be/nieuws/ook-de-wachtlijst-vol
 
-$^2$ Zorgnet-Icuro. (2023). De mythes bevraagd: Resultaten van de Public Mental Health Monitor 2023. Zorgnet-Icuro. https://www.zorgneticuro.be/sites/default/files/publication/2024-02/De%20mythes%20bevraagd.%20Resultaten%20van%20de%20Public%20Mental%20Health%20Monitor%202023.pdf
+[^2]: Zorgnet-Icuro. (2023). De mythes bevraagd: Resultaten van de Public Mental Health Monitor 2023. Zorgnet-Icuro. https://www.zorgneticuro.be/sites/default/files/publication/2024-02/De%20mythes%20bevraagd.%20Resultaten%20van%20de%20Public%20Mental%20Health%20Monitor%202023.pdf
 
 ## Bijlagen
 storyboards:
