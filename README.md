@@ -90,7 +90,7 @@ Met behulp van low-fidelity prototypes konden de respondenten met behulp van kle
 <p align=center>  
   <img src="fotos/tril_prototype.jpg") alt=testlocatie width=50% />
 </p>
-
+ 
 In de tweede wave lag de focus op het onderzoeken of een bijhorende app een absolute must zou zijn of net niet. Hiervoor werden drie prototypes gemaakt: één zonder app, een hybride-versie en een volledig app-gebaseerd. Deze prototypes werden in gesimuleerde scenario’s, zoals een drukke openbare ruimte en een rustige omgeving, getest. Respondenten moesten bepaalde oefeningen opstarten, geluiden aanpassen of trillingen activeren.
 
 
