@@ -137,7 +137,7 @@ Designrequirements:
 -	Eventueel gebruikte LED lampjes moeten ook zichtbaar zijn overdag.
 
 Uit deze requirements kan er al een schts gemaakt worden van hoe het product er mogelijks zou uitzien:
-![methodologie](https://github.com/MattizV/UCD/blob/main/fotos/moodboard_aula.jpg](https://github.com/MattizV/UCD/blob/main/fotos/sketch_remmie.pdf)
+![methodologie](https://github.com/MattizV/UCD/blob/main/fotos/sketch_remmie.pdf)
 
 ## Bill of materials
 <p align=center>  
