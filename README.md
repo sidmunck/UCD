@@ -89,7 +89,9 @@ In de tweede wave lag de focus op het onderzoeken of een bijhorende app een abso
 (foto’s van gebruikers die dit uitvoeren + beeldmateriaal prototypes)
 
 ![definition](https://github.com/MattizV/UCD/blob/main/fotos/komt nog.png) 
-![definition](https://github.com/MattizV/UCD/blob/main/fotos/komt nog.png) 
+<p align=center>  
+  <img src="fotos/device_input.png") alt=testlocatie width=50% />
+</p>
 
 Tijdens deze gebruikerstesten werd er gebruik gemaakt van role-playing. Op deze manier kon er snel en intuïtief worden getest hoe de prototypes gebruikt konden worden in geval van paniek. Elke respondent tekende vooraf een informed consent.
 
