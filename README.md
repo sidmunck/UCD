@@ -138,7 +138,7 @@ Designrequirements:
 
 Uit deze requirements kan er al een schts gemaakt worden van hoe het product er mogelijks zou uitzien:
 <p align=center>  
-  <img src="fotos/sketch_remmie.pdf") alt=testlocatie width=50% />
+  <img src="fotos/sketch_remmie.pdf") alt=testlocatie />
 </p>
 
 ## Bill of materials
