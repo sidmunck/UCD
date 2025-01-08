@@ -83,7 +83,10 @@ Er werden twee waves uitgevoerd waarin telkens zeven respondenten werden geïnte
 Bij de eerste wave lag de focus op verschillende manieren om ademhalingsoefeningen aan te brengen. Het uitvoeren van ademhalingsoefeningen is de meest gebruikte manier om rust terug te vinden bij het hebben van paniek. Dit kan zeer discreet en overal worden uitgevoerd, een belangrijke factor in wat het product uiteindelijk ook moet kunnen. 
 Met behulp van low-fidelity prototypes konden de respondenten met behulp van kleuren, trillingen, geluid van de zee, klok, timer of stem de ademhalingsoefeningen uitvoeren. 
 (foto’s gebruikers die deze testen uitvoeren + foto’s van deze prototypes)
-![definition](https://github.com/MattizV/UCD/blob/main/fotos/komt nog.png) 
+
+<p align=center>  
+  <img src="fotos/device_test_wave1.png") alt=testlocatie width=50% />
+</p>
 ![definition](https://github.com/MattizV/UCD/blob/main/fotos/komt nog.png) 
 In de tweede wave lag de focus op het onderzoeken of een bijhorende app een absolute must zou zijn of net niet. Hiervoor werden drie prototypes gemaakt: één zonder app, een hybride-versie en een volledig app-gebaseerd. Deze prototypes werden in gesimuleerde scenario’s, zoals een drukke openbare ruimte en een rustige omgeving, getest. Respondenten moesten bepaalde oefeningen opstarten, geluiden aanpassen of trillingen activeren.
 (foto’s van gebruikers die dit uitvoeren + beeldmateriaal prototypes)
