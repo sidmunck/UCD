@@ -136,6 +136,10 @@ Designrequirements:
 -	Het product moet onopvallend kunnen worden gebruikt. 
 -	Eventueel gebruikte LED lampjes moeten ook zichtbaar zijn overdag.
 
+Uit deze requirements kan er al een schts gemaakt worden van hoe het product er mogelijks zou uitzien:
+<p align=center>  
+  <img src="fotos/sketch_remmie.pdf") alt=testlocatie width=50% />
+</p>
 
 ## Bill of materials
 <p align=center>  
