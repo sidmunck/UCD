@@ -88,7 +88,13 @@ Met behulp van low-fidelity prototypes konden de respondenten met behulp van kle
 In de tweede wave lag de focus op het onderzoeken of een bijhorende app een absolute must zou zijn of net niet. Hiervoor werden drie prototypes gemaakt: één zonder app, een hybride-versie en een volledig app-gebaseerd. Deze prototypes werden in gesimuleerde scenario’s, zoals een drukke openbare ruimte en een rustige omgeving, getest. Respondenten moesten bepaalde oefeningen opstarten, geluiden aanpassen of trillingen activeren.
 (foto’s van gebruikers die dit uitvoeren + beeldmateriaal prototypes)
 
-![definition](https://github.com/MattizV/UCD/blob/main/fotos/komt nog.png) 
+
+
+
+
+<p align=center>  
+  <img src="fotos/device_test_wave2.png") alt=testlocatie width=50% />
+</p>
 <p align=center>  
   <img src="fotos/device_input.png") alt=testlocatie width=50% />
 </p>
