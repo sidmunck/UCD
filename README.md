@@ -56,7 +56,7 @@ Om het interview op te stellen werd er gestart vanuit de onderzoeksvraag: “Hoe
 
 Uit de verzamelde inzichten konden de steeds herhalende antwoorden worden geclusterd, deze vormen dan ook de basis van het product. In de tabel zijn verschillende functies geordend op hoe belangrijk ze worden gezien door de gebruiker. De meest belangrijke elementen zijn dus discretie, compactheid en gebruiksgemak.
 
-![methodologie](https://github.com/MattizV/UCD/blob/main/fotos/grafiek.png)
+![functies](https://github.com/MattizV/UCD/blob/main/fotos/grafiek.png)
 
 ### Resultaten
 Met de verkregen informatie uit de interviews kon er een rapport, een persona en een WWWWWH model worden opgesteld. 
@@ -137,7 +137,7 @@ Designrequirements:
 -	Eventueel gebruikte LED lampjes moeten ook zichtbaar zijn overdag.
 
 Uit deze requirements kan er al een schts gemaakt worden van hoe het product er mogelijks zou uitzien:
-![methodologie](https://github.com/MattizV/UCD/blob/main/fotos/sketch_remmie.pdf)
+![sketch_remmie](https://github.com/MattizV/UCD/blob/main/fotos/sketch_remmie.pdf)
 
 ## Bill of materials
 <p align=center>  
@@ -208,8 +208,8 @@ Momenteel is het project ‘Werkbaar werk in de zorg’ al een zeer leerrijk tra
 ## Bijlagen
 storyboards:
 
-![methodologie](https://github.com/MattizV/UCD/blob/main/fotos/moodboard_aula.jpg)
+![storyboard_1](https://github.com/MattizV/UCD/blob/main/fotos/moodboard_aula.jpg)
 Storyboard: Remmie gebruiken in een drukke ruimte
 
-![methodologie](https://github.com/MattizV/UCD/blob/main/fotos/moodboard_thuis.jpg)
+![storyboard_2](https://github.com/MattizV/UCD/blob/main/fotos/moodboard_thuis.jpg)
 Storyboard: Remmie gebruiken als hulpmiddel om met angst te leren omgaan
