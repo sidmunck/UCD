@@ -195,7 +195,7 @@ Na het doorzoeken van de DINBelg 2005 [^3] en een ander zeer interessant artikel
 
 ![9%20prototypes%20rij](https://github.com/MattizV/UCD/blob/main/fotos/9%20prototypes%20rij.png)
 
-FOTO 9 PROTOTYPES + FOTO HANDAFMETINGEN
+![tabelhanden](https://github.com/MattizV/UCD/blob/main/fotos/tabelhanden.png)
 
 Als evaluatie methode voor dit onderzoek werd er gebruik gemaakt van de Comfort Questionnaire for Hand Tools (CQH). Deze vragenlijst wordt gebruikt om het comfort van handgereedschappen te beoordelen en heeft dus in zekere mate enkele gelijkenissen met het doel van deze test. 
 De testen vonden plaats in een huiselijke omgeving waarbij de testpersoon elk prototype één voor één moest vasthouden en gebruiken. Het Think Aloud protocl, en later het Question Asking protocol, werden toegepast. Ook werd er gevraagd aan de testpersoon het prototype als zitten, wandelend... te gebruiken aangezien dit product in elke mogelijke context gebruikt zal kunnen worden.
