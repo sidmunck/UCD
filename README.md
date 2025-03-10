@@ -193,6 +193,8 @@ De eerste stap binnen de developing fase is het bepalen van de optimale grootte 
 Voor dit onderzoek werden negen verschillende prototypes uitgeprint met een 3D printer in PLA. Alvorens deze prototypes konden worden gemaakt, werd er een vooronderzoek gedaan naar de antropometrie. Hierbij werd er gezocht naar wat de afmetingen zijn voor handen van vrouwen en mannen gecombineerd, binnen een leeftijdscategorie van 18 - 65 jaar. 
 Na het doorzoeken van de DINBelg 2005 [^3] en een ander zeer interessant artikel [^4] over het onderzoek naar afmetingen van 'hand tools' werden er de eerste ideeën uitgewisseld. 
 
+![9%20prototypes%20rij](https://github.com/MattizV/UCD/blob/main/fotos/9%20prototypes%20rij.png)
+
 FOTO 9 PROTOTYPES + FOTO HANDAFMETINGEN
 
 Als evaluatie methode voor dit onderzoek werd er gebruik gemaakt van de Comfort Questionnaire for Hand Tools (CQH). Deze vragenlijst wordt gebruikt om het comfort van handgereedschappen te beoordelen en heeft dus in zekere mate enkele gelijkenissen met het doel van deze test. 
