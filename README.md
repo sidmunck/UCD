@@ -182,6 +182,30 @@ Uit deze requirements kan er al een schts gemaakt worden van hoe het product er 
         </tr>
     </table>
 
+## Developing
+In de developing fase ligt de focus meer op het optimaliseren van de fysieke ergonomie, de cognitieve en de sensoriële ergonomie. Dit wil zeggen dat er wordt gewerkt naar een verfijning van het product. Er zal worden gefocust op verschillende lichaamsgerelateerde maten voor het ontwerp. Ook zal het gebruiksgemak en de functionaliteit geoptimaliseerd worden. 
+
+### Antropometrie
+#### Doelstellingen
+De eerste stap binnen de developing fase is het bepalen van de optimale grootte en vorm van het product. Er wordt op zoek gegaan naar welke vormen als aangenaam worden ervaren door de gebruikers en welke absoluut niet. Dit in combinatie met het zoeken naar afmetingen die voor een zo groot mogelijke groep van gebruikers als aangenaam worden ervaren. 
+
+#### Materiaal & methoden
+Voor dit onderzoek werden negen verschillende prototypes uitgeprint met een 3D printer in PLA. Alvorens deze prototypes konden worden gemaakt, werd er een vooronderzoek gedaan naar de antropometrie. Hierbij werd er gezocht naar wat de afmetingen zijn voor handen van vrouwen en mannen gecombineerd, binnen een leeftijdscategorie van 18 - 65 jaar. 
+Na het doorzoeken van de DINBelg 2005 [^3] en een ander zeer interessant artikel [^4] over het onderzoek naar afmetingen van 'hand tools' werden er de eerste ideeën uitgewisseld. 
+
+FOTO 9 PROTOTYPES + FOTO HANDAFMETINGEN
+
+Als evaluatie methode voor dit onderzoek werd er gebruik gemaakt van de Comfort Questionnaire for Hand Tools (CQH). Deze vragenlijst wordt gebruikt om het comfort van handgereedschappen te beoordelen en heeft dus in zekere mate enkele gelijkenissen met het doel van deze test. 
+De testen vonden plaats in een huiselijke omgeving waarbij de testpersoon elk prototype één voor één moest vasthouden en gebruiken. Het Think Aloud protocl, en later het Question Asking protocol, werden toegepast. Ook werd er gevraagd aan de testpersoon het prototype als zitten, wandelend... te gebruiken aangezien dit product in elke mogelijke context gebruikt zal kunnen worden.
+Per prototype werd de CQH ook ingevuld. Met behulp van deze verkregen informatie konden de prototypes uiteindelijk door middel van hun gemiddelde scores onderling vergeleken worden. 
+
+#### Resultaten
+Kort samengevat kon er worden vastgesteld dat prototype 5 het beste scoorde over de hele lijn tijdens de test. Deze verkregen informatie in combinatie met de informatie die werd verkregen bij de andere prototypes, maakte het mogelijk om enkele nieuwe design requirements op te stellen. 
+
+De reden waarom prototype 5 beter scoorde dan de overige prototypes is dat het zeer goed scoorde op gebied van gebruiksgemak, grip en algemeen comfort. Dit zijn drie zeer belangrijke punten, aangezien de gebruiker zich vertrouwd moet kunnen voelen met het product. Het product moet dienen als steunpunt in moeilijke situaties waarop de gebruiker volledig kan vertrouwen.
+
+LIJST NIEUWE DESIGN REQUIREMENTS
+
 ## Kritische reflectie
 In deze reflectie blikken we terug naar het eerste semester van het project ‘Werkbaar werk in de zorg’. Het project bracht een grote uitdaging met zich mee die ons veel heeft geleerd, maar ons ook waardevolle inzichten heeft gegeven. Het heeft ons laten beseffen waar we in de toekomst beter op moeten letten. Het was een leerproces waar we alle drie heel wat kennis uit hebben gehaald die in onze verdere carrière zeker nog van pas zal komen. 
 
@@ -204,6 +228,10 @@ Momenteel is het project ‘Werkbaar werk in de zorg’ al een zeer leerrijk tra
 [^1]: Vlaamse Vereniging van Klinisch Psychologen. (2023). Ook de wachtlijst vol. Vlaamse Vereniging van Klinisch Psychologen. https://vvkp.be/nieuws/ook-de-wachtlijst-vol
 
 [^2]: Zorgnet-Icuro. (2023). De mythes bevraagd: Resultaten van de Public Mental Health Monitor 2023. Zorgnet-Icuro. https://www.zorgneticuro.be/sites/default/files/publication/2024-02/De%20mythes%20bevraagd.%20Resultaten%20van%20de%20Public%20Mental%20Health%20Monitor%202023.pdf
+
+[^3]: Dinbelg. (2005). Volwassenentotaal. Geraadpleegd op 6 maart 2025, van https://www.dinbelg.be/volwassenentotaal.htm 
+
+[^4]: Makkes van der Deijl, G. B., & Panfilov, A. V. (2007). Formation of fast spirals on heterogeneities of an excitable medium. Physica D: Nonlinear Phenomena, 231(2), 112–120. https://doi.org/10.1016/j.physd.2006.09.019 
 
 ## Bijlagen
 storyboards:
