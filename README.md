@@ -199,7 +199,7 @@ Na het doorzoeken van de DINBelg 2005 [^3] en een ander zeer interessant artikel
 In dit onderzoek wordt er gefocust op 'design for the mean'. Dit wil zeggen dat het product voor 90% van de gebruikers aangenaam moet zijn om vast te houden. Het is belangrijk dat iedereen het apparaat kan vasthouden, maar niet iedereen moet dit op een optimale manier kunnen. Gebruikers met kleinere of grotere handen zullen zeker in staat zijn het apparaat te gebruiken maar dit zal waarschijnlijk iets minder aangenaam zijn. 
 Bij het berekenen van P90 voor de handlengte, de belangrijkste afmeting in dit geval, bij het gebruiken van de waarden die terug werden gevonden in de DINBelg 2005 worden volgende waarden terug gevonden:
 
-P90: voor 90% => z = +1.28 (bron: Bastiaan Baccarne. (2024). Tabel 5 Populations & diversity in design + fysieke ergonomie - z-table. Cursus Gebruiksgericht Ontwerpen. [Universiteit Gent].)
+P90: voor 90% => z = +1.28 (bron: Bastiaan Baccarne. (2024). Tabel 5 Populations & diversity in design + fysieke ergonomie - z-table. Cursus Gebruiksgericht Ontwerpen.)
 
 P90 = µ + z*σ = 189 + 1.82 * 12 = 210.84 mm
 
