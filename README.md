@@ -27,7 +27,7 @@ Dankzij de app die bij het product hoort, kan de gebruiker het toestel meer pers
 
 De doelstelling is om een product te ontwikkelen dat gebruikers overal subtiel kunnen gebruiken. Het product moet in minder dan tien seconden kunnen worden opgestart en de gebruiker moet in minder dan vijf seconden zich een weg kunnen banen doorheen de user interface van de app.  
 
-## Methodologie
+## Methodologie semester 1
 Bij de start van het eerste semester werd er individueel aan een concept gewerkt. In deze fase werd er vanuit een divergerend perspectief nagedacht. Hierbij werd er uitgebreid onderzoek gedaan naar het gekozen onderwerp. Er werd een benchmarking onderzoek uitgevoerd en er werden interviews opgesteld en afgenomen (n=3). Deze interviews leverden een aantal belangrijke inzichten die zeker meespeelden bij het ontwikkelen van een eerste concept. Al deze informatie werd gebundeld in een rapport waarna uit deze bekomen info de belangrijkste aspecten konden worden bepaald. Dit werd gedaan aan de hand van een WWWWWH en een persona. 
 Op 31/11/2024 werd dit concept gepitched en werden de teams samengesteld.
 
@@ -182,6 +182,9 @@ Uit deze requirements kan er al een schts gemaakt worden van hoe het product er 
         </tr>
     </table>
 
+## Methodologie semester 2
+??
+
 ## Developing
 In de developing fase ligt de focus meer op het optimaliseren van de fysieke ergonomie, de cognitieve en de sensoriële ergonomie. Dit wil zeggen dat er wordt gewerkt naar een verfijning van het product. Er zal worden gefocust op verschillende lichaamsgerelateerde maten voor het ontwerp. Ook zal het gebruiksgemak en de functionaliteit geoptimaliseerd worden. 
 
@@ -192,6 +195,12 @@ De eerste stap binnen de developing fase is het bepalen van de optimale grootte 
 #### Materiaal & methoden
 Voor dit onderzoek werden negen verschillende prototypes uitgeprint met een 3D printer in PLA. Alvorens deze prototypes konden worden gemaakt, werd er een vooronderzoek gedaan naar de antropometrie. Hierbij werd er gezocht naar wat de afmetingen zijn voor handen van vrouwen en mannen gecombineerd, binnen een leeftijdscategorie van 18 - 65 jaar. 
 Na het doorzoeken van de DINBelg 2005 [^3] en een ander zeer interessant artikel [^4] over het onderzoek naar afmetingen van 'hand tools' werden er de eerste ideeën uitgewisseld. 
+
+In dit onderzoek wordt er gefocust op 'design for the mean'. Dit wil zeggen dat het product voor 90% van de gebruikers aangenaam moet zijn om vast te houden. Het is belangrijk dat iedereen het apparaat kan vasthouden, maar niet iedereen moet dit op een optimale manier kunnen. Gebruikers met kleinere of grotere handen zullen zeker in staat zijn het apparaat te gebruiken maar dit zal waarschijnlijk iets minder aangenaam zijn. 
+Bij het berekenen van P90 voor de handlengte, de belangrijkste afmeting in dit geval, bij het gebruiken van de waarden die terug werden gevonden in de DINBelg 2005 worden volgende waarden terug gevonden:
+P90: voor 90% => z = +1.28 (bron: Tabel 5. Populations & diversity in design + fysieke ergonomie - z-table)
+P90 = µ + z*σ = 189 + 1.82 * 12 = 210.84 mm
+Als het product zorgt dat het met een handlengte van 210.84 mm wordt gemaakt, is het op 90% van de gebruikers afgestemd.
 
 ![tabelhanden](https://github.com/MattizV/UCD/blob/main/fotos/tabelhanden.png)
 ![prototypes](https://github.com/MattizV/UCD/blob/main/fotos/prototypes.png)
