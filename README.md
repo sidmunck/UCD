@@ -206,7 +206,7 @@ P90 = µ + z*σ = 189 + 1.82 * 12 = 210.84 mm
 Als het product zorgt dat het met een handlengte van 210.84 mm wordt gemaakt, is het op 90% van de gebruikers afgestemd.
 
 ![tabelhanden](https://github.com/MattizV/UCD/blob/main/fotos/tabelhanden.png)
-![prototypes](https://github.com/MattizV/UCD/blob/main/fotos/prototypes.png)
+![volgordeprototypes](https://github.com/MattizV/UCD/blob/main/fotos/volgordeprototypes.png)
 
 Als evaluatie methode voor dit onderzoek werd er gebruik gemaakt van de Comfort Questionnaire for Hand Tools (CQH). Deze vragenlijst wordt gebruikt om het comfort van handgereedschappen te beoordelen en heeft dus in zekere mate enkele gelijkenissen met het doel van deze test. 
 De testen vonden plaats in een huiselijke omgeving waarbij de testpersoon elk prototype één voor één moest vasthouden en gebruiken. Het Think Aloud protocl, en later het Question Asking protocol, werden toegepast. Ook werd er gevraagd aan de testpersoon het prototype als zitten, wandelend... te gebruiken aangezien dit product in elke mogelijke context gebruikt zal kunnen worden.
