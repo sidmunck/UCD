@@ -221,8 +221,9 @@ Tijdens het question ask protocol kwamen er ook verschillende suggesties naar bo
 
 De reden waarom prototype 3 beter scoorde dan de overige prototypes is dat het zeer goed scoorde op gebied van gebruiksgemak, grip en algemeen comfort. Dit zijn drie zeer belangrijke punten, aangezien de gebruiker zich vertrouwd moet kunnen voelen met het product. Het product moet dienen als steunpunt in moeilijke situaties waarop de gebruiker volledig kan vertrouwen.
 
-![designrequirementDeelopdracht3](https://github.com/MattizV/UCD/blob/main/fotos/designrequirementDeelopdracht3.png)
+![tabelexcel](https://github.com/sidmunck/UCD/blob/main/fotos/tabelexcel.png)
 
+![designrequirementDeelopdracht3](https://github.com/MattizV/UCD/blob/main/fotos/designrequirementDeelopdracht3.png)
 
 ## Kritische reflectie
 In deze reflectie blikken we terug naar het eerste semester van het project ‘Werkbaar werk in de zorg’. Het project bracht een grote uitdaging met zich mee die ons veel heeft geleerd, maar ons ook waardevolle inzichten heeft gegeven. Het heeft ons laten beseffen waar we in de toekomst beter op moeten letten. Het was een leerproces waar we alle drie heel wat kennis uit hebben gehaald die in onze verdere carrière zeker nog van pas zal komen. 
