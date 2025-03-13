@@ -206,18 +206,23 @@ P90 = µ + z*σ = 189 + 1.82 * 12 = 210.84 mm
 Als het product zorgt dat het met een handlengte van 210.84 mm wordt gemaakt, is het op 90% van de gebruikers afgestemd.
 
 ![tabelhanden](https://github.com/MattizV/UCD/blob/main/fotos/tabelhanden.png)
-![volgordeprototypes](https://github.com/MattizV/UCD/blob/main/fotos/volgordeprototypes.png)
+![volgordeprototypes](https://github.com/sidmunck/UCD/blob/main/fotos/volgordeprototypes.png)
 
 Als evaluatie methode voor dit onderzoek werd er gebruik gemaakt van de Comfort Questionnaire for Hand Tools (CQH). Deze vragenlijst wordt gebruikt om het comfort van handgereedschappen te beoordelen en heeft dus in zekere mate enkele gelijkenissen met het doel van deze test. 
 De testen vonden plaats in een huiselijke omgeving waarbij de testpersoon elk prototype één voor één moest vasthouden en gebruiken. Het Think Aloud protocl, en later het Question Asking protocol, werden toegepast. Ook werd er gevraagd aan de testpersoon het prototype als zitten, wandelend... te gebruiken aangezien dit product in elke mogelijke context gebruikt zal kunnen worden.
 Per prototype werd de CQH ook ingevuld. Met behulp van deze verkregen informatie konden de prototypes uiteindelijk door middel van hun gemiddelde scores onderling vergeleken worden. 
 
 #### Resultaten
-Kort samengevat kon er worden vastgesteld dat prototype 5 het beste scoorde over de hele lijn tijdens de test. Deze verkregen informatie in combinatie met de informatie die werd verkregen bij de andere prototypes, maakte het mogelijk om enkele nieuwe design requirements op te stellen. 
+Van de negen geteste prototypes toonde prototype 3 de beste resultaten, dit met een gemiddelde van 4,86 op 7. De hoge score werd verkregen dankzij de positieve feedback over vorm en gebruiksgemak. 
+De gemiddelde scores werden berekend in een excel sheet. De negatief geformuleerde vragen werden eerst omgerekend om een correcte score te bekomen. 
+Prototype 1 scoorde ook goed, maar werd als te groot ervaren. Het ontwerp moet voor een zo groot mogelijke groep aan gebruikers bruikbaar zijn en dat is bij dit prototype dus absoluut niet het geval. Prototype 9 scoorde het minst goed door enkele ergonomische tekortkomingen. 
+De overige prototypes vertoonden gemiddelde prestaties zonder uitgesproken sterke of zwakke punten. 
+Tijdens het question ask protocol kwamen er ook verschillende suggesties naar boven die zeer interessant zouden kunnen zijn in de verdere ontwikkeling van het product. Zo werd er voorgesteld om het product niet volledig rond te laten zodat het niet kan wegrollen. Een ander voorstel was om het toestel asymmetrisch te maken waardoor de luidspreker misschien meer intuïtief werd terug gevonden in momenten van paniek. Het laatste voorstel heeft betrekking op het meenemen van het toestel. Zo zou het toevoegen van een lusje een simpele maar toch heel handige oplossing zijn om het minder snel kwijt te geraken. 
 
-De reden waarom prototype 5 beter scoorde dan de overige prototypes is dat het zeer goed scoorde op gebied van gebruiksgemak, grip en algemeen comfort. Dit zijn drie zeer belangrijke punten, aangezien de gebruiker zich vertrouwd moet kunnen voelen met het product. Het product moet dienen als steunpunt in moeilijke situaties waarop de gebruiker volledig kan vertrouwen.
+De reden waarom prototype 3 beter scoorde dan de overige prototypes is dat het zeer goed scoorde op gebied van gebruiksgemak, grip en algemeen comfort. Dit zijn drie zeer belangrijke punten, aangezien de gebruiker zich vertrouwd moet kunnen voelen met het product. Het product moet dienen als steunpunt in moeilijke situaties waarop de gebruiker volledig kan vertrouwen.
 
 ![designrequirementDeelopdracht3](https://github.com/MattizV/UCD/blob/main/fotos/designrequirementDeelopdracht3.png)
+
 
 ## Kritische reflectie
 In deze reflectie blikken we terug naar het eerste semester van het project ‘Werkbaar werk in de zorg’. Het project bracht een grote uitdaging met zich mee die ons veel heeft geleerd, maar ons ook waardevolle inzichten heeft gegeven. Het heeft ons laten beseffen waar we in de toekomst beter op moeten letten. Het was een leerproces waar we alle drie heel wat kennis uit hebben gehaald die in onze verdere carrière zeker nog van pas zal komen. 
