@@ -255,6 +255,9 @@ De benodigde tijd tot kalmering was gemiddeld 6,67 minuten. Dit toont aan dat he
 ![resultatenT](https://github.com/sidmunck/UCD/blob/main/fotos/resultatenT.png)
 ![resultatenG](https://github.com/sidmunck/UCD/blob/main/fotos/resultatenG.png)
 
+De design requirements die uit deze deelopdracht kunnen worden gehaald zijn hieronder per categorie weergegeven:
+![designr2](https://github.com/sidmunck/UCD/blob/main/fotos/designr2.png)
+
 ### The human mind
 
 ## Kritische reflectie
