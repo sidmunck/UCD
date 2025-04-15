@@ -188,7 +188,7 @@ Uit deze requirements kan er al een schts gemaakt worden van hoe het product er 
 ## Developing
 In de developing fase ligt de focus meer op het optimaliseren van de fysieke ergonomie, de cognitieve en de sensoriële ergonomie. Dit wil zeggen dat er wordt gewerkt naar een verfijning van het product. Er zal worden gefocust op verschillende lichaamsgerelateerde maten voor het ontwerp. Ook zal het gebruiksgemak en de functionaliteit geoptimaliseerd worden. 
 
-### Antropometrie
+### The human body 
 #### Doelstellingen
 De eerste stap binnen de developing fase is het bepalen van de optimale grootte en vorm van het product. Er wordt op zoek gegaan naar welke vormen als aangenaam worden ervaren door de gebruikers en welke absoluut niet. Dit in combinatie met het zoeken naar afmetingen die voor een zo groot mogelijke groep van gebruikers als aangenaam worden ervaren. 
 
@@ -224,6 +224,38 @@ De reden waarom prototype 3 beter scoorde dan de overige prototypes is dat het z
 ![tabelexcel](https://github.com/sidmunck/UCD/blob/main/fotos/tabelexcel.png)
 
 ![designrequirementDeelopdracht3](https://github.com/MattizV/UCD/blob/main/fotos/designrequirementDeelopdracht3.png)
+
+### The human senses
+#### Doelstellingen
+Het doel van deze deelopdracht is om inzichten te verwerven in hoe sensorische elementen zoals trillingen en geluid op een effectieve manier kunnen worden ingezet bij het kalmeren van personen die paniekaanvallen ervaren. Er wordt nagegaan hoe deze stimuli kunnen bijdragen aan het geven van rust, controle en comfort tijdens een paniekaanval. Er wordt onderzocht welke trilling patronen, geluiden en intensiteiten het meest geschikt zijn. 
+Dit onderzoek heeft als doel om het ontwerp van dit apparaat te optimaliseren en aan te passen aan de reële noden van de eindgebruikers in paniek situaties. 
+
+#### Materiaal en methoden
+Voor dit onderzoek werd een prototype ontwikkeld op basis van Arduino, voorzien van een trilmotor, DFPlayer, luidspreker en een interface via Protopie Connect. De testpersonen konden het prototype dus bedienen via de interface. 
+Tijdens deze test werd verschillende data verzameld, zowel objectieve parameters als subtjectieve feedback. Zo werd de hartslag van elke testpersoon voor, tijdens en na het uittesten van het prototype gemeten. Ook de tijd die de testpersoon nodig had om te kalmeren werd zorgvuldig bijgehouden. Na het uitvoeren van elke test vulden de testpersonen telkens een SAM-schaal en een SUS-schaal in. Met behulp van het Think Aloud en het Question Asking Protocol konden de gebruikers nog extra feedback en opmerkingen delen. 
+
+![prototype2](https://github.com/sidmunck/UCD/blob/main/fotos/prototype2.png)
+![interfaceT](https://github.com/sidmunck/UCD/blob/main/fotos/interfaceT.png)
+![interfaceG](https://github.com/sidmunck/UCD/blob/main/fotos/interfaceG.png)
+
+In dit onderzoek werd er gebruik gemaakt van muziek met een frequentie van 432 Hz omdat deze frequentie volgens verschillende bronnen meer in harmonie zou zijn met de natuurlijke trillingen van het menselijk lichaam en de natuur. Muziek op 432 Hz wordt vaak als zachter en rustgevender ervaren dan de standaard muziek met een frequentie van 440 Hz. Hoewel het wetenschappelijke bewijs hiervoor zeer beperkt is, wijzen verschillende praktijktoepassingen in muziektherapie op mogelijk kalmerende effecten op het zenuwstelsel. Aangezien het doel van dit toestel is om panieksymptomen te reguleren en tot rust te brengen, werd deze frequentie dus geïntegreerd als potentieel ondersteunend element. Het onderzoek hiervan is terug te vinden bij de bijlagen.
+
+![gebruikerstest2](https://github.com/sidmunck/UCD/blob/main/fotos/gebruikerstest2.png)
+
+#### Resultaten
+De resultaten tonen aan dat zowel de trilling- als de muziekfunctie van het prototype een merkbaar kalmerend effect hadden op de deelnemers. De gemiddelde hartslag daalde bij het gebruik van de trillingsfunctie van 103,67 bpm naar 66,67 bpm. Bij de muziekfunctie ging deze van 115 bpm naar 70 bpm gemiddeld. Na de test steeg de hartslag van de deelnemers telkens zacht maar bleef nogsteeds ruim onder de meting bij aanvang. Dit wijst op een blijvend rustgevend effect. 
+
+De SUS-scores lagen voor de trillingsfunctie gemiddeld op 70,8 en voor de muziekfunctie op 80. Beide liggen boven het algemeen aanvaarde gemiddelde van 68 op een score van 100. De muziekfunctie werd ook hier duidelijk als gebruiksvriendelijker ervaren. 
+De SAM-scores bevestigen dit ook. Zowel bij de trillingsfunctie als de muziekfunctie werd een positieve emotionele ervaring vastgesteld. De hoogste scores werden gehaald op vlak van valentie en controle. Twee zeer belangrijke factoren in panieksituaties. 
+
+De testpersonen gaven ook aan dat het bedienen van de app in panieksituaties niet altijd mogelijk zal zijn. Het toevoegen van een "lock"-functie, waarbij vooraf ingestelde patronen via een fysieke knop op het product worden geactiveerd, werd als noodzakelijk ervaren. Ook werd het kunnen kiezen uit meerdere patronen en het eventueel zelfstandig uploaden van muziek en trillingfrequenties als positief onthaald. 
+
+De benodigde tijd tot kalmering was gemiddeld 6,67 minuten. Dit toont aan dat het prototype zeer snel effect heeft, al blijft verder testing in echte panieksituaties nodig voor sluitende conclusies. 
+
+![resultatenT](https://github.com/sidmunck/UCD/blob/main/fotos/resultatenT.png)
+![resultatenG](https://github.com/sidmunck/UCD/blob/main/fotos/resultatenG.png)
+
+### The human mind
 
 ## Kritische reflectie
 In deze reflectie blikken we terug naar het eerste semester van het project ‘Werkbaar werk in de zorg’. Het project bracht een grote uitdaging met zich mee die ons veel heeft geleerd, maar ons ook waardevolle inzichten heeft gegeven. Het heeft ons laten beseffen waar we in de toekomst beter op moeten letten. Het was een leerproces waar we alle drie heel wat kennis uit hebben gehaald die in onze verdere carrière zeker nog van pas zal komen. 
