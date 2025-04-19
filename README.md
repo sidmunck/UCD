@@ -232,6 +232,7 @@ Dit onderzoek heeft als doel om het ontwerp van dit apparaat te optimaliseren en
 
 #### Materiaal en methoden
 Voor dit onderzoek werd een prototype ontwikkeld op basis van Arduino, voorzien van een trilmotor, DFPlayer, luidspreker en een interface via Protopie Connect. De testpersonen konden het prototype dus bedienen via de interface. 
+Eerst werd er een kleine test uitgevoerd waarin de testpersonen moesten aangeven welke trilling weergave ze het meest aangenaam vonden. Daarna vond de test met de interface plaats.
 Tijdens deze test werd verschillende data verzameld, zowel objectieve parameters als subtjectieve feedback. Zo werd de hartslag van elke testpersoon voor, tijdens en na het uittesten van het prototype gemeten. Ook de tijd die de testpersoon nodig had om te kalmeren werd zorgvuldig bijgehouden. Na het uitvoeren van elke test vulden de testpersonen telkens een SAM-schaal en een SUS-schaal in. Met behulp van het Think Aloud en het Question Asking Protocol konden de gebruikers nog extra feedback en opmerkingen delen. 
 
 ![prototype2](https://github.com/sidmunck/UCD/blob/main/fotos/prototype2.png)
@@ -243,6 +244,8 @@ In dit onderzoek werd er gebruik gemaakt van muziek met een frequentie van 432 H
 ![gebruikerstest2](https://github.com/sidmunck/UCD/blob/main/fotos/gebruikerstest2.png)
 
 #### Resultaten
+Alle drie de testpersonen gaven aan de korte trilling bij faseovergangen te verkiezen boven de continue trilling, waardoor dit patroon absoluut in het uiteindelijke ontwerp moet worden geïntegreerd.
+
 De resultaten tonen aan dat zowel de trilling- als de muziekfunctie van het prototype een merkbaar kalmerend effect hadden op de deelnemers. De gemiddelde hartslag daalde bij het gebruik van de trillingsfunctie van 103,67 bpm naar 66,67 bpm. Bij de muziekfunctie ging deze van 115 bpm naar 70 bpm gemiddeld. Na de test steeg de hartslag van de deelnemers telkens zacht maar bleef nogsteeds ruim onder de meting bij aanvang. Dit wijst op een blijvend rustgevend effect. 
 
 De SUS-scores lagen voor de trillingsfunctie gemiddeld op 70,8 en voor de muziekfunctie op 80. Beide liggen boven het algemeen aanvaarde gemiddelde van 68 op een score van 100. De muziekfunctie werd ook hier duidelijk als gebruiksvriendelijker ervaren. 
