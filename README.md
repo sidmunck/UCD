@@ -186,19 +186,19 @@ Uit deze requirements kan er al een schts gemaakt worden van hoe het product er 
 ??
 
 ## Developing
-In de developing fase ligt de focus meer op het optimaliseren van de fysieke ergonomie, de cognitieve en de sensoriële ergonomie. Dit wil zeggen dat er wordt gewerkt naar een verfijning van het product. Er zal worden gefocust op verschillende lichaamsgerelateerde maten voor het ontwerp. Ook zal het gebruiksgemak en de functionaliteit geoptimaliseerd worden. 
+In de developing fase ligt de focus meer op het optimaliseren van de fysieke ergonomie, de cognitieve en de sensoriële ergonomie. Dit wil zeggen dat er wordt gewerkt naar een verfijning van het product. Frictiepunten worden hierbij actief opgespoord en weggenomen om de gebruikservaring te optimaliseren. Er zal worden gefocust op verschillende lichaamsgerelateerde maten voor het ontwerp (rekening houdend met variatie in ergonomie zoals leeftijd, geslacht, cultuur). Ook zal het gebruiksgemak en de functionaliteit geoptimaliseerd worden (gebruikmakend van principes zoals usability en UX design). 
 
-In deze fasen wordt niet alleen aandacht besteed aan de fysieke vorm en het gebruiksgemak, maar ook aan het integreren van ondersteunende technologieën zoals feedbacksystemen en sensoren om de werking van het product te versterken.
+In deze fasen wordt niet alleen aandacht besteed aan de fysieke vorm en het gebruiksgemak, maar ook aan het integreren van ondersteunende technologieën zoals feedbacksystemen en sensoren om de werking van het product te versterken (zoals design principle: zichtbaarheid, feedback en UX design).
 
 ### The human body 
 #### Doelstellingen
-De eerste stap binnen de developing fase is het bepalen van de optimale grootte en vorm van het product. Er wordt op zoek gegaan naar welke vormen als aangenaam worden ervaren door de gebruikers en welke absoluut niet. Dit in combinatie met het zoeken naar afmetingen die voor een zo groot mogelijke groep van gebruikers als aangenaam worden ervaren. 
+De eerste stap binnen de developing fase is het bepalen van de optimale grootte en vorm van het product. Er wordt op zoek gegaan naar welke vormen als aangenaam worden ervaren door de gebruikers en welke absoluut niet. Door het herontwarren van de betrokkenen werd het duidelijk wie er allemaal geraakt werd door het product en welke ergonomische eisen zij stellen. Er wordt rekeningen gehouden met de ergonomische richtlijnen zoals antropometrie en biomechanica. Dit in combinatie met het zoeken naar afmetingen die voor een zo groot mogelijke groep van gebruikers als aangenaam worden ervaren. Het doel hiervan is om aan 'design for diveristy' te doen in plaats van 'Procrustean thinking'. 
 
 #### Materiaal & methoden
 Voor dit onderzoek werden negen verschillende prototypes uitgeprint met een 3D printer in PLA. Alvorens deze prototypes konden worden gemaakt, werd er een vooronderzoek gedaan naar de antropometrie. Hierbij werd er gezocht naar wat de afmetingen zijn voor handen van vrouwen en mannen gecombineerd, binnen een leeftijdscategorie van 18 - 65 jaar. 
 Na het doorzoeken van de DINBelg 2005 [^3] en een ander zeer interessant artikel [^4] over het onderzoek naar afmetingen van 'hand tools' werden er de eerste ideeën uitgewisseld. 
 
-In dit onderzoek wordt er gefocust op 'design for the mean'. Dit wil zeggen dat het product voor 90% van de gebruikers aangenaam moet zijn om vast te houden. Het is belangrijk dat iedereen het apparaat kan vasthouden, maar niet iedereen moet dit op een optimale manier kunnen. Gebruikers met kleinere of grotere handen zullen zeker in staat zijn het apparaat te gebruiken maar dit zal waarschijnlijk iets minder aangenaam zijn. 
+In dit onderzoek wordt er gefocust op 'design for the mean'. Dit betekent dat het product geoptimaliseerd is voor het gemiddelde van de populatie, met dekking voor 90% van de gebruikers (P5-P95), volgens het protocol voor percentielgedreven ontwerp. 
 Bij het berekenen van P90 voor de handlengte, de belangrijkste afmeting in dit geval, bij het gebruiken van de waarden die terug werden gevonden in de DINBelg 2005 worden volgende waarden terug gevonden:
 
 P90: voor 90% => z = +1.28 (bron: Bastiaan Baccarne. (2024). Tabel 5 Populations & diversity in design + fysieke ergonomie - z-table. Cursus Gebruiksgericht Ontwerpen.)
@@ -207,6 +207,8 @@ P90 = µ + z*σ = 189 + 1.82 * 12 = 210.84 mm
 
 Als het product zorgt dat het met een handlengte van 210.84 mm wordt gemaakt, is het op 90% van de gebruikers afgestemd.
 
+Bij het doorzoekenen van de DINBelg 2005 en ander relevant onderzoek werd er specifiek gefocust op de Belgische bevloking. De gegevens die hieruit voortkwamen zijn representatief voor diverse gebruikers in België en dienen als basis voor de ontwerpkeuzes die specifiek gericht zijn op de Belgische context. 
+
 ![tabelhanden](https://github.com/MattizV/UCD/blob/main/fotos/tabelhanden.png)
 ![volgordeprototypes](https://github.com/sidmunck/UCD/blob/main/fotos/volgordeprototypes.png)
 
@@ -214,17 +216,17 @@ Als evaluatie methode voor dit onderzoek werd er gebruik gemaakt van de Comfort 
 De testen vonden plaats in een huiselijke omgeving waarbij de testpersoon elk prototype één voor één moest vasthouden en gebruiken. Het Think Aloud protocl, en later het Question Asking protocol, werden toegepast. Ook werd er gevraagd aan de testpersoon het prototype als zitten, wandelend... te gebruiken aangezien dit product in elke mogelijke context gebruikt zal kunnen worden.
 Per prototype werd de CQH ook ingevuld. Met behulp van deze verkregen informatie konden de prototypes uiteindelijk door middel van hun gemiddelde scores onderling vergeleken worden. 
 
-Om daarnaast de gebruikservaring verder te verbeteren, werd onderzocht hoe een eenvoudig visueel feedbacksysteem geïntegreerd kan worden. 
+Om daarnaast de gebruikservaring verder te verbeteren, werd onderzocht hoe een eenvoudig visueel feedbacksysteem geïntegreerd kan worden. Gebruik van zichtbaarheid en feedbackmechanismen zijn tenslotte kernprincipes uit interaction design.
 In een afzonderlijk benchmarkonderzoek naar de cases van draadloze oortjes werd vastgesteld dat LED-indicatoren essentieel zijn om eenvoudig feedback te geven over de status van een apparaat, zoals opladen, batterijstatus en activatie. 
-Door gebruik te maken van eenvoudige knipper- en brandpatronen van LED's in plaats van gekleurde lichten, kan de toegankelijkheid vergroot worden en sluit Remmie aan bij de intuïtieve verwachtingen van gebruikers. 
+Door gebruik te maken van eenvoudige knipper- en brandpatronen van LED's in plaats van gekleurde lichten, wordt rekening gehouden met toegankelijkheidsrichtlijnen zoals differentiatie op basis van patronen i.p.v. kleur.
 Het toevoegen van zo een visueel feedbacklampje zal bijdragen aan meer gebruiksvriendelijkheid en vertrouwen tijdens panieksituaties.
 
 #### Resultaten
-Van de negen geteste prototypes toonde prototype 3 de beste resultaten, dit met een gemiddelde van 4,86 op 7. De hoge score werd verkregen dankzij de positieve feedback over vorm en gebruiksgemak. 
+Van de negen geteste prototypes toonde prototype 3 de beste resultaten, dit met een gemiddelde van 4,86 op 7. De hoge score op comfort, grip en gebruiksgemak bevestigt het belang van ergonomische optimalisatie in early-stage prototypes. 
 De gemiddelde scores werden berekend in een excel sheet. De negatief geformuleerde vragen werden eerst omgerekend om een correcte score te bekomen. 
 Prototype 1 scoorde ook goed, maar werd als te groot ervaren. Het ontwerp moet voor een zo groot mogelijke groep aan gebruikers bruikbaar zijn en dat is bij dit prototype dus absoluut niet het geval. Prototype 9 scoorde het minst goed door enkele ergonomische tekortkomingen. 
 De overige prototypes vertoonden gemiddelde prestaties zonder uitgesproken sterke of zwakke punten. 
-Tijdens het question ask protocol kwamen er ook verschillende suggesties naar boven die zeer interessant zouden kunnen zijn in de verdere ontwikkeling van het product. Zo werd er voorgesteld om het product niet volledig rond te laten zodat het niet kan wegrollen. Een ander voorstel was om het toestel asymmetrisch te maken waardoor de luidspreker misschien meer intuïtief werd terug gevonden in momenten van paniek. Het laatste voorstel heeft betrekking op het meenemen van het toestel. Zo zou het toevoegen van een lusje een simpele maar toch heel handige oplossing zijn om het minder snel kwijt te geraken. 
+Tijdens het Question Asking Protocol kwamen er ook verschillende suggesties naar boven die zeer interessant zouden kunnen zijn in de verdere ontwikkeling van het product. Zo werd er voorgesteld om het product niet volledig rond te laten zodat het niet kan wegrollen. Een ander voorstel was om het toestel asymmetrisch te maken waardoor de luidspreker misschien meer intuïtief werd terug gevonden in momenten van paniek en om op deze manier de belasting bij gebruik te verlagen. Het laatste voorstel heeft betrekking op het meenemen van het toestel. Zo zou het toevoegen van een lusje een simpele maar toch heel handige oplossing zijn om het minder snel kwijt te geraken. 
 
 De reden waarom prototype 3 beter scoorde dan de overige prototypes is dat het zeer goed scoorde op gebied van gebruiksgemak, grip en algemeen comfort. Dit zijn drie zeer belangrijke punten, aangezien de gebruiker zich vertrouwd moet kunnen voelen met het product. Het product moet dienen als steunpunt in moeilijke situaties waarop de gebruiker volledig kan vertrouwen.
 
@@ -240,9 +242,9 @@ Dit onderzoek heeft als doel om het ontwerp van dit apparaat te optimaliseren en
 #### Materiaal en methoden
 Voor dit onderzoek werd een prototype ontwikkeld op basis van Arduino, voorzien van een trilmotor, DFPlayer, luidspreker en een interface via Protopie Connect. De testpersonen konden het prototype dus bedienen via de interface. 
 Eerst werd er een kleine test uitgevoerd waarin de testpersonen moesten aangeven welke trilling weergave ze het meest aangenaam vonden. Daarna vond de test met de interface plaats.
-Tijdens deze test werd verschillende data verzameld, zowel objectieve parameters als subtjectieve feedback. Zo werd de hartslag van elke testpersoon voor, tijdens en na het uittesten van het prototype gemeten. Ook de tijd die de testpersoon nodig had om te kalmeren werd zorgvuldig bijgehouden. Na het uitvoeren van elke test vulden de testpersonen telkens een SAM-schaal en een SUS-schaal in. Met behulp van het Think Aloud en het Question Asking Protocol konden de gebruikers nog extra feedback en opmerkingen delen. 
+Tijdens deze test werd verschillende data verzameld, zowel objectieve parameters als subtjectieve feedback. Zo werd de hartslag van elke testpersoon voor, tijdens en na het uittesten van het prototype gemeten. Ook de tijd die de testpersoon nodig had om te kalmeren werd zorgvuldig bijgehouden. Na het uitvoeren van elke test vulden de testpersonen telkens een SAM-schaal en een SUS-schaal in. Met behulp van het Think Aloud en het Question Asking Protocol konden de gebruikers nog extra feedback en opmerkingen delen. Daarnaast werd het principe van Experience Sampling Method (ESM) toegepast, door real-time subjectieve feedback te verzamelen tijdens en vlak na de ervaring. 
 
-Tijdens deze fase werd ook de mogelijkheid onderzocht om een hartslagmeter in het toestel te integreren. Een afzonderlijk onderzoek wees uit dat een interne hartslagmeter waardevolle biofeedback kan geven aan gebruikers die willen monitoren of hun stress- of paniekniveau daalt. 
+Tijdens deze fase werd ook de mogelijkheid onderzocht om een hartslagmeter in het toestel te integreren. Het meten van biometrische gegevens wordt binnen fysiometrisch onderzoek gebruikt om de effecten van producten op gebruikers te evalueren. Een afzonderlijk onderzoek wees uit dat een interne hartslagmeter waardevolle biofeedback kan geven aan gebruikers die willen monitoren of hun stress- of paniekniveau daalt. 
 Hoewel het integreren van een eigen sensor mogelijk zou zijn, bleek het uiteindelijk dat het verbinden van bestaande wearables zoals smartwatches een meer haalbare en gebruiksvriendelijkere optie is. 
 Zo kan Remmie eenvoudig gegevens uit bestaande toestellen halen, zonder de prijs en complexiteit van het product sterk te verhogen. 
 De hartslag werd als objectieve fysiologische parameter gemeten om het directe effect van de toegepaste sensorische stimuli op het stressniveau van de gebruiker te evalueren. 
@@ -258,12 +260,12 @@ In dit onderzoek werd er gebruik gemaakt van muziek met een frequentie van 432 H
 #### Resultaten
 Alle drie de testpersonen gaven aan de korte trilling bij faseovergangen te verkiezen boven de continue trilling, waardoor dit patroon absoluut in het uiteindelijke ontwerp moet worden geïntegreerd.
 
-De resultaten tonen aan dat zowel de trilling- als de muziekfunctie van het prototype een merkbaar kalmerend effect hadden op de deelnemers. De gemiddelde hartslag daalde bij het gebruik van de trillingsfunctie van 103,67 bpm naar 66,67 bpm. Bij de muziekfunctie ging deze van 115 bpm naar 70 bpm gemiddeld. Na de test steeg de hartslag van de deelnemers telkens zacht maar bleef nogsteeds ruim onder de meting bij aanvang. Dit wijst op een blijvend rustgevend effect. 
+De resultaten tonen aan dat zowel de trilling- als de muziekfunctie van het prototype een merkbaar kalmerend effect hadden op de deelnemers. De gemiddelde hartslag daalde bij het gebruik van de trillingsfunctie van 103,67 bpm naar 66,67 bpm. Bij de muziekfunctie ging deze van 115 bpm naar 70 bpm gemiddeld. Na de test steeg de hartslag van de deelnemers telkens zacht maar bleef nogsteeds ruim onder de meting bij aanvang. Dit wijst op een blijvend rustgevend effect. Zowel de directe zintuigelijke prikkels (trillingen, muziek) als de bewuste interpretatie ervan (herkenning van rustgevende signalen) droegen samen bij aan de kalmering van de testpersonen, in lijn met de theorieën over fast en slow thinking. 
 
 De SUS-scores lagen voor de trillingsfunctie gemiddeld op 70,8 en voor de muziekfunctie op 80. Beide liggen boven het algemeen aanvaarde gemiddelde van 68 op een score van 100. De muziekfunctie werd ook hier duidelijk als gebruiksvriendelijker ervaren. 
 De SAM-scores bevestigen dit ook. Zowel bij de trillingsfunctie als de muziekfunctie werd een positieve emotionele ervaring vastgesteld. De hoogste scores werden gehaald op vlak van valentie en controle. Twee zeer belangrijke factoren in panieksituaties. 
 
-De testpersonen gaven ook aan dat het bedienen van de app in panieksituaties niet altijd mogelijk zal zijn. Het toevoegen van een "lock"-functie, waarbij vooraf ingestelde patronen via een fysieke knop op het product worden geactiveerd, werd als noodzakelijk ervaren. Ook werd het kunnen kiezen uit meerdere patronen en het eventueel zelfstandig uploaden van muziek en trillingfrequenties als positief onthaald. 
+De testpersonen gaven ook aan dat het bedienen van de app in panieksituaties niet altijd mogelijk zal zijn. Het toevoegen van een "lock"-functie, waarbij vooraf ingestelde patronen via een fysieke knop op het product worden geactiveerd, werd als noodzakelijk ervaren. De nood aan deze functie bevestigt het belang van redunantie en simplicity in interaction design om de cognitieve belasting zo veel mogelijk te beperken. Ook werd het kunnen kiezen uit meerdere patronen en het eventueel zelfstandig uploaden van muziek en trillingfrequenties als positief onthaald. 
 
 De benodigde tijd tot kalmering was gemiddeld 6,67 minuten. Dit toont aan dat het prototype zeer snel effect heeft, al blijft verder testing in echte panieksituaties nodig voor sluitende conclusies. 
 
