@@ -188,6 +188,8 @@ Uit deze requirements kan er al een schts gemaakt worden van hoe het product er 
 ## Developing
 In de developing fase ligt de focus meer op het optimaliseren van de fysieke ergonomie, de cognitieve en de sensoriële ergonomie. Dit wil zeggen dat er wordt gewerkt naar een verfijning van het product. Er zal worden gefocust op verschillende lichaamsgerelateerde maten voor het ontwerp. Ook zal het gebruiksgemak en de functionaliteit geoptimaliseerd worden. 
 
+In deze fasen wordt niet alleen aandacht besteed aan de fysieke vorm en het gebruiksgemak, maar ook aan het integreren van ondersteunende technologieën zoals feedbacksystemen en sensoren om de werking van het product te versterken.
+
 ### The human body 
 #### Doelstellingen
 De eerste stap binnen de developing fase is het bepalen van de optimale grootte en vorm van het product. Er wordt op zoek gegaan naar welke vormen als aangenaam worden ervaren door de gebruikers en welke absoluut niet. Dit in combinatie met het zoeken naar afmetingen die voor een zo groot mogelijke groep van gebruikers als aangenaam worden ervaren. 
@@ -212,6 +214,11 @@ Als evaluatie methode voor dit onderzoek werd er gebruik gemaakt van de Comfort 
 De testen vonden plaats in een huiselijke omgeving waarbij de testpersoon elk prototype één voor één moest vasthouden en gebruiken. Het Think Aloud protocl, en later het Question Asking protocol, werden toegepast. Ook werd er gevraagd aan de testpersoon het prototype als zitten, wandelend... te gebruiken aangezien dit product in elke mogelijke context gebruikt zal kunnen worden.
 Per prototype werd de CQH ook ingevuld. Met behulp van deze verkregen informatie konden de prototypes uiteindelijk door middel van hun gemiddelde scores onderling vergeleken worden. 
 
+Om daarnaast de gebruikservaring verder te verbeteren, werd onderzocht hoe een eenvoudig visueel feedbacksysteem geïntegreerd kan worden. 
+In een afzonderlijk benchmarkonderzoek naar de cases van draadloze oortjes werd vastgesteld dat LED-indicatoren essentieel zijn om eenvoudig feedback te geven over de status van een apparaat, zoals opladen, batterijstatus en activatie. 
+Door gebruik te maken van eenvoudige knipper- en brandpatronen van LED's in plaats van gekleurde lichten, kan de toegankelijkheid vergroot worden en sluit Remmie aan bij de intuïtieve verwachtingen van gebruikers. 
+Het toevoegen van zo een visueel feedbacklampje zal bijdragen aan meer gebruiksvriendelijkheid en vertrouwen tijdens panieksituaties.
+
 #### Resultaten
 Van de negen geteste prototypes toonde prototype 3 de beste resultaten, dit met een gemiddelde van 4,86 op 7. De hoge score werd verkregen dankzij de positieve feedback over vorm en gebruiksgemak. 
 De gemiddelde scores werden berekend in een excel sheet. De negatief geformuleerde vragen werden eerst omgerekend om een correcte score te bekomen. 
@@ -234,6 +241,11 @@ Dit onderzoek heeft als doel om het ontwerp van dit apparaat te optimaliseren en
 Voor dit onderzoek werd een prototype ontwikkeld op basis van Arduino, voorzien van een trilmotor, DFPlayer, luidspreker en een interface via Protopie Connect. De testpersonen konden het prototype dus bedienen via de interface. 
 Eerst werd er een kleine test uitgevoerd waarin de testpersonen moesten aangeven welke trilling weergave ze het meest aangenaam vonden. Daarna vond de test met de interface plaats.
 Tijdens deze test werd verschillende data verzameld, zowel objectieve parameters als subtjectieve feedback. Zo werd de hartslag van elke testpersoon voor, tijdens en na het uittesten van het prototype gemeten. Ook de tijd die de testpersoon nodig had om te kalmeren werd zorgvuldig bijgehouden. Na het uitvoeren van elke test vulden de testpersonen telkens een SAM-schaal en een SUS-schaal in. Met behulp van het Think Aloud en het Question Asking Protocol konden de gebruikers nog extra feedback en opmerkingen delen. 
+
+Tijdens deze fase werd ook de mogelijkheid onderzocht om een hartslagmeter in het toestel te integreren. Een afzonderlijk onderzoek wees uit dat een interne hartslagmeter waardevolle biofeedback kan geven aan gebruikers die willen monitoren of hun stress- of paniekniveau daalt. 
+Hoewel het integreren van een eigen sensor mogelijk zou zijn, bleek het uiteindelijk dat het verbinden van bestaande wearables zoals smartwatches een meer haalbare en gebruiksvriendelijkere optie is. 
+Zo kan Remmie eenvoudig gegevens uit bestaande toestellen halen, zonder de prijs en complexiteit van het product sterk te verhogen. 
+De hartslag werd als objectieve fysiologische parameter gemeten om het directe effect van de toegepaste sensorische stimuli op het stressniveau van de gebruiker te evalueren. 
 
 ![prototype2](https://github.com/sidmunck/UCD/blob/main/fotos/prototype2.png)
 ![interfaceT](https://github.com/sidmunck/UCD/blob/main/fotos/interfaceT.png)
@@ -262,6 +274,28 @@ De design requirements die uit deze deelopdracht kunnen worden gehaald zijn hier
 ![designr2](https://github.com/sidmunck/UCD/blob/main/fotos/designr2.png)
 
 ### The human mind
+
+### PESTEL-analyse en feedback
+Uit een onderzoek uitgevoerd door een groep masterstudenten volgens de PESTEL-analyse, is Remmie vanuit verschillende invalshoeken geëvalueerd. Deze analyse biedt een bredere kijk op de potentiële impact van het product. De belangrijkste feedbackpunten die zorgen voor de optimalisatie van het product zullen worden besproken.
+
+#### Politieke aspecten
+Er werd geadviseerd om Remmie modulair te maken om zo langere levensduur te bekomen en te kijken naar mogelijkheden voor lokale productie en subsidies via VLAIO. 
+Het toestel zal worden opgebouwd uit onderdelen die eenvoudig te vervangen zijn. Ook zal er worden gezocht naar lokale producenten voor deze onderdelen. De mogelijkheid voor subsidies via VLAIO kan verder worden onderzocht maar valt buiten dit onderzoek.
+
+#### Economische aspecten
+Het zou voordeliger kunnen zijn om te kiezen voor lokale productie ondanks de hogere initiële kosten. Ook kan het product mogelijks worden terugbetaald door mutualiteiten als het als medisch hulpmiddel wordt erkend. Dit valt ook buiten de grenzen van dit onderzoek. 
+
+#### Sociale aspecten
+Aangezien ongeveer 90% van de Belgische bevolking in het bezit is van een smartphone, is het behouden van de applicatie geen probleem. Het toevoegen van de "lock"-functie via de app is dan weer wel van belang voor wanneer de smartphone een lege batterij zou hebben.
+
+#### Technologische aspecten
+Er wordt aangeraden om water- en krasbestendige materialen te gebruiken, zoals PC, ABS+PC-blend of TPU. Ook moet de app-functionaliteit uitbreiden, zodat gebruikers meldingen kunnen dempen tijdens gebruik om paniek te vermijden. 
+
+#### Ecologische aspecten
+Het is belangrijk om inleversystemen of refurbish-opties voor te stellen aan de gebruiker. Wanneer het product door de mutualiteit wordt erkend als medisch hulpmiddel is het gebruiken van een inleversysteem al een iets makkelijker gegeven.
+
+#### Juridische aspecten
+Momenteel valt het product onder "welness" aangezien het geen medische claims maakt. Er wordt echter aanbevolen om de trainingsfunctie verder te onderzoeken voor mogelijke medische claims. Daarnaast moet de privacy van de gebruiker wel gewaarborgd worden via duidelijke toestemmingsmechanismen volgens de GDPR.
 
 ## Kritische reflectie
 In deze reflectie blikken we terug naar het eerste semester van het project ‘Werkbaar werk in de zorg’. Het project bracht een grote uitdaging met zich mee die ons veel heeft geleerd, maar ons ook waardevolle inzichten heeft gegeven. Het heeft ons laten beseffen waar we in de toekomst beter op moeten letten. Het was een leerproces waar we alle drie heel wat kennis uit hebben gehaald die in onze verdere carrière zeker nog van pas zal komen. 
