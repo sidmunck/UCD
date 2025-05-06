@@ -316,6 +316,12 @@ Ook leerde dit proces ons hoe we moesten omgaan met onverwachte wijzigingen. In 
 
 Momenteel is het project ‘Werkbaar werk in de zorg’ al een zeer leerrijk traject geweest. Met behulp van de nieuw verkregen kennis zijn we stap voor stap een beetje meer klaar voor de toekomst. 
 
+Een zeer waardevolle toevoeging aan dit project was de externe PESTEL-analyse die werd uitgevoerd door een groep masterstudenten. Zij bekenen het product vanuit verschillende maatschappelijke en beleidsmatige invalshoeken waardoor ze een bredere kijk konden geven op de context waarin het toestel zou functioneren. 
+Zo werd er op politiek vlak bijvoorbeeld aanbevolen om het toestel modulair op te bouwen. Dit vanwege draagt niet alleen bij aan een langere levensduur maar opent ook de mogelijkheid tot lokale productie en eventuele subsidieaanvragen via VLAIO. Hoewel dit buiten het bereik van dit project valt, vormt het een interessante piste voor verdere ontwikkeling. Lokale productie biedt natuurlijk economisch gezien ook een meerwaarde, ondanks de hogere intiële kost.
+Het toestel zou eventueel ook als medisch hulpmiddel kunnen worden beschouwd door de mutualiteiten maar ook dit wordt in dit onderzoek buiten beschouwing gelaten.
+Een ander zeer goede opmerking die gegeven werd, was het werken met een inleversysteem. Dit is op ecologisch vlak een zeer goed aspect. Dit zou eventueel toegepast kunnen worden indien het product later effectief op de markt gebracht zou worden.
+Tot slot kwamen ook juridische aspecten aan bod, zoals het waarborgen van de privacy volgens de GDPR en het overwegen van mogelijke medische claims na verder onderzoek naar de effectiviteit van de trainingsfunctie. Hoewel niet elk punt onmiddellijk kon worden doorvertaald in dit project, heeft deze analyse bijgedragen aan een bewustere, kritischer houding tegenover de langetermijnimpact van het productontwerp.
+
 
 ## Bronnen
 [^1]: Vlaamse Vereniging van Klinisch Psychologen. (2023). Ook de wachtlijst vol. Vlaamse Vereniging van Klinisch Psychologen. https://vvkp.be/nieuws/ook-de-wachtlijst-vol
