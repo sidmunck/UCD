@@ -277,27 +277,7 @@ De design requirements die uit deze deelopdracht kunnen worden gehaald zijn hier
 
 ### The human mind
 
-### PESTEL-analyse en feedback
-Uit een onderzoek uitgevoerd door een groep masterstudenten volgens de PESTEL-analyse, is Remmie vanuit verschillende invalshoeken geëvalueerd. Deze analyse biedt een bredere kijk op de potentiële impact van het product. De belangrijkste feedbackpunten die zorgen voor de optimalisatie van het product zullen worden besproken.
 
-#### Politieke aspecten
-Er werd geadviseerd om Remmie modulair te maken om zo langere levensduur te bekomen en te kijken naar mogelijkheden voor lokale productie en subsidies via VLAIO. 
-Het toestel zal worden opgebouwd uit onderdelen die eenvoudig te vervangen zijn. Ook zal er worden gezocht naar lokale producenten voor deze onderdelen. De mogelijkheid voor subsidies via VLAIO kan verder worden onderzocht maar valt buiten dit onderzoek.
-
-#### Economische aspecten
-Het zou voordeliger kunnen zijn om te kiezen voor lokale productie ondanks de hogere initiële kosten. Ook kan het product mogelijks worden terugbetaald door mutualiteiten als het als medisch hulpmiddel wordt erkend. Dit valt ook buiten de grenzen van dit onderzoek. 
-
-#### Sociale aspecten
-Aangezien ongeveer 90% van de Belgische bevolking in het bezit is van een smartphone, is het behouden van de applicatie geen probleem. Het toevoegen van de "lock"-functie via de app is dan weer wel van belang voor wanneer de smartphone een lege batterij zou hebben.
-
-#### Technologische aspecten
-Er wordt aangeraden om water- en krasbestendige materialen te gebruiken, zoals PC, ABS+PC-blend of TPU. Ook moet de app-functionaliteit uitbreiden, zodat gebruikers meldingen kunnen dempen tijdens gebruik om paniek te vermijden. 
-
-#### Ecologische aspecten
-Het is belangrijk om inleversystemen of refurbish-opties voor te stellen aan de gebruiker. Wanneer het product door de mutualiteit wordt erkend als medisch hulpmiddel is het gebruiken van een inleversysteem al een iets makkelijker gegeven.
-
-#### Juridische aspecten
-Momenteel valt het product onder "welness" aangezien het geen medische claims maakt. Er wordt echter aanbevolen om de trainingsfunctie verder te onderzoeken voor mogelijke medische claims. Daarnaast moet de privacy van de gebruiker wel gewaarborgd worden via duidelijke toestemmingsmechanismen volgens de GDPR.
 
 ## Kritische reflectie
 In deze reflectie blikken we terug naar het eerste semester van het project ‘Werkbaar werk in de zorg’. Het project bracht een grote uitdaging met zich mee die ons veel heeft geleerd, maar ons ook waardevolle inzichten heeft gegeven. Het heeft ons laten beseffen waar we in de toekomst beter op moeten letten. Het was een leerproces waar we alle drie heel wat kennis uit hebben gehaald die in onze verdere carrière zeker nog van pas zal komen. 
