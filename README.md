@@ -1,7 +1,7 @@
 # Remmie
 *Een klein apparaatje dat gebruikers zal ondersteunen bij het leren beheersen en hebben van paniekaanvallen.* 
 
-*Projectteam: Sid De Munck, Mattiz Vermeulen, Diego Vande Vyvere*
+*Projectteam: Sid De Munck*
 
 *2024-2025*
 
