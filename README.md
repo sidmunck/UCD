@@ -194,6 +194,8 @@ In deze fasen wordt niet alleen aandacht besteed aan de fysieke vorm en het gebr
 #### Doelstellingen
 De eerste stap binnen de developing fase is het bepalen van de optimale grootte en vorm van het product. Er wordt op zoek gegaan naar welke vormen als aangenaam worden ervaren door de gebruikers en welke absoluut niet. Door het herontwarren van de betrokkenen werd het duidelijk wie er allemaal geraakt werd door het product en welke ergonomische eisen zij stellen. Er wordt rekeningen gehouden met de ergonomische richtlijnen zoals antropometrie en biomechanica. Dit in combinatie met het zoeken naar afmetingen die voor een zo groot mogelijke groep van gebruikers als aangenaam worden ervaren. Het doel hiervan is om aan 'design for diveristy' te doen in plaats van 'Procrustean thinking'. 
 
+Naast de vorm en afmetingen van het toestel is ook de fysieke bediening ervan van cruciaal belang. Daarom werd in een afzonderlijke deelopdracht onderzocht welke besturingsmethode het meest geschikt is wanneer het toestel zonder pp moet functioneren. De nadruk hierbij ligt op het gebruiksgemak, foutgevoeligheid en betrouwbaarheid tijdens fysieke contact met het toestel. Aangezien dit onderzoek deel uit maakt van 'the human body', werd dit later aangevuld. 
+
 #### Materiaal & methoden
 Voor dit onderzoek werden negen verschillende prototypes uitgeprint met een 3D printer in PLA. Alvorens deze prototypes konden worden gemaakt, werd er een vooronderzoek gedaan naar de antropometrie. Hierbij werd er gezocht naar wat de afmetingen zijn voor handen van vrouwen en mannen gecombineerd, binnen een leeftijdscategorie van 18 - 65 jaar. 
 Na het doorzoeken van de DINBelg 2005 [^3] en een ander zeer interessant artikel [^4] over het onderzoek naar afmetingen van 'hand tools' werden er de eerste ideeën uitgewisseld. 
@@ -221,6 +223,15 @@ In een afzonderlijk benchmarkonderzoek naar de cases van draadloze oortjes werd 
 Door gebruik te maken van eenvoudige knipper- en brandpatronen van LED's in plaats van gekleurde lichten, wordt rekening gehouden met toegankelijkheidsrichtlijnen zoals differentiatie op basis van patronen i.p.v. kleur.
 Het toevoegen van zo een visueel feedbacklampje zal bijdragen aan meer gebruiksvriendelijkheid en vertrouwen tijdens panieksituaties.
 
+Voor dit onderzoek werd er gebruik gemaakt van gebruikersinterviews in combinatie met een morfologische matrix. 
+
+In een volgende stap werd de fysieke besturingswijze onderzocht. Hiervoor werden 4 verschillende combinaties samengesteld met behulp van een morfologische matrix. Samenstellingen met drukknoppen, draaiknoppen, schuifschakelaars en joystickachtige bediening werden weergegeven in schetsen en getoond aan de drie testpersonen. De gebruikers konden hun voorkeur uitdrukken aan de hand van interviews en mochten later ook zelf een ideale combinatie samenstellen. Hierbij werd gevraagd om hun keuzes te motiveren op vlak van intuïtiviteit, foutgevoeligheid, snelheid van bediening en vertrouwen bij gebruik in panieksituaties. 
+
+FOTO VAN MORFOLOGISCHE MATRIX
+FOTO VAN EIGEN COMBINATIES
+
+Er werd gelet op factoren zoals per ongeluk activeren, gevoelsmatige controle en snelheid van bediening in panieksituaties. De evaluaties vonden plaats in een rustige omgeving. Ook hier werd het TAP en QAP opnieuw toegepast. 
+
 #### Resultaten
 Van de negen geteste prototypes toonde prototype 3 de beste resultaten, dit met een gemiddelde van 4,86 op 7. De hoge score op comfort, grip en gebruiksgemak bevestigt het belang van ergonomische optimalisatie in early-stage prototypes. 
 De gemiddelde scores werden berekend in een excel sheet. De negatief geformuleerde vragen werden eerst omgerekend om een correcte score te bekomen. 
@@ -233,6 +244,9 @@ De reden waarom prototype 3 beter scoorde dan de overige prototypes is dat het z
 ![tabelexcel](https://github.com/sidmunck/UCD/blob/main/fotos/tabelexcel.png)
 
 ![designrequirementDeelopdracht3](https://github.com/MattizV/UCD/blob/main/fotos/designrequirementDeelopdracht3.png)
+
+Bij het onderzoek naar de fysieke besturingsmethode werd duidelijk dat eenvoudige drukknoppen aan de zijkant de voorkeur kregen. Twee van de drie testpersonen verkozen deze methode boven andere opties zoals draaiknoppen of joysticks. Dit vooral omwille van het intuïtieve gebruik en de lagere kans op fouten. Draaiknoppen zonder mechanische werden als verwarrend ervaren, terwijl joysticks te complex waren voor snelle bediening. 
+De nood naar een functie om met een snelle bediening een voorkeursinstelling te activeren werd zeer duidelijk.
 
 ### The human senses
 #### Doelstellingen
@@ -276,8 +290,22 @@ De design requirements die uit deze deelopdracht kunnen worden gehaald zijn hier
 ![designr2](https://github.com/sidmunck/UCD/blob/main/fotos/designr2.png)
 
 ### The human mind
+#### Doelstellingen
+Het doel van dit onderzoek is om te onderzoeken hoe mentale processen zoals aandacht, stress, geheugen en intuïtie een rol spelen in de interactie tussen mens en technologie. Door te analyseren hoe het brein van gebruikers functioneert in panieksituaties, kan een product worden ontwikkeld dat het best aansluit bij de mentale noden van de gebruiker. 
+Er wordt onderzocht welke interface het meest geschikt is voor gebruik in acute stresssituaties. Hierbij werd specifiek gekeken naar hoe gebruikts informatie mentaal verwerken tijdens een paniekaanval, en welke ontwerpkeuzes (zoals bijv. visuele hiërarchie) dit kunnen ondersteunen of juist tegenwerken. 
 
+#### Materiaal en methoden
+Voor deze evaluatie werden twee visuele interfaceprototypes ontworpen, elk met een andere visuele stijl en opbouw. De prototypes werden gemaakt in figma en konden net zoals elke andere app worden bediend. 
 
+Drie testpersonen die ervaring hebben met het ervaren van paniekaanvallen kregen beide interfaces afzonderlijk te zien in een rustige, huiselijke omgeving. Ze werden gevraagd om door de schermen te navigeren en vervolgens hun ervaringen te delen in een interview, gebaseerd op het Question Asking Protocol. 
+
+De focus lag op de beoordeling van intuïtiviteit, visuele hiërarchie, herkenbaarheid van knoppen en geschiktheid tijdens momenten van paniek. 
+
+#### Resultaten 
+Uit de testen kwam interface 1 als duidelijke voorkeur naar boven. Deze interface werd omschreven als rustgevend, overzichtelijk en intuïtief. Dit dankzij de sobere layout, grote knoppen en duidelijke visuele hiërarchie. De symbolen die werden begeleid met tekst en het consistente kleurgebruik droegen bij aan een zeer snelle herkenning. 
+Interface 2 werd als speelser ervaren, ondanks dat sommige visuele elementen (bijv. de smileys) het hier beter deden dan bij interface 1. 
+
+Een verbeterpunt was de behoefte aan visuele begeleiding bij trillingsoefeningen, bijvoorbeeld via een eenvoudige animatie.
 
 ## Kritische reflectie
 In deze reflectie blikken we terug naar het eerste semester van het project ‘Werkbaar werk in de zorg’. Het project bracht een grote uitdaging met zich mee die ons veel heeft geleerd, maar ons ook waardevolle inzichten heeft gegeven. Het heeft ons laten beseffen waar we in de toekomst beter op moeten letten. Het was een leerproces waar we alle drie heel wat kennis uit hebben gehaald die in onze verdere carrière zeker nog van pas zal komen. 
