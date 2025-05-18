@@ -253,6 +253,10 @@ De nood naar een functie om met een snelle bediening een voorkeursinstelling te 
 Het doel van deze deelopdracht is om inzichten te verwerven in hoe sensorische elementen zoals trillingen en geluid op een effectieve manier kunnen worden ingezet bij het kalmeren van personen die paniekaanvallen ervaren. Er wordt nagegaan hoe deze stimuli kunnen bijdragen aan het geven van rust, controle en comfort tijdens een paniekaanval. Er wordt onderzocht welke trilling patronen, geluiden en intensiteiten het meest geschikt zijn. 
 Dit onderzoek heeft als doel om het ontwerp van dit apparaat te optimaliseren en aan te passen aan de reële noden van de eindgebruikers in paniek situaties. 
 
+Daarnaast werd ook onderzocht hoe visuele zintuigelijke elementen bijdragen aan het emotionele comfort van de gebruiker. Vormgeving speelt namelijk een essentiële rol in het creëren van rust en veiligheid. De esthetiek van een product beïnvloedt meteen de perceptie en het emotioneel welzijn van de gebruiker, voornamelijk in contexten waar sprake is van veel stress.
+
+Ten slotte werd in een apart onderzoek nagegaan welke vorm van feedback (visueel, auditief of haptisch) het meest intuïtief en doeltreffen is voor gebruikers. Hierbij werd de focus gelegd op hoe gebruikers onvoorbereid de betekenis van verschillende feedbacksignalen konden interpreteren en welke vorm zij als het meest aangenaam en geschikt ervaren voor dit type product. 
+
 #### Materiaal en methoden
 Voor dit onderzoek werd een prototype ontwikkeld op basis van Arduino, voorzien van een trilmotor, DFPlayer, luidspreker en een interface via Protopie Connect. De testpersonen konden het prototype dus bedienen via de interface. 
 Eerst werd er een kleine test uitgevoerd waarin de testpersonen moesten aangeven welke trilling weergave ze het meest aangenaam vonden. Daarna vond de test met de interface plaats.
@@ -270,6 +274,15 @@ De hartslag werd als objectieve fysiologische parameter gemeten om het directe e
 In dit onderzoek werd er gebruik gemaakt van muziek met een frequentie van 432 Hz omdat deze frequentie volgens verschillende bronnen meer in harmonie zou zijn met de natuurlijke trillingen van het menselijk lichaam en de natuur. Muziek op 432 Hz wordt vaak als zachter en rustgevender ervaren dan de standaard muziek met een frequentie van 440 Hz. Hoewel het wetenschappelijke bewijs hiervoor zeer beperkt is, wijzen verschillende praktijktoepassingen in muziektherapie op mogelijk kalmerende effecten op het zenuwstelsel. Aangezien het doel van dit toestel is om panieksymptomen te reguleren en tot rust te brengen, werd deze frequentie dus geïntegreerd als potentieel ondersteunend element. Het onderzoek hiervan is terug te vinden bij de bijlagen.
 
 ![gebruikerstest2](https://github.com/sidmunck/UCD/blob/main/fotos/gebruikerstest2.png)
+
+Voor het deelonderzoek rond uiterlijk en vormgeving kregen testpersonen vier verschillende renders voorgeschoteld. Elk ontwerp bevatte exact dezelfde functionele inhoud, maar verschilde visueel in materiaalgebruik en kleur. Via het QAP werd gepeild naar hoe rustgevend, sociaal geaccepteerd en esthetisch elke render was. 
+De testpersonen kregen de vraag om hun favoriete render te kiezen. Hierbij moesten ze uit een lijst van tien kernwoorden er 4 linken met het ontwerp. Deze techniek werd toegepast om bewuster en meer genuanceerd emotionele associaties bij het ontwerp te kunnen leggen. 
+
+Voor het onderzoek naar de meest geschikte vorm van feedback werden drie verschillende testopstellingen ontworpen. Elke testopstelling stond in voor een andere soort feedback. De testpersonen werden in scenario's geplaatst waarin het toestel reageerde op een bepaalde statusverandering zoals bijvoorbeeld het opladen van het apparaat of wanneer de batterij bijna leeg was. Zonder uitleg moesten ze de betekenis van het signaal interpreteren. 
+Voor deze test werd er gebruik gemaakt van een geprint toestel met een aan/uit-knop en een lampje. Daarnaast werd een schakeling gemaakt opgebouwd uit een arduino uno, buzzer, DFPlayer, luidspreker en LED, die met de methode van "Wizard of Oz" werd bestuurd. 
+Na afloop werd gebruik gemaakt van de Likert-schaal en een voorkeursevaluatie met het TAP. De testpersonen kregen ook de mogelijkheid om hun ideale feedback op het toestel samen te stellen.
+
+FOTO TESTOPSTELLINGEN
 
 #### Resultaten
 Alle drie de testpersonen gaven aan de korte trilling bij faseovergangen te verkiezen boven de continue trilling, waardoor dit patroon absoluut in het uiteindelijke ontwerp moet worden geïntegreerd.
@@ -289,6 +302,15 @@ De benodigde tijd tot kalmering was gemiddeld 6,67 minuten. Dit toont aan dat he
 De design requirements die uit deze deelopdracht kunnen worden gehaald zijn hieronder per categorie weergegeven:
 ![designr2](https://github.com/sidmunck/UCD/blob/main/fotos/designr2.png)
 
+Bij het onderzoek rond uiterlijk en materiaalkeuze bleek dat gebruikers unaniem de voorkeur gaven aan een toestel met een matte, zachte afwerking in neutrale kleuren zoals beige. Glanzende materialen werd door de drie testpersonen als storend ervaren. De meest gekozen ontwerpvariant werd omschreven met de woorden: "rustgevend", "zorgaam" en "vertrouwd". Belangrijk hierbij was dat het toestel discreet moet zijn: gebruikers mogen zich er niet voor schamen. Subtiele materiaalcontrasten binnen eenzelfde kleurschema werden als positief ervaren. De combinatie van visuele rust en sociaal aanvaardbare esthetiek was de doorslaggevende factor in hun keuze.
+
+Wat betreft de vorm van feedback toonde de evaluatie aan dat haptische signalen het meest intuïtief, aangenaam en effectief werden bevonden. Deze vorm kreeg de hoogste scores op de Likert-schaal van elke testpersoon. Visuele feedback werd eerder als neutraal ervaren en auditieve feedback kreeg de laagste score. Deze werd vaak als ongepast of storend ervaren, zeker in sociale contexten. 
+
+De ideale samenstelling van feedback volgens de testpersonen bestaat uit:
+- 1 à 2 korte trillingen voor aan/uit
+- 5 korte trillingen voor lege batterij
+- LED die zacht knippert bij het starten van het opladen van het toestel en continu brandt bij het hebben van een volle batterij. 
+
 ### The human mind
 #### Doelstellingen
 Het doel van dit onderzoek is om te onderzoeken hoe mentale processen zoals aandacht, stress, geheugen en intuïtie een rol spelen in de interactie tussen mens en technologie. Door te analyseren hoe het brein van gebruikers functioneert in panieksituaties, kan een product worden ontwikkeld dat het best aansluit bij de mentale noden van de gebruiker. 
@@ -302,9 +324,14 @@ Drie testpersonen die ervaring hebben met het ervaren van paniekaanvallen kregen
 
 De focus lag op de beoordeling van intuïtiviteit, visuele hiërarchie, herkenbaarheid van knoppen en geschiktheid tijdens momenten van paniek. 
 
-Daarnaast werd binnen dit onderzoek nagegaan of er behoefte is aan een ingebouwd trainingsprogramma, dat gebruikers helpt om op voorhand te oefenen met ademhalingstechnieken en vibratiemethodes. Dit onderdeel werd onderzocht via gebruiksinterviews waarbij gebruik werd gemaakt van een storyboard dat de rode draad bood voor het gesprek. Dit storyboard hielp de testpersonen om zich in te beelden hoe het trainingsprogramma gebruikt zou worden. 
+FOTOS INTERFACES
+
+Daarnaast werd binnen dit onderzoek nagegaan of er behoefte is aan een ingebouwd trainingsprogramma, dat gebruikers helpt om op voorhand te oefenen met ademhalingstechnieken en vibratiemethodes. Dit onderdeel werd onderzocht via gebruiksinterviews waarbij gebruik werd gemaakt van een storyboard dat de rode draad bood voor het gesprek. Dit storyboard (VERWIJZEN HIERNAAR) hielp de testpersonen om zich in te beelden hoe het trainingsprogramma gebruikt zou worden. 
 
 Tijdens de interviews werd gepeild naar het gebruik van het toestel in preventieve, rustige momenten, om zo te beoordelen of een trainingsfunctie waardevol wordt geacht. Daarnaast werd via drie fictieve productvarianten met verschillende prijsstellingen inzicht verkregen in de prijsperceptie en voorkeuren van de gebruikers. 
+
+FOTO OPTIES REMMIE 
+
 
 #### Resultaten 
 Uit de testen kwam interface 1 als duidelijke voorkeur naar boven. Deze interface werd omschreven als rustgevend, overzichtelijk en intuïtief. Dit dankzij de sobere layout, grote knoppen en duidelijke visuele hiërarchie. De symbolen die werden begeleid met tekst en het consistente kleurgebruik droegen bij aan een zeer snelle herkenning. 
