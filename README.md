@@ -172,6 +172,173 @@ Deze fase legt een sterke basis voor de volgende stap in het ontwikkelingsproces
 (DEZE SCHETS WEG??)
 ![sketch_remmie](https://github.com/MattizV/UCD/blob/main/fotos/sketch_remmie.png)
 
+## Developing
+In de developing fase ligt de focus meer op het optimaliseren van de fysieke ergonomie, de cognitieve en de sensoriële ergonomie. Dit wil zeggen dat er wordt gewerkt naar een verfijning van het product. Frictiepunten worden hierbij actief opgespoord en weggenomen om de gebruikservaring te optimaliseren. Er zal worden gefocust op verschillende lichaamsgerelateerde maten voor het ontwerp (rekening houdend met variatie in ergonomie zoals leeftijd, geslacht, cultuur). Ook zal het gebruiksgemak en de functionaliteit geoptimaliseerd worden (gebruikmakend van principes zoals usability en UX design). 
+
+In deze fasen wordt niet alleen aandacht besteed aan de fysieke vorm en het gebruiksgemak, maar ook aan het integreren van ondersteunende technologieën zoals feedbacksystemen en sensoren om de werking van het product te versterken (zoals design principle: zichtbaarheid, feedback en UX design).
+
+### The human body 
+#### Doelstellingen
+In deze ontwikkelingsfase stond het bepalen van de optimale grootte, vorm en fysieke bediening van het product centraal. Het doel was om een ontwerp te vinden dat aansluit bij de diversiteit van de gebruikers, waarbij comfort en gebruiksgemak voorop staan. Er werd gekozen voor een 'design for diversity'-strategie, waarbij rekening wordt gehouden met een brede groep gebruikers met verschillende handmaten en ergonomische behoeften.
+
+Dit alles werd onderbouwd met ergonomische richtlijnen zoals antropometrie en biomechanica, zodat het product niet alleen aangenaam aanvoelt, maar ook functioneel optimaal is afgestemd op de menselijke hand. 
+
+Daarnaast was het cruciaal om te onderzoeken welke fysieke bedieningsmethodes het beste functioneren zonder tussenkomst van de bijhorende app, vooral in stressvolle situaties zoals een paniekaanval. Daarom werd in een afzonderlijke deelopdracht onderzocht welke besturingsmethoden het meest geschikt zouden zijn. Hier lag de focus op intuïtiviteit, snelheid van bediening, foutgevoeligheid en betrouwbaarheid onder druk.
+
+#### Materiaal & methoden
+Voor dit onderzoek werden negen verschillende prototypes vervaardigd met een 3D-printer in PLA-materiaal. Voordat de prototypes konden worden ontwikkeld, vond een grondig vooronderzoek plaats naar de antropometrische data van de doelgroep. Hierbij werd de handmaat van mannen en vrouwen in de leeftijdscategorie 18-65 jaar bestudeerd, met speciale aandacht voor de Belgische bevolking[^3].
+
+Door gebruik te maken van gegevens uit de DINBelg 2005-norm en aanvullende wetenschappelijke literatuur[^4] over handgereedschappen, werden de relevante afmetingen verzameld. Het ontwerp werd gebaseerd op het percentielgedreven ontwerpprincipe, gericht op het ‘mean’ met een dekking van 90% van de gebruikers (P5-P95). Concreet betekent dit dat het product geschikt is voor handlengtes tot 210,84 mm, wat volgens de berekeningen (µ + 1,28σ) de P90-waarde vertegenwoordigt voor de handlengte.
+
+Berekeningen:
+P90: voor 90% => z = +1.28 (bron: Bastiaan Baccarne. (2024). Tabel 5 Populations & diversity in design + fysieke ergonomie - z-table. Cursus Gebruiksgericht Ontwerpen.)
+
+P90 = µ + z*σ = 189 + 1.82 * 12 = 210.84 mm
+
+![tabelhanden](https://github.com/MattizV/UCD/blob/main/fotos/tabelhanden.png)
+![volgordeprototypes](https://github.com/sidmunck/UCD/blob/main/fotos/volgordeprototypes.png)
+
+De negen prototypes werden elk getest op comfort, grip en gebruiksgemak door middel van de Comfort Questionnaire for Hand Tools (CQH), een gevalideerde vragenlijst die normaal wordt ingezet voor handgereedschap maar goed toepasbaar is voor deze context.
+
+De testpersonen kregen de prototypes één voor één in verschillende situaties, zoals zittend, staand en lopend, om de variatie in gebruik te simuleren. Hierbij werden de Think Aloud- en Question Asking Protocols toegepast, waarbij gebruikers hun ervaringen en voorkeuren mondeling konden toelichten tijdens het testen. Na het uittesten van elk prototype werd de CQH-schaal ingevuld. Op basis van deze gegevens konden later de gemiddelde scores vergeleken worden.
+
+
+(Om daarnaast de gebruikservaring verder te verbeteren, werd onderzocht hoe een eenvoudig visueel feedbacksysteem geïntegreerd kan worden. Gebruik van zichtbaarheid en feedbackmechanismen zijn tenslotte kernprincipes uit interaction design.
+In een afzonderlijk benchmarkonderzoek naar de cases van draadloze oortjes werd vastgesteld dat LED-indicatoren essentieel zijn om eenvoudig feedback te geven over de status van een apparaat, zoals opladen, batterijstatus en activatie. 
+Door gebruik te maken van eenvoudige knipper- en brandpatronen van LED's in plaats van gekleurde lichten, wordt rekening gehouden met toegankelijkheidsrichtlijnen zoals differentiatie op basis van patronen i.p.v. kleur.
+Het toevoegen van zo een visueel feedbacklampje zal bijdragen aan meer gebruiksvriendelijkheid en vertrouwen tijdens panieksituaties.
+
+Voor dit onderzoek werd er gebruik gemaakt van gebruikersinterviews in combinatie met een morfologische matrix. )
+
+
+Voor de fysieke bediening werden vier combinaties samengesteld via een morfologische matrix, bestaande uit drukknoppen, draaiknoppen, schuifschakelaars en joystick-achtige bedieningselementen. Deze combinaties werden weergegeven in schetsen en getest met drie proefpersonen, die hun voorkeuren en motivatie toelichtten tijdens interviews.
+
+Bij de evaluatie werd gelet op intuïtiviteit, foutgevoeligheid, snelheid en vertrouwen in het gebruik onder stressvolle omstandigheden. Dit onderzoek vond plaats in een rustige setting om de focus op de bedieningservaring te behouden. Ook hier werden de TAP en QAP methodes toegepast om diepgaande feedback te verkrijgen.
+
+Op het einde werd er aan de testpersonen gevraagd om hun eigen ideale combinatie samen te stellen en elke keuze grondig te onderbouwen.
+
+FOTO VAN MORFOLOGISCHE MATRIX
+FOTO VAN EIGEN COMBINATIES
+
+#### Resultaten
+De analyse van de negen prototypes leverde een duidelijke winnaar op: prototype 3 scoorde gemiddeld 4,86 op een schaal van 7, vooral vanwege zijn uitstekende comfort, grip en gebruiksgemak. Dit bevestigt het belang van een vroege ergonomische optimalisatie bij productontwikkeling. 
+
+Prototype 1 werd als te groot en onhandig ervaren, wat het gebruik voor een breed publiek beperkt. Prototype 9 scoorde het laagst door diverse ergonomische tekortkomingen. De overige prototypes vertoonden gemiddelde prestaties zonder opvallende sterke of zwakke punten.
+
+Uit het Question Asking Protocol kwamen waardevolle suggesties voor verdere verfijning, zoals:
+- Het product niet volledig rond ontwerpen om wegrollen te voorkomen
+- Een asymmetrisch ontwerp overwegen, waardoor bijvoorbeeld de luidspreker intuïtiever te vinden is in panieksituaties en het product makkelijker vast te houden is
+- Het toevoegen van een lusje of draagmechanisme om het product makkelijker mee te nemen en te voorkomen dat het kwijtraakt
+
+Deze inzichten benadrukken het belang van gebruiksgemak en vertrouwen in het product, vooral omdat het dient als een steunpunt in stressvolle momenten.
+
+![tabelexcel](https://github.com/sidmunck/UCD/blob/main/fotos/tabelexcel.png)
+
+![designrequirementDeelopdracht3](https://github.com/MattizV/UCD/blob/main/fotos/designrequirementDeelopdracht3.png)
+
+Uit het onderzoek naar de bediening bleek dat eenvoudige drukknoppen aan de zijkant de voorkeur hebben van twee van de drie testers. Deze methode werd als het meest intuïtief en foutbestendig beoordeeld.
+
+Draaiknoppen zonder mechanische feedback werden als verwarrend ervaren, en joystick-achtige bedieningselementen als te complex voor snelle actie tijdens een paniekaanval. Ook werd duidelijk dat er behoefte is aan een snelle activeringsknop voor een voorkeursinstelling, zodat gebruikers direct kunnen schakelen zonder ingewikkelde handelingen.
+
+#### Conclusies en implicaties
+De resultaten van dit onderzoek tonen aan dat het product ontworpen moet worden met een duidelijke focus op ergonomie en eenvoud in bediening, om de gebruiker in stressvolle situaties maximale steun te bieden.
+
+Het gekozen ontwerp (prototype 3) voldoet aan de antropometrische eisen van 90% van de Belgische doelgroep en scoort hoog op comfort en gebruiksgemak. Dit betekent dat het product een optimale balans biedt tussen grootte, grip en vorm, wat essentieel is om vertrouwen en gebruiksgemak te waarborgen.
+
+Het onderzoek naar fysieke bediening wijst op de noodzaak van eenvoudige, snel te bedienen drukknoppen. Complexere bedieningselementen zoals draaiknoppen en joysticks zijn minder geschikt in contexten waar snelle en foutloze bediening cruciaal is.
+
+Ook het visuele feedbacksysteem met LED-indicatoren draagt bij aan het vertrouwen van de gebruiker, door duidelijkheid te geven over de status van het apparaat zonder dat dit extra cognitieve belasting oplevert. Door te kiezen voor patronen in plaats van kleuren wordt rekening gehouden met toegankelijkheid.
+
+### The human senses
+#### Doelstellingen
+Het doel van deze deelopdracht is om diepgaande inzichten te verkrijgen in het gebruik van sensorische elementen — met name trillingen, geluid en visuele signalen — om personen die paniekaanvallen ervaren effectief te kalmeren. Hierbij wordt onderzocht hoe deze zintuiglijke stimuli kunnen bijdragen aan het creëren van rust, controle en comfort tijdens een acute stresssituatie. Er wordt specifiek gekeken naar welke trillingpatronen, geluidsfrequenties en visuele feedback het meest geschikt en effectief zijn voor dit doel.
+
+Daarnaast richtte dit onderzoek zich later ook op het belang van de vormgeving en esthetiek van het apparaat. Omdat visuele indrukken een directe impact hebben op het emotioneel welzijn, wordt de rol van productdesign als een ondersteunend element voor rust en veiligheid onderzocht. Het uiteindelijke doel is om een product te ontwerpen dat niet alleen functioneel is, maar ook emotioneel aansluit bij de behoeften van gebruikers in stressvolle situaties.
+
+In het laatste onderzoek werd er nog een deelonderzoek opgesteld waar er werd geëvalueerd welke vorm van feedback (visueel, auditief of haptisch) het meest intuïtief en doeltreffend is. Hierbij ligt de nadruk op hoe gebruikers zonder voorafgaande uitleg de betekenis van signalen kunnen interpreteren, en welke feedbackvorm het beste aansluit bij de context van paniekbeheersing.
+
+#### Materiaal en methoden
+Voor het onderzoek werd een prototype ontwikkeld op basis van Arduino-technologie, uitgerust met een trilmotor, een DFPlayer voor geluidsweergave, een luidspreker en een interface die via Protopie Connect bediend kon worden. Testpersonen kregen de mogelijkheid het prototype te bedienen via deze interface.
+
+In een eerste testronde werd onderzocht welke soorten trillingpatronen — zoals korte en pulserende trillingen versus lange, continue trillingen — het meest prettig werden ervaren door gebruikers. In een vervolgtest werd de gebruikersinterface getest, waarbij zowel objectieve data als subjectieve feedback werd verzameld.
+
+De hartslag van elke deelnemer werd gemeten vóór, tijdens en na het gebruik van het prototype, als objectieve maat voor stress- en kalmeringsniveaus. Ook werd de tijd gemeten die elke gebruiker nodig had om te kalmeren. Na iedere testronde vulden deelnemers een Self-Assessment Manikin (SAM)-schaal en de System Usability Scale (SUS) in om emotionele ervaringen en gebruiksvriendelijkheid te evalueren. Door gebruik te maken van de Think Aloud-methode en het Question Asking Protocol (QAP) konden deelnemers bovendien spontane feedback en suggesties geven. Real-time subjectieve feedback werd verzameld met behulp van de Experience Sampling Method (ESM).
+
+FOTO VAN TIJDENS TEST
+
+Tijdens deze fase is ook onderzocht of een geïntegreerde hartslagmeter in het apparaat haalbaar en zinvol is. Biomonitoring is binnen fysiometrisch onderzoek een waardevolle techniek om de impact van producten op gebruikers te evalueren. Een apart literatuuronderzoek (+LINK NAAR ONDERZOEK) wees uit dat het bieden van biofeedback, zoals real-time hartslagmeting, gebruikers kan helpen om stress- en paniekniveaus beter te monitoren en te reguleren.
+
+Hoewel het technisch mogelijk bleek om een sensor in het toestel te integreren, werd het koppelen van bestaande wearables zoals smartwatches als een praktischere en gebruiksvriendelijkere oplossing gezien. Zo kan het apparaat eenvoudig data uit deze externe sensoren halen zonder het product onnodig duur of complex te maken.
+
+Voor de geluidsfunctie werd gebruik gemaakt van muziek op een frequentie van 432 Hz. Deze frequentie wordt in verschillende therapeutische contexten als zachter en rustgevender ervaren dan de gangbare 440 Hz, en zou volgens bepaalde bronnen beter aansluiten bij natuurlijke lichaamsfrequenties (+ LINK VOORONDERZOEK FREQUENTIE). Hoewel het wetenschappelijke bewijs beperkt is, wijzen praktijkervaringen binnen muziektherapie op mogelijke kalmerende effecten op het zenuwstelsel. Aangezien het doel van het product is om panieksymptomen te reguleren, werd deze frequentie als potentieel ondersteunend element in het prototype opgenomen.
+
+Voor het aspect uiterlijk en vormgeving werden vier verschillende renders van het product aan de testpersonen getoond. Elk ontwerp had dezelfde functionele inhoud, maar verschilden in kleur, materiaal en afwerking. Via het QAP werden gebruikers gevraagd de ontwerpen te beoordelen op rustgevendheid, sociaal aanvaardbaarheid en esthetiek. Tevens moesten ze vier kernwoorden kiezen uit een lijst van tien die volgens hen het beste bij het ontwerp pasten, om zo genuanceerde emotionele associaties te kunnen vastleggen.
+
+FOTO 4 RENDERS
+
+Voor het onderzoek naar feedbackvorm werden drie verschillende testopstellingen ontworpen: één voor visuele, één voor auditieve, en één voor haptische feedback. Gebruikers werden in simulaties geplaatst waarin het apparaat signalen gaf bij bijvoorbeeld het opladen of een bijna lege batterij. Zonder uitleg moesten zij de betekenis van deze signalen interpreteren. Deze tests werden uitgevoerd met een geprint prototype met aan/uit-knop en LED, en een Arduino-gestuurde schakeling met buzzer, DFPlayer, luidspreker en LED. Na afloop werd gebruikgemaakt van Likert-schaalvragen en het TAP om voorkeuren en interpretaties te evalueren. Gebruikers kregen ook de kans hun ideale feedbackconfiguratie samen te stellen.
+
+FOTO TESTOPSTELLING LAMP/TRILLING/GELUID
+
+#### Resultaten
+Uit de test bleek een duidelijke voorkeur voor korte en pulserende trillingpatronen boven lange, continue trillingen. Alle testpersonen gaven aan dat de korte trillingen bij fasewisselingen het meest aangenaam waren en als kalmerend werden ervaren. Dit patroon wordt daarom als standaard in het ontwerp opgenomen.
+
+De hartslagmetingen toonden aan dat zowel de trilling- als de muziekfunctie van het prototype een significant kalmerend effect hadden. Gemiddeld daalde de hartslag tijdens gebruik van de trillingsfunctie van 103,67 bpm naar 66,67 bpm, en bij de muziekfunctie van 115 bpm naar 70 bpm. Na het testen bleef de hartslag licht verhoogd ten opzichte van het kalme niveau, maar lag nog steeds ruim onder de beginwaarden. Dit wijst op een duurzaam rustgevend effect. Zowel de directe sensorische prikkels als de bewuste herkenning van rustgevende signalen droegen bij aan de kalmering, in lijn met psychologische theorieën over snelle en langzame cognitieve processen (fast and slow thinking).
+
+De gebruiksvriendelijkheidsscores (SUS) waren voor de trillingsfunctie gemiddeld 70,8 en voor de muziekfunctie 80, beide boven de algemeen geaccepteerde drempel van 68. De muziekfunctie werd door gebruikers als duidelijk gebruiksvriendelijker ervaren. Ook de SAM-scores bevestigden een positieve emotionele ervaring, vooral op het vlak van valentie (positieve gevoelens) en controle, cruciale factoren bij panieksituaties.
+
+Gebruikers gaven aan dat bediening via een app tijdens paniekaanvallen niet altijd praktisch is. Daarom werd een “lock”-functie gewenst waarbij vooraf ingestelde patronen via een fysieke knop kunnen worden geactiveerd. Dit benadrukt het belang van redundantie en eenvoudige bediening om cognitieve belasting in stresssituaties te minimaliseren. Ook de mogelijkheid om uit meerdere patronen te kiezen en eigen muziek of trillingsfrequenties toe te voegen, werd positief ontvangen.
+
+De gemiddelde tijd die nodig was om tot kalmering te komen, was 6,67 minuten. Hoewel dit een snelle werking suggereert, is vervolgonderzoek in echte panieksituaties noodzakelijk voor definitieve conclusies.
+
+![resultatenT](https://github.com/sidmunck/UCD/blob/main/fotos/resultatenT.png)
+![resultatenG](https://github.com/sidmunck/UCD/blob/main/fotos/resultatenG.png)
+
+Het onderzoek naar uiterlijk en materiaalkeuze liet zien dat gebruikers unaniem de voorkeur gaven aan een matte, zachte afwerking in neutrale kleuren zoals beige. Glanzende materialen werden als storend ervaren. Het meest gekozen ontwerp werd omschreven met woorden als “rustgevend”, “zorgzaam” en “vertrouwd”. Discretie was een belangrijke eis; gebruikers wilden zich niet schamen om het apparaat te gebruiken in het openbaar. Subtiele materiaalcontrasten binnen eenzelfde kleurenschema werden als positief ervaren. De combinatie van visuele rust en sociaal aanvaardbare esthetiek was doorslaggevend.
+
+Wat betreft de feedbackvorm werd haptische feedback het meest intuïtief, aangenaam en effectief bevonden. Deze kreeg de hoogste scores op de Likert-schaal. Visuele feedback werd neutraal beoordeeld, terwijl auditieve feedback het laagst scoorde en vaak als storend of ongepast werd ervaren, vooral in sociale contexten.
+
+De ideale feedbackconfiguratie volgens de testpersonen bestaat uit:
+- 1 à 2 korte trillingen voor aan/uit
+- 5 korte trillingen voor een lege batterij
+- een zacht knipperende LED bij het starten van het opladen
+- een continu brandende LED bij een volle batterij.
+
+De design requirements die uit deze deelopdracht kunnen worden gehaald zijn hieronder per categorie weergegeven en kunnen ook worden teruggevonden in het algemene document.
+![designr2](https://github.com/sidmunck/UCD/blob/main/fotos/designr2.png)
+
+
+### The human mind
+#### Doelstellingen
+Het doel van dit onderzoek is om te onderzoeken hoe mentale processen zoals aandacht, stress, geheugen en intuïtie een rol spelen in de interactie tussen mens en technologie. Door te analyseren hoe het brein van gebruikers functioneert in panieksituaties, kan een product worden ontwikkeld dat het best aansluit bij de mentale noden van de gebruiker. 
+Er wordt onderzocht welke interface het meest geschikt is voor gebruik in acute stresssituaties. Hierbij werd specifiek gekeken naar hoe gebruikts informatie mentaal verwerken tijdens een paniekaanval, en welke ontwerpkeuzes (zoals bijv. visuele hiërarchie) dit kunnen ondersteunen of juist tegenwerken. 
+
+
+#### Materiaal en methoden
+Voor deze evaluatie werden twee visuele interfaceprototypes ontworpen, elk met een andere visuele stijl en opbouw. De prototypes werden gemaakt in figma en konden net zoals elke andere app worden bediend. 
+
+Drie testpersonen die ervaring hebben met het ervaren van paniekaanvallen kregen beide interfaces afzonderlijk te zien in een rustige, huiselijke omgeving. Ze werden gevraagd om door de schermen te navigeren en vervolgens hun ervaringen te delen in een interview, gebaseerd op het Question Asking Protocol. 
+
+De focus lag op de beoordeling van intuïtiviteit, visuele hiërarchie, herkenbaarheid van knoppen en geschiktheid tijdens momenten van paniek. 
+
+FOTOS INTERFACES
+
+Daarnaast werd binnen dit onderzoek nagegaan of er behoefte is aan een ingebouwd trainingsprogramma, dat gebruikers helpt om op voorhand te oefenen met ademhalingstechnieken en vibratiemethodes. Dit onderdeel werd onderzocht via gebruiksinterviews waarbij gebruik werd gemaakt van een storyboard dat de rode draad bood voor het gesprek. Dit storyboard (VERWIJZEN HIERNAAR) hielp de testpersonen om zich in te beelden hoe het trainingsprogramma gebruikt zou worden. 
+
+Tijdens de interviews werd gepeild naar het gebruik van het toestel in preventieve, rustige momenten, om zo te beoordelen of een trainingsfunctie waardevol wordt geacht. Daarnaast werd via drie fictieve productvarianten met verschillende prijsstellingen inzicht verkregen in de prijsperceptie en voorkeuren van de gebruikers. 
+
+FOTO OPTIES REMMIE 
+
+
+#### Resultaten 
+Uit de testen kwam interface 1 als duidelijke voorkeur naar boven. Deze interface werd omschreven als rustgevend, overzichtelijk en intuïtief. Dit dankzij de sobere layout, grote knoppen en duidelijke visuele hiërarchie. De symbolen die werden begeleid met tekst en het consistente kleurgebruik droegen bij aan een zeer snelle herkenning. 
+Interface 2 werd als speelser ervaren, ondanks dat sommige visuele elementen (bijv. de smileys) het hier beter deden dan bij interface 1. 
+
+Een verbeterpunt was de behoefte aan visuele begeleiding bij trillingsoefeningen, bijvoorbeeld via een eenvoudige animatie.
+
+De interviews over de nood aan een trainingsprogramma toont aan dat alle respondenten een duidelijke meerwaarde zien in deze functie. Voor beginnende gebruikers volstaat een basispakket (Remmie Basic), terwijl voor gebruikers met veel ervaring met paniekaanvallen die onopgelost blijven Remmie Plus of Premium toch een betere oplossing blijkt. 
+Er werd ook aangehaald dat het zeer korte en krachtige sessies moeten zijn met dagelijkse herinneringen.
+
 ## Bill of materials
 <p align=center>  
   <img src="fotos/schema_BillOfMaterials.png") alt=testlocatie width=50% />
@@ -214,166 +381,6 @@ Deze fase legt een sterke basis voor de volgende stap in het ontwikkelingsproces
             <td><strong>€12.04 - €13.96</strong></td>
         </tr>
     </table>
-
-## Methodologie semester 2
-??
-
-## Developing
-In de developing fase ligt de focus meer op het optimaliseren van de fysieke ergonomie, de cognitieve en de sensoriële ergonomie. Dit wil zeggen dat er wordt gewerkt naar een verfijning van het product. Frictiepunten worden hierbij actief opgespoord en weggenomen om de gebruikservaring te optimaliseren. Er zal worden gefocust op verschillende lichaamsgerelateerde maten voor het ontwerp (rekening houdend met variatie in ergonomie zoals leeftijd, geslacht, cultuur). Ook zal het gebruiksgemak en de functionaliteit geoptimaliseerd worden (gebruikmakend van principes zoals usability en UX design). 
-
-In deze fasen wordt niet alleen aandacht besteed aan de fysieke vorm en het gebruiksgemak, maar ook aan het integreren van ondersteunende technologieën zoals feedbacksystemen en sensoren om de werking van het product te versterken (zoals design principle: zichtbaarheid, feedback en UX design).
-
-### The human body 
-#### Doelstellingen
-De eerste stap binnen de developing fase is het bepalen van de optimale grootte en vorm van het product. Er wordt op zoek gegaan naar welke vormen als aangenaam worden ervaren door de gebruikers en welke absoluut niet. Door het herontwarren van de betrokkenen werd het duidelijk wie er allemaal geraakt werd door het product en welke ergonomische eisen zij stellen. Er wordt rekeningen gehouden met de ergonomische richtlijnen zoals antropometrie en biomechanica. Dit in combinatie met het zoeken naar afmetingen die voor een zo groot mogelijke groep van gebruikers als aangenaam worden ervaren. Het doel hiervan is om aan 'design for diveristy' te doen in plaats van 'Procrustean thinking'. 
-
-Naast de vorm en afmetingen van het toestel is ook de fysieke bediening ervan van cruciaal belang. Daarom werd in een afzonderlijke deelopdracht onderzocht welke besturingsmethode het meest geschikt is wanneer het toestel zonder pp moet functioneren. De nadruk hierbij ligt op het gebruiksgemak, foutgevoeligheid en betrouwbaarheid tijdens fysieke contact met het toestel. Aangezien dit onderzoek deel uit maakt van 'the human body', werd dit later aangevuld. 
-
-#### Materiaal & methoden
-Voor dit onderzoek werden negen verschillende prototypes uitgeprint met een 3D printer in PLA. Alvorens deze prototypes konden worden gemaakt, werd er een vooronderzoek gedaan naar de antropometrie. Hierbij werd er gezocht naar wat de afmetingen zijn voor handen van vrouwen en mannen gecombineerd, binnen een leeftijdscategorie van 18 - 65 jaar. 
-Na het doorzoeken van de DINBelg 2005 [^3] en een ander zeer interessant artikel [^4] over het onderzoek naar afmetingen van 'hand tools' werden er de eerste ideeën uitgewisseld. 
-
-In dit onderzoek wordt er gefocust op 'design for the mean'. Dit betekent dat het product geoptimaliseerd is voor het gemiddelde van de populatie, met dekking voor 90% van de gebruikers (P5-P95), volgens het protocol voor percentielgedreven ontwerp. 
-Bij het berekenen van P90 voor de handlengte, de belangrijkste afmeting in dit geval, bij het gebruiken van de waarden die terug werden gevonden in de DINBelg 2005 worden volgende waarden terug gevonden:
-
-P90: voor 90% => z = +1.28 (bron: Bastiaan Baccarne. (2024). Tabel 5 Populations & diversity in design + fysieke ergonomie - z-table. Cursus Gebruiksgericht Ontwerpen.)
-
-P90 = µ + z*σ = 189 + 1.82 * 12 = 210.84 mm
-
-Als het product zorgt dat het met een handlengte van 210.84 mm wordt gemaakt, is het op 90% van de gebruikers afgestemd.
-
-Bij het doorzoekenen van de DINBelg 2005 en ander relevant onderzoek werd er specifiek gefocust op de Belgische bevloking. De gegevens die hieruit voortkwamen zijn representatief voor diverse gebruikers in België en dienen als basis voor de ontwerpkeuzes die specifiek gericht zijn op de Belgische context. 
-
-![tabelhanden](https://github.com/MattizV/UCD/blob/main/fotos/tabelhanden.png)
-![volgordeprototypes](https://github.com/sidmunck/UCD/blob/main/fotos/volgordeprototypes.png)
-
-Als evaluatie methode voor dit onderzoek werd er gebruik gemaakt van de Comfort Questionnaire for Hand Tools (CQH). Deze vragenlijst wordt gebruikt om het comfort van handgereedschappen te beoordelen en heeft dus in zekere mate enkele gelijkenissen met het doel van deze test. 
-De testen vonden plaats in een huiselijke omgeving waarbij de testpersoon elk prototype één voor één moest vasthouden en gebruiken. Het Think Aloud protocl, en later het Question Asking protocol, werden toegepast. Ook werd er gevraagd aan de testpersoon het prototype als zitten, wandelend... te gebruiken aangezien dit product in elke mogelijke context gebruikt zal kunnen worden.
-Per prototype werd de CQH ook ingevuld. Met behulp van deze verkregen informatie konden de prototypes uiteindelijk door middel van hun gemiddelde scores onderling vergeleken worden. 
-
-Om daarnaast de gebruikservaring verder te verbeteren, werd onderzocht hoe een eenvoudig visueel feedbacksysteem geïntegreerd kan worden. Gebruik van zichtbaarheid en feedbackmechanismen zijn tenslotte kernprincipes uit interaction design.
-In een afzonderlijk benchmarkonderzoek naar de cases van draadloze oortjes werd vastgesteld dat LED-indicatoren essentieel zijn om eenvoudig feedback te geven over de status van een apparaat, zoals opladen, batterijstatus en activatie. 
-Door gebruik te maken van eenvoudige knipper- en brandpatronen van LED's in plaats van gekleurde lichten, wordt rekening gehouden met toegankelijkheidsrichtlijnen zoals differentiatie op basis van patronen i.p.v. kleur.
-Het toevoegen van zo een visueel feedbacklampje zal bijdragen aan meer gebruiksvriendelijkheid en vertrouwen tijdens panieksituaties.
-
-Voor dit onderzoek werd er gebruik gemaakt van gebruikersinterviews in combinatie met een morfologische matrix. 
-
-In een volgende stap werd de fysieke besturingswijze onderzocht. Hiervoor werden 4 verschillende combinaties samengesteld met behulp van een morfologische matrix. Samenstellingen met drukknoppen, draaiknoppen, schuifschakelaars en joystickachtige bediening werden weergegeven in schetsen en getoond aan de drie testpersonen. De gebruikers konden hun voorkeur uitdrukken aan de hand van interviews en mochten later ook zelf een ideale combinatie samenstellen. Hierbij werd gevraagd om hun keuzes te motiveren op vlak van intuïtiviteit, foutgevoeligheid, snelheid van bediening en vertrouwen bij gebruik in panieksituaties. 
-
-FOTO VAN MORFOLOGISCHE MATRIX
-FOTO VAN EIGEN COMBINATIES
-
-Er werd gelet op factoren zoals per ongeluk activeren, gevoelsmatige controle en snelheid van bediening in panieksituaties. De evaluaties vonden plaats in een rustige omgeving. Ook hier werd het TAP en QAP opnieuw toegepast. 
-
-#### Resultaten
-Van de negen geteste prototypes toonde prototype 3 de beste resultaten, dit met een gemiddelde van 4,86 op 7. De hoge score op comfort, grip en gebruiksgemak bevestigt het belang van ergonomische optimalisatie in early-stage prototypes. 
-De gemiddelde scores werden berekend in een excel sheet. De negatief geformuleerde vragen werden eerst omgerekend om een correcte score te bekomen. 
-Prototype 1 scoorde ook goed, maar werd als te groot ervaren. Het ontwerp moet voor een zo groot mogelijke groep aan gebruikers bruikbaar zijn en dat is bij dit prototype dus absoluut niet het geval. Prototype 9 scoorde het minst goed door enkele ergonomische tekortkomingen. 
-De overige prototypes vertoonden gemiddelde prestaties zonder uitgesproken sterke of zwakke punten. 
-Tijdens het Question Asking Protocol kwamen er ook verschillende suggesties naar boven die zeer interessant zouden kunnen zijn in de verdere ontwikkeling van het product. Zo werd er voorgesteld om het product niet volledig rond te laten zodat het niet kan wegrollen. Een ander voorstel was om het toestel asymmetrisch te maken waardoor de luidspreker misschien meer intuïtief werd terug gevonden in momenten van paniek en om op deze manier de belasting bij gebruik te verlagen. Het laatste voorstel heeft betrekking op het meenemen van het toestel. Zo zou het toevoegen van een lusje een simpele maar toch heel handige oplossing zijn om het minder snel kwijt te geraken. 
-
-De reden waarom prototype 3 beter scoorde dan de overige prototypes is dat het zeer goed scoorde op gebied van gebruiksgemak, grip en algemeen comfort. Dit zijn drie zeer belangrijke punten, aangezien de gebruiker zich vertrouwd moet kunnen voelen met het product. Het product moet dienen als steunpunt in moeilijke situaties waarop de gebruiker volledig kan vertrouwen.
-
-![tabelexcel](https://github.com/sidmunck/UCD/blob/main/fotos/tabelexcel.png)
-
-![designrequirementDeelopdracht3](https://github.com/MattizV/UCD/blob/main/fotos/designrequirementDeelopdracht3.png)
-
-Bij het onderzoek naar de fysieke besturingsmethode werd duidelijk dat eenvoudige drukknoppen aan de zijkant de voorkeur kregen. Twee van de drie testpersonen verkozen deze methode boven andere opties zoals draaiknoppen of joysticks. Dit vooral omwille van het intuïtieve gebruik en de lagere kans op fouten. Draaiknoppen zonder mechanische werden als verwarrend ervaren, terwijl joysticks te complex waren voor snelle bediening. 
-De nood naar een functie om met een snelle bediening een voorkeursinstelling te activeren werd zeer duidelijk.
-
-### The human senses
-#### Doelstellingen
-Het doel van deze deelopdracht is om inzichten te verwerven in hoe sensorische elementen zoals trillingen en geluid op een effectieve manier kunnen worden ingezet bij het kalmeren van personen die paniekaanvallen ervaren. Er wordt nagegaan hoe deze stimuli kunnen bijdragen aan het geven van rust, controle en comfort tijdens een paniekaanval. Er wordt onderzocht welke trilling patronen, geluiden en intensiteiten het meest geschikt zijn. 
-Dit onderzoek heeft als doel om het ontwerp van dit apparaat te optimaliseren en aan te passen aan de reële noden van de eindgebruikers in paniek situaties. 
-
-Daarnaast werd ook onderzocht hoe visuele zintuigelijke elementen bijdragen aan het emotionele comfort van de gebruiker. Vormgeving speelt namelijk een essentiële rol in het creëren van rust en veiligheid. De esthetiek van een product beïnvloedt meteen de perceptie en het emotioneel welzijn van de gebruiker, voornamelijk in contexten waar sprake is van veel stress.
-
-Ten slotte werd in een apart onderzoek nagegaan welke vorm van feedback (visueel, auditief of haptisch) het meest intuïtief en doeltreffen is voor gebruikers. Hierbij werd de focus gelegd op hoe gebruikers onvoorbereid de betekenis van verschillende feedbacksignalen konden interpreteren en welke vorm zij als het meest aangenaam en geschikt ervaren voor dit type product. 
-
-#### Materiaal en methoden
-Voor dit onderzoek werd een prototype ontwikkeld op basis van Arduino, voorzien van een trilmotor, DFPlayer, luidspreker en een interface via Protopie Connect. De testpersonen konden het prototype dus bedienen via de interface. 
-Eerst werd er een kleine test uitgevoerd waarin de testpersonen moesten aangeven welke trilling weergave ze het meest aangenaam vonden. Daarna vond de test met de interface plaats.
-Tijdens deze test werd verschillende data verzameld, zowel objectieve parameters als subtjectieve feedback. Zo werd de hartslag van elke testpersoon voor, tijdens en na het uittesten van het prototype gemeten. Ook de tijd die de testpersoon nodig had om te kalmeren werd zorgvuldig bijgehouden. Na het uitvoeren van elke test vulden de testpersonen telkens een SAM-schaal en een SUS-schaal in. Met behulp van het Think Aloud en het Question Asking Protocol konden de gebruikers nog extra feedback en opmerkingen delen. Daarnaast werd het principe van Experience Sampling Method (ESM) toegepast, door real-time subjectieve feedback te verzamelen tijdens en vlak na de ervaring. 
-
-Tijdens deze fase werd ook de mogelijkheid onderzocht om een hartslagmeter in het toestel te integreren. Het meten van biometrische gegevens wordt binnen fysiometrisch onderzoek gebruikt om de effecten van producten op gebruikers te evalueren. Een afzonderlijk onderzoek wees uit dat een interne hartslagmeter waardevolle biofeedback kan geven aan gebruikers die willen monitoren of hun stress- of paniekniveau daalt. 
-Hoewel het integreren van een eigen sensor mogelijk zou zijn, bleek het uiteindelijk dat het verbinden van bestaande wearables zoals smartwatches een meer haalbare en gebruiksvriendelijkere optie is. 
-Zo kan Remmie eenvoudig gegevens uit bestaande toestellen halen, zonder de prijs en complexiteit van het product sterk te verhogen. 
-De hartslag werd als objectieve fysiologische parameter gemeten om het directe effect van de toegepaste sensorische stimuli op het stressniveau van de gebruiker te evalueren. 
-
-![prototype2](https://github.com/sidmunck/UCD/blob/main/fotos/prototype2.png)
-![interfaceT](https://github.com/sidmunck/UCD/blob/main/fotos/interfaceT.png)
-![interfaceG](https://github.com/sidmunck/UCD/blob/main/fotos/interfaceG.png)
-
-In dit onderzoek werd er gebruik gemaakt van muziek met een frequentie van 432 Hz omdat deze frequentie volgens verschillende bronnen meer in harmonie zou zijn met de natuurlijke trillingen van het menselijk lichaam en de natuur. Muziek op 432 Hz wordt vaak als zachter en rustgevender ervaren dan de standaard muziek met een frequentie van 440 Hz. Hoewel het wetenschappelijke bewijs hiervoor zeer beperkt is, wijzen verschillende praktijktoepassingen in muziektherapie op mogelijk kalmerende effecten op het zenuwstelsel. Aangezien het doel van dit toestel is om panieksymptomen te reguleren en tot rust te brengen, werd deze frequentie dus geïntegreerd als potentieel ondersteunend element. Het onderzoek hiervan is terug te vinden bij de bijlagen.
-
-![gebruikerstest2](https://github.com/sidmunck/UCD/blob/main/fotos/gebruikerstest2.png)
-
-Voor het deelonderzoek rond uiterlijk en vormgeving kregen testpersonen vier verschillende renders voorgeschoteld. Elk ontwerp bevatte exact dezelfde functionele inhoud, maar verschilde visueel in materiaalgebruik en kleur. Via het QAP werd gepeild naar hoe rustgevend, sociaal geaccepteerd en esthetisch elke render was. 
-De testpersonen kregen de vraag om hun favoriete render te kiezen. Hierbij moesten ze uit een lijst van tien kernwoorden er 4 linken met het ontwerp. Deze techniek werd toegepast om bewuster en meer genuanceerd emotionele associaties bij het ontwerp te kunnen leggen. 
-
-Voor het onderzoek naar de meest geschikte vorm van feedback werden drie verschillende testopstellingen ontworpen. Elke testopstelling stond in voor een andere soort feedback. De testpersonen werden in scenario's geplaatst waarin het toestel reageerde op een bepaalde statusverandering zoals bijvoorbeeld het opladen van het apparaat of wanneer de batterij bijna leeg was. Zonder uitleg moesten ze de betekenis van het signaal interpreteren. 
-Voor deze test werd er gebruik gemaakt van een geprint toestel met een aan/uit-knop en een lampje. Daarnaast werd een schakeling gemaakt opgebouwd uit een arduino uno, buzzer, DFPlayer, luidspreker en LED, die met de methode van "Wizard of Oz" werd bestuurd. 
-Na afloop werd gebruik gemaakt van de Likert-schaal en een voorkeursevaluatie met het TAP. De testpersonen kregen ook de mogelijkheid om hun ideale feedback op het toestel samen te stellen.
-
-FOTO TESTOPSTELLINGEN
-
-#### Resultaten
-Alle drie de testpersonen gaven aan de korte trilling bij faseovergangen te verkiezen boven de continue trilling, waardoor dit patroon absoluut in het uiteindelijke ontwerp moet worden geïntegreerd.
-
-De resultaten tonen aan dat zowel de trilling- als de muziekfunctie van het prototype een merkbaar kalmerend effect hadden op de deelnemers. De gemiddelde hartslag daalde bij het gebruik van de trillingsfunctie van 103,67 bpm naar 66,67 bpm. Bij de muziekfunctie ging deze van 115 bpm naar 70 bpm gemiddeld. Na de test steeg de hartslag van de deelnemers telkens zacht maar bleef nogsteeds ruim onder de meting bij aanvang. Dit wijst op een blijvend rustgevend effect. Zowel de directe zintuigelijke prikkels (trillingen, muziek) als de bewuste interpretatie ervan (herkenning van rustgevende signalen) droegen samen bij aan de kalmering van de testpersonen, in lijn met de theorieën over fast en slow thinking. 
-
-De SUS-scores lagen voor de trillingsfunctie gemiddeld op 70,8 en voor de muziekfunctie op 80. Beide liggen boven het algemeen aanvaarde gemiddelde van 68 op een score van 100. De muziekfunctie werd ook hier duidelijk als gebruiksvriendelijker ervaren. 
-De SAM-scores bevestigen dit ook. Zowel bij de trillingsfunctie als de muziekfunctie werd een positieve emotionele ervaring vastgesteld. De hoogste scores werden gehaald op vlak van valentie en controle. Twee zeer belangrijke factoren in panieksituaties. 
-
-De testpersonen gaven ook aan dat het bedienen van de app in panieksituaties niet altijd mogelijk zal zijn. Het toevoegen van een "lock"-functie, waarbij vooraf ingestelde patronen via een fysieke knop op het product worden geactiveerd, werd als noodzakelijk ervaren. De nood aan deze functie bevestigt het belang van redunantie en simplicity in interaction design om de cognitieve belasting zo veel mogelijk te beperken. Ook werd het kunnen kiezen uit meerdere patronen en het eventueel zelfstandig uploaden van muziek en trillingfrequenties als positief onthaald. 
-
-De benodigde tijd tot kalmering was gemiddeld 6,67 minuten. Dit toont aan dat het prototype zeer snel effect heeft, al blijft verder testing in echte panieksituaties nodig voor sluitende conclusies. 
-
-![resultatenT](https://github.com/sidmunck/UCD/blob/main/fotos/resultatenT.png)
-![resultatenG](https://github.com/sidmunck/UCD/blob/main/fotos/resultatenG.png)
-
-De design requirements die uit deze deelopdracht kunnen worden gehaald zijn hieronder per categorie weergegeven:
-![designr2](https://github.com/sidmunck/UCD/blob/main/fotos/designr2.png)
-
-Bij het onderzoek rond uiterlijk en materiaalkeuze bleek dat gebruikers unaniem de voorkeur gaven aan een toestel met een matte, zachte afwerking in neutrale kleuren zoals beige. Glanzende materialen werd door de drie testpersonen als storend ervaren. De meest gekozen ontwerpvariant werd omschreven met de woorden: "rustgevend", "zorgaam" en "vertrouwd". Belangrijk hierbij was dat het toestel discreet moet zijn: gebruikers mogen zich er niet voor schamen. Subtiele materiaalcontrasten binnen eenzelfde kleurschema werden als positief ervaren. De combinatie van visuele rust en sociaal aanvaardbare esthetiek was de doorslaggevende factor in hun keuze.
-
-Wat betreft de vorm van feedback toonde de evaluatie aan dat haptische signalen het meest intuïtief, aangenaam en effectief werden bevonden. Deze vorm kreeg de hoogste scores op de Likert-schaal van elke testpersoon. Visuele feedback werd eerder als neutraal ervaren en auditieve feedback kreeg de laagste score. Deze werd vaak als ongepast of storend ervaren, zeker in sociale contexten. 
-
-De ideale samenstelling van feedback volgens de testpersonen bestaat uit:
-- 1 à 2 korte trillingen voor aan/uit
-- 5 korte trillingen voor lege batterij
-- LED die zacht knippert bij het starten van het opladen van het toestel en continu brandt bij het hebben van een volle batterij. 
-
-### The human mind
-#### Doelstellingen
-Het doel van dit onderzoek is om te onderzoeken hoe mentale processen zoals aandacht, stress, geheugen en intuïtie een rol spelen in de interactie tussen mens en technologie. Door te analyseren hoe het brein van gebruikers functioneert in panieksituaties, kan een product worden ontwikkeld dat het best aansluit bij de mentale noden van de gebruiker. 
-Er wordt onderzocht welke interface het meest geschikt is voor gebruik in acute stresssituaties. Hierbij werd specifiek gekeken naar hoe gebruikts informatie mentaal verwerken tijdens een paniekaanval, en welke ontwerpkeuzes (zoals bijv. visuele hiërarchie) dit kunnen ondersteunen of juist tegenwerken. 
-
-
-#### Materiaal en methoden
-Voor deze evaluatie werden twee visuele interfaceprototypes ontworpen, elk met een andere visuele stijl en opbouw. De prototypes werden gemaakt in figma en konden net zoals elke andere app worden bediend. 
-
-Drie testpersonen die ervaring hebben met het ervaren van paniekaanvallen kregen beide interfaces afzonderlijk te zien in een rustige, huiselijke omgeving. Ze werden gevraagd om door de schermen te navigeren en vervolgens hun ervaringen te delen in een interview, gebaseerd op het Question Asking Protocol. 
-
-De focus lag op de beoordeling van intuïtiviteit, visuele hiërarchie, herkenbaarheid van knoppen en geschiktheid tijdens momenten van paniek. 
-
-FOTOS INTERFACES
-
-Daarnaast werd binnen dit onderzoek nagegaan of er behoefte is aan een ingebouwd trainingsprogramma, dat gebruikers helpt om op voorhand te oefenen met ademhalingstechnieken en vibratiemethodes. Dit onderdeel werd onderzocht via gebruiksinterviews waarbij gebruik werd gemaakt van een storyboard dat de rode draad bood voor het gesprek. Dit storyboard (VERWIJZEN HIERNAAR) hielp de testpersonen om zich in te beelden hoe het trainingsprogramma gebruikt zou worden. 
-
-Tijdens de interviews werd gepeild naar het gebruik van het toestel in preventieve, rustige momenten, om zo te beoordelen of een trainingsfunctie waardevol wordt geacht. Daarnaast werd via drie fictieve productvarianten met verschillende prijsstellingen inzicht verkregen in de prijsperceptie en voorkeuren van de gebruikers. 
-
-FOTO OPTIES REMMIE 
-
-
-#### Resultaten 
-Uit de testen kwam interface 1 als duidelijke voorkeur naar boven. Deze interface werd omschreven als rustgevend, overzichtelijk en intuïtief. Dit dankzij de sobere layout, grote knoppen en duidelijke visuele hiërarchie. De symbolen die werden begeleid met tekst en het consistente kleurgebruik droegen bij aan een zeer snelle herkenning. 
-Interface 2 werd als speelser ervaren, ondanks dat sommige visuele elementen (bijv. de smileys) het hier beter deden dan bij interface 1. 
-
-Een verbeterpunt was de behoefte aan visuele begeleiding bij trillingsoefeningen, bijvoorbeeld via een eenvoudige animatie.
-
-De interviews over de nood aan een trainingsprogramma toont aan dat alle respondenten een duidelijke meerwaarde zien in deze functie. Voor beginnende gebruikers volstaat een basispakket (Remmie Basic), terwijl voor gebruikers met veel ervaring met paniekaanvallen die onopgelost blijven Remmie Plus of Premium toch een betere oplossing blijkt. 
-Er werd ook aangehaald dat het zeer korte en krachtige sessies moeten zijn met dagelijkse herinneringen. 
 
 ## Kritische reflectie
 In deze reflectie blikken we terug naar het eerste semester van het project ‘Werkbaar werk in de zorg’. Het project bracht een grote uitdaging met zich mee die ons veel heeft geleerd, maar ons ook waardevolle inzichten heeft gegeven. Het heeft ons laten beseffen waar we in de toekomst beter op moeten letten. Het was een leerproces waar we alle drie heel wat kennis uit hebben gehaald die in onze verdere carrière zeker nog van pas zal komen. 
