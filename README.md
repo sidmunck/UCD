@@ -166,7 +166,7 @@ Enkele design requirements die hieruit volgen zijn concreet en toetsbaar:
 -	Het product moet overal te gebruiken zijn.
 -	Het product moet onopvallend kunnen worden gebruikt. 
 -	Eventueel gebruikte LED lampjes moeten ook zichtbaar zijn overdag.
-Het volledige document met design requirements is terug te vinden in de bijlagen (+ LINK)
+Het volledige document met design requirements is terug te vinden in de bijlagen.
 
 Deze fase legt een sterke basis voor de volgende stap in het ontwikkelingsproces: het ontwerpen van een prototype dat aan deze eisen voldoet, gevolgd door uitgebreide gebruikerstests om de effectiviteit en gebruikservaring te optimaliseren.
 
@@ -231,8 +231,6 @@ Uit het Question Asking Protocol kwamen waardevolle suggesties voor verdere verf
 Deze inzichten benadrukken het belang van gebruiksgemak en vertrouwen in het product, vooral omdat het dient als een steunpunt in stressvolle momenten.
 
 ![tabelexcel](https://github.com/sidmunck/UCD/blob/main/fotos/tabelexcel.png)
-
-![designrequirementDeelopdracht3](https://github.com/MattizV/UCD/blob/main/fotos/designrequirementDeelopdracht3.png)
 
 Uit het onderzoek naar de bediening bleek dat eenvoudige drukknoppen aan de zijkant de voorkeur hebben van twee van de drie testers. Deze methode werd als het meest intuïtief en foutbestendig beoordeeld.
 
