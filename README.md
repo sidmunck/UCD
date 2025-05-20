@@ -86,15 +86,24 @@ Tot slot is de fysieke vormgeving van het apparaat een belangrijke factor. Het m
 
 ## Definition
 ### Doestellingen
-In de definition fase is het doel om te kijken hoe reeds bestaande oplossingen die op de markt zijn kunnen worden aangepast en/of gebruikt. Dit werd gedaan door middel van twee waves. Hierin was de bedoeling om vast te stellen welke methoden het meest effectief zouden werken bij het kalmeren van mensen met een paniekaanval en op welke manier dit moet worden aangebracht. 
-De bedoeling is om naar de sterke en zwakke punten te zoeken en op deze manier een concept te vinden dat een effectief hulpmiddel biedt. 
-### Materiaal & methoden
-Om de doelstellingen van de Definition-fase te bereiken, werd gebruikgemaakt van een combinatie van onderzoeksmethoden:
-#### 1. Gebruikertesten
-Er werden twee waves uitgevoerd waarin telkens zeven respondenten werden geïnterviewd en prototypes moesten uittesten. Bij elke wave werd de focus op een ander aspect gelegd. Gebruikers konden hun verwachtingen, behoeften en frustraties in kaart brengen.
-Bij de eerste wave lag de focus op verschillende manieren om ademhalingsoefeningen aan te brengen. Het uitvoeren van ademhalingsoefeningen is de meest gebruikte manier om rust terug te vinden bij het hebben van paniek. Dit kan zeer discreet en overal worden uitgevoerd, een belangrijke factor in wat het product uiteindelijk ook moet kunnen. 
-Met behulp van low-fidelity prototypes konden de respondenten met behulp van kleuren, trillingen, geluid van de zee, klok, timer of stem de ademhalingsoefeningen uitvoeren. 
+In de Definition-fase lag de focus op het verfijnen van inzichten die tijdens de voorgaande Discovery-fase waren verkregen, en op het verkennen van concrete manieren om bestaande oplossingen te verbeteren of te combineren tot een effectief hulpmiddel. Hierbij was het essentieel om vast te stellen welke methoden het meest effectief zijn bij het kalmeren van mensen die een paniekaanval ervaren, en op welke wijze deze methoden het beste kunnen worden aangeboden.
 
+Het primaire doel was om de sterke en zwakke punten van reeds beschikbare hulpmiddelen te identificeren en op basis daarvan een concept te ontwikkelen dat optimaal aansluit bij de behoeften van de gebruikers. De centrale vraag was: welke combinatie van signalen, bediening en ondersteunende technologie levert het meeste effect bij het verminderen van paniekgevoelens, zonder de gebruiker extra stress te bezorgen?
+
+Deze fase was cruciaal om niet enkel theoretische inzichten te verwerken, maar om daadwerkelijk te toetsen wat in de praktijk werkt, met gebruikers als belangrijkste raadgevers.
+
+### Materiaal & methoden
+Om de doelstellingen van deze fase te bereiken, werd een mix van kwalitatieve en praktische onderzoeksmethoden ingezet, waaronder twee opeenvolgende waves van gebruikerstesten en aanvullend literatuur onderzoek. 
+
+#### 1. Gebruikertesten
+Er werden twee waves uitgevoerd met elk zeven respondenten. Hierbij lag de nadruk telkens op een ander aspect van het productconcept. 
+
+##### Wave 1: Ademhalingsoefeningen
+Deze eerste test richtte zich op het onderzoeken van verschillende manieren om ademhalingsoefeningen te begeleiden. Ademhalingsoefeningen zijn immers de meest gebruikte en bewezen methode om tijdens een paniekaanval rust te vinden. Aangezien het product in allerlei situaties moet kunnen worden toegepast, moest deze methode discreet en gemakkelijk toepasbaar zijn.
+
+Met behulp van low-fidelity prototypes kregen gebruikers de mogelijkheid om verschillende soorten signalen uit te proberen: kleuren en lichtpatronen, trillingen, natuurlijke geluiden zoals het kabbelende geluid van de zee, een klok, timer of stembegeleiding. Respondenten gaven feedback over wat het meest hielp om hun ademhaling te reguleren en rust te ervaren.
+
+FOTOS PROTOTYPES MAKEN EN PLAKKEN
 
 <p align=center>  
   <img src="fotos/device_test_wave_1.png") alt=testlocatie width=50% />
@@ -102,9 +111,13 @@ Met behulp van low-fidelity prototypes konden de respondenten met behulp van kle
 <p align=center>  
   <img src="fotos/tril_protoype.jpg") alt=testlocatie width=50% />
 </p>
- 
-In de tweede wave lag de focus op het onderzoeken of een bijhorende app een absolute must zou zijn of net niet. Hiervoor werden drie prototypes gemaakt: één zonder app, een hybride-versie en een volledig app-gebaseerd. Deze prototypes werden in gesimuleerde scenario’s, zoals een drukke openbare ruimte en een rustige omgeving, getest. Respondenten moesten bepaalde oefeningen opstarten, geluiden aanpassen of trillingen activeren.
 
+##### Wave 2: App versus fysieke bediening
+De tweede test richtte zich op de vraag of een bijhorende app noodzakelijk is, of dat het product ook zonder app effectief kan zijn. Hiervoor werden drie prototypes getest: één puur fysiek apparaat zonder app, een hybride model dat zowel fysieke knoppen als een app combineert, en een volledige app-gebaseerde oplossing.
+
+De testen vonden plaats in omgevingen zoals drukke openbare ruimtes en rustige settings. Respondenten moesten oefeningen starten, geluiden en trillingen aanpassen, en het gebruiksgemak in diverse siuaties beoordelen.
+
+Tijdens beide waves werd gebruik gemaakt van role-playing, zodat respondenten de ervaring van een paniekaanval konden simuleren en meteen konden toetsen hoe intuïtief en effectief de prototypes in zulke stressvolle momenten zijn. Alle deelnemers tekenden vooraf een informed consent.
 
 <p align=center>  
   <img src="fotos/device_test_wave2.png") alt=testlocatie width=50% />
@@ -113,42 +126,49 @@ In de tweede wave lag de focus op het onderzoeken of een bijhorende app een abso
   <img src="fotos/device_input.png") alt=testlocatie width=50% />
 </p>
 
-Tijdens deze gebruikerstesten werd er gebruik gemaakt van role-playing. Op deze manier kon er snel en intuïtief worden getest hoe de prototypes gebruikt konden worden in geval van paniek. Elke respondent tekende vooraf een informed consent.
-
 #### 2. Literatuur onderzoek
-Ook werd er een literatuuronderzoek uitgevoerd naar interoceptieve exposure. Dit is een techniek die gebruikt wordt in de klinische psychologie waarbij iemand bewust lichamelijke sensaties gaat opwekken die angst of paniek gaan oproepen. Dit wordt dus gebruikt om te leren hoe men met deze gevoelens kan omgaan in plaats van ze te vermijden.
-Dit onderzoek is een zeer belangrijk deel van de definition fase aangezien hieruit is gebleken dat er nog geen enkel product bestaat dat mensen helpt ondersteunen bij het uitvoeren van deze methoden. 
-(link naar onderzoek)
+Parallel aan de gebruikerstesten werd een diepgaan literatuuronderzoek uitgevoerd naar interoceptieve exposure, een bewezen klinische techniek waarbij gebruikers bewust fysieke sensaties oproepen die angst uitlokken, om zo geleidelijk de angst voor die signalen te verminderen. Dit onderzoek toonde aan dat er nog geen commercieel product bestaat dat deze methode ondersteunt, waardoor er een duidelijke kans ligt om dit in het eigen product te integreren. De wenselijkheid van deze toepassing moet dan eerst wel onderzocht worden. (+ LINK ONDERZOEK INTEROCETIEVE EXPOSURE)
 
 ### Resultaten
-Uit de verzamelde data werden er enkele duidelijke patronen zichtbaar:
+Uit de combinatie van gebruikerstesten en literatuuronderzoek kwamen diverse heldere patronen naar voren die de verdere productontwikkeling richting geven:
+
 #### 1. Gebruiksvriendelijkheid
-Gebruikers gaven aan dat het apparaat intuïtief en direct bruikbaar moet zijn, vooral tijdens een paniekaanval. Complexe interfaces of trage reactietijden vergroten de stress. Tijdens het hebben van een paniekaanval is het heel moeilijk om zelf een hulpmiddel te activeren. Dit moet dus zo snel en makkelijk mogelijk kunnen gebeuren.
+Gebruikers benadrukten dat het apparaat direct en intuïtief bedienbaar moet zijn, zeker in panieksituaties waarin stress en cognitieve overbelasting heersen. Complexe menu's of trage reacties verhogen de angst juist. Het activeren van functies moet daarom binnen enkele seconden kunnen, zonder ingewikkelde handelingen.
+
 #### 2. Discretie en draagbaarheid
-Het apparaat moet compact en onopvallend zijn, zodat het zonder schaamte in publieke ruimtes kan worden gebruikt. Fysieke knoppen zijn in bepaalde scenario's praktischer dan app-bediening. Het verder uitwerken van een hybride systeem (app-product) is dus een goede oplossing.
+Respondenten gaven aan dat het product klein en onopvallend moet zijn, zodat het ook in publieke ruimtes zonder schaamte kan worden gebruikt. Bij een paniekaanval is het vaak niet haalbaar om uitgebruik met een app te werken. Daarom is een fysieke besturing van het toestel in veel situaties veel praktischer. Dit ondersteunt het idee van een hybride ontwerp waarbij zowel fysieke bediening als app-functionaliteit wordt aangeboden.
+
 #### 3. Effectiviteit van signalen
-- Visueel (leds): Lichtpatronen werden als effectief ervaren bij ademhalingsbegeleiding. 
-- Auditief (speaker): Natuurlijke geluiden, zoals het geluid van de zee, bleken rustgevend en intuïtief. 
-- Tactiel (trilling): Trillingen waren nuttig voor sommigen, maar storend voor anderen. Dit legt de nadruk op hoe belangrijk de mogelijkheid is om het product te personaliseren. 
+Verschillende zintuigelijke signalen werden getest met volgende bevindingen: 
+- Visueel (LED-lichtpatronen): Dit werd als effectief ervaren voor het begeleiden van ademhalingsoefeningen, vooral door het ritmische en kalmerende effect. 
+- Auditief (natuurlijke geluiden): Geluiden zoals de zee of zachte stembegeleiding bleken intuïtief en rustgevend te zijn.
+- Tactiel (trillingen): Werden wisselend beoordeeld. Voor sommigen boden trillingen een extra houvast, maar voor anderen waren ze juist storend. Dit benadrukt het belang van personalisatie.
+
 #### 4. Personalisatie
-Gebruikers hechten veel waarde aan de mogelijkheid om instellingen zoals lichtintensiteit, geluidsvolume en trillingspatronen aan te passen via de app.
+Gebruikers hechten veel waarde aan de mogelijkheid om het apparaat naar eigen voorkeur in te stellen. Denk aan het aanoassen van lichtintensiteit, geluidsvolume, trillingspatronen en welke signalen worden ingezet. Deze flexibiliteit vergroot de effectiviteit en het gebruiksgemak aanzienlijk. 
+
 #### 5. App
-In een drukke omgeving bleek fysieke bediening op het apparaat zelf sneller en intuïtiever, terwijl in rustigere omgevingen app-bediening meer flexibiliteit bood.
+De app bleek vooral in rustigere omgevingen nuttig voor het uitvoeren van uitgebreide oefeningen en het aanpassen van instellingen. In drukke of stressvolle situaties werd fysieke bediening sneller en intuïtiever ervaren. Dit bevestigt de keuze voor een hybride interactiemodel waarin het beste van beide werelden wordt gecombineerd.
 
 ### Conclusies & implicaties
-Deze inzichten tonen aan dat een hybride aanpak, waarbij zowel fysieke knoppen als app-functionaliteit worden geïntegreerd, de meeste gebruikersvoordelen biedt. De combinatie van visuele, auditieve en tactiele feedback, samen met personalisatiemogelijkheden, vormt de kern van een effectief ontwerp voor het product.
-Het gebruiken van natuurlijke geluiden bleek uit de eerste wave het meest effectieve hulpmiddel bij ademhalingsoefeningen. Lichtpatronen op het toestel werken ook zeer effectief. De effectiviteit bij het gebruik van trillingen is zeer verschillend. Daarom dus de mogelijkheid tot personalisatie. 
-Uit de tweede wave kon worden besloten dat fysieke bediening van een apparaat effectieve werkt in drukkere omgevingen. Een app is meer effectief in rustigere contexten.
-De implicaties voor het ontwerp zijn duidelijk: het product moet een hybride interactiemodel combineren, waarbij fysieke bediening en app-functionaliteit samenwerken. Daarnaast is verdere verfijning van de feedbacksignalen noodzakelijk, zodat ze effectief zijn zonder overweldigend te worden.
+De inzichten uit de Definition-fase wijzen duidelijk in de richting van een hybride productontwerp, waarin fysieke bediening en app-functionaliteit elkaar aanvullen. Deze aanpak maakt het mogelijk om gebruikers in diverse situaties effectief te ondersteunen, of ze nu in een drukke straat lopen of thuis een oefening willen doen.
 
-Designrequirements:
+De combinatie van meerdere zintuigelijke signalen – visueel, auditief en tactiel – vormt de kern van een effectief kalmeringshulpmiddel. Daarbij is het cruciaal om de gebruiker zelf te laten kiezen welke signalen voor hem of haar het beste werken, door middel van personalisatiemogelijkheden.
+
+Uit de eerste wave kwam naar voren dat natuurlijke geluiden het meest rustgevend worden ervaren bij ademhalingsoefeningen, en dat lichtpatronen een krachtig visueel hulpmiddel zijn. Omdat trillingen per persoon verschillen in effectiviteit, moet het product deze functie optioneel maken.
+
+De tweede wave onderstreepte dat fysieke bediening van het apparaat essentieel is voor gebruik in stressvolle of drukke omgevingen, terwijl een app meer mogelijkheden biedt voor uitgebreide personalisatie en training. Dit betekent dat het product zowel een compact fysiek apparaat moet zijn, als een app moet hebben die als aanvulling dient.
+
+Design requirements die hieruit volgen zijn concreet en toetsbaar:
 -	Hoofdfuncties moeten binnen de 5 seconden bediend worden.
 -	Subfuncties moeten binnen de 10 seconden bediend worden.
 -	Het product moet overal te gebruiken zijn.
 -	Het product moet onopvallend kunnen worden gebruikt. 
 -	Eventueel gebruikte LED lampjes moeten ook zichtbaar zijn overdag.
 
-Uit deze requirements kan er al een schts gemaakt worden van hoe het product er mogelijks zou uitzien:
+Deze fase legt een sterke basis voor de volgende stap in het ontwikkelingsproces: het ontwerpen van een prototype dat aan deze eisen voldoet, gevolgd door uitgebreide gebruikerstests om de effectiviteit en gebruikservaring te optimaliseren.
+
+(DEZE SCHETS WEG??)
 ![sketch_remmie](https://github.com/MattizV/UCD/blob/main/fotos/sketch_remmie.png)
 
 ## Bill of materials
