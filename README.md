@@ -59,7 +59,7 @@ Allereerst werd een uitgebreide literatuurstudie uitgevoerd om de maatschappelij
 Parallel aan dit deskresearch vond een benchmarkingonderzoek plaats waarin tien bestaande zelfhulpmiddelen voor paniekaanvallen werden geëvalueerd. Deze producten varieerden van apps die ademhalingsoefeningen begeleiden tot fysieke draagbare apparaten die trilling- of geluidssignalen geven. Elk hulpmiddel werd beoordeeld op parameters zoals gebruiksgemak, effectiviteit, discretie en mate van personalisatie. Deze analyse leverde inzicht op in de sterke en zwakke punten van de markt en de mate waarin bestaande oplossingen aansluiten bij de gebruikersbehoeften.
 
 Daarnaast werden drie interviews afgenomen met mensen die regelmatig paniekaanvallen ervaren. De interviewvragen waren gericht op het in kaart brengen van hun ervaringen met paniek, huidige copingstrategieën, en hun wensen ten aanzien van nieuwe ondersteunende technologieën.
-De data uit deze interviews werden geanalyseerd door terugkerende thema’s te clusteren. Op basis daarvan werden de belangrijkste design requirements geformuleerd. (+ LINK NAAR DESIGN REQUIREMENTS)
+De data uit deze interviews werden geanalyseerd door terugkerende thema’s te clusteren. Op basis daarvan werden de belangrijkste design requirements geformuleerd. ([Design Requirements - REMMIE (Excel)](https://github.com/sidmunck/UCD/raw/main/files/design%20requirements/designrequirements%20REMMIE%20excel.xlsx))
 
 ### Resultaten
 De analyse van de onderzoeksdata bevestigde dat paniekaanvallen een urgent en groeiend maatschappelijk probleem vormen, mede door de lange wachttijden in de psychologische zorg en het gebrek aan laagdrempelige directe ondersteuning.
