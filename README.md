@@ -215,8 +215,8 @@ Bij de evaluatie werd gelet op intuïtiviteit, foutgevoeligheid, snelheid en ver
 
 Op het einde werd er aan de testpersonen gevraagd om hun eigen ideale combinatie samen te stellen en elke keuze grondig te onderbouwen.
 
-FOTO VAN MORFOLOGISCHE MATRIX
-FOTO VAN EIGEN COMBINATIES
+<img src="https://github.com/sidmunck/UCD/raw/main/fotos/semester%202/morfologische%20matrix%20.png" width="500">
+<img src="https://github.com/sidmunck/UCD/raw/main/fotos/semester%202/schetsen%20protocol.png" width="500">
 
 #### Resultaten
 De analyse van de negen prototypes leverde een duidelijke winnaar op: prototype 3 scoorde gemiddeld 4,86 op een schaal van 7, vooral vanwege zijn uitstekende comfort, grip en gebruiksgemak. Dit bevestigt het belang van een vroege ergonomische optimalisatie bij productontwikkeling. 
