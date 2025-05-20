@@ -307,37 +307,42 @@ De ideale feedbackconfiguratie volgens de testpersonen bestaat uit:
 De design requirements die uit deze deelopdracht kunnen worden gehaald zijn hieronder per categorie weergegeven en kunnen ook worden teruggevonden in het algemene document.
 ![designr2](https://github.com/sidmunck/UCD/blob/main/fotos/designr2.png)
 
-
 ### The human mind
 #### Doelstellingen
-Het doel van dit onderzoek is om te onderzoeken hoe mentale processen zoals aandacht, stress, geheugen en intuïtie een rol spelen in de interactie tussen mens en technologie. Door te analyseren hoe het brein van gebruikers functioneert in panieksituaties, kan een product worden ontwikkeld dat het best aansluit bij de mentale noden van de gebruiker. 
-Er wordt onderzocht welke interface het meest geschikt is voor gebruik in acute stresssituaties. Hierbij werd specifiek gekeken naar hoe gebruikts informatie mentaal verwerken tijdens een paniekaanval, en welke ontwerpkeuzes (zoals bijv. visuele hiërarchie) dit kunnen ondersteunen of juist tegenwerken. 
+Het doel van dit onderzoek is om te onderzoeken hoe mentale processen zoals aandacht, stress, geheugen en intuïtie een rol spelen in de interactie tussen mens en technologie. Door te analyseren hoe het brein van gebruikers functioneert in panieksituaties, kan een product worden ontwikkeld dat optimaal aansluit bij de mentale behoeften van de gebruiker.
 
+Specifiek wordt onderzocht welke interface het meest geschikt is voor gebruik in acute stresssituaties. Hierbij is gekeken naar hoe gebruikers informatie mentaal verwerken tijdens een paniekaanval en welke ontwerpkeuzes, zoals visuele hiërarchie, dit kunnen ondersteunen of juist bemoeilijken.
 
 #### Materiaal en methoden
-Voor deze evaluatie werden twee visuele interfaceprototypes ontworpen, elk met een andere visuele stijl en opbouw. De prototypes werden gemaakt in figma en konden net zoals elke andere app worden bediend. 
+Het doel van dit onderzoek is om te onderzoeken hoe mentale processen zoals aandacht, stress, geheugen en intuïtie een rol spelen in de interactie tussen mens en technologie. Door te analyseren hoe het brein van gebruikers functioneert in panieksituaties, kan een product worden ontwikkeld dat optimaal aansluit bij de mentale behoeften van de gebruiker.
 
-Drie testpersonen die ervaring hebben met het ervaren van paniekaanvallen kregen beide interfaces afzonderlijk te zien in een rustige, huiselijke omgeving. Ze werden gevraagd om door de schermen te navigeren en vervolgens hun ervaringen te delen in een interview, gebaseerd op het Question Asking Protocol. 
+Specifiek wordt onderzocht welke interface het meest geschikt is voor gebruik in acute stresssituaties. Hierbij is gekeken naar hoe gebruikers informatie mentaal verwerken tijdens een paniekaanval en welke ontwerpkeuzes, zoals visuele hiërarchie, dit kunnen ondersteunen of juist bemoeilijken.
 
-De focus lag op de beoordeling van intuïtiviteit, visuele hiërarchie, herkenbaarheid van knoppen en geschiktheid tijdens momenten van paniek. 
+Materiaal en methoden
+Voor deze evaluatie zijn twee visuele interfaceprototypes ontworpen, elk met een andere visuele stijl en opbouw. De prototypes zijn gemaakt in Figma en functioneren zoals een echte app.
+
+Drie testpersonen met ervaring in het ervaren van paniekaanvallen kregen beide interfaces afzonderlijk te zien in een rustige, huiselijke omgeving. Ze werden gevraagd door de schermen te navigeren en hun ervaringen te delen tijdens een interview, gebaseerd op het Question Asking Protocol.
+
+De focus lag op de beoordeling van intuïtiviteit, visuele hiërarchie, herkenbaarheid van knoppen en geschiktheid voor gebruik in stressvolle situaties.
 
 FOTOS INTERFACES
 
-Daarnaast werd binnen dit onderzoek nagegaan of er behoefte is aan een ingebouwd trainingsprogramma, dat gebruikers helpt om op voorhand te oefenen met ademhalingstechnieken en vibratiemethodes. Dit onderdeel werd onderzocht via gebruiksinterviews waarbij gebruik werd gemaakt van een storyboard dat de rode draad bood voor het gesprek. Dit storyboard (VERWIJZEN HIERNAAR) hielp de testpersonen om zich in te beelden hoe het trainingsprogramma gebruikt zou worden. 
+Daarnaast is onderzocht of er behoefte is aan een ingebouwd trainingsprogramma dat gebruikers helpt om vooraf te oefenen met ademhalingstechnieken en vibratiemethoden. Dit werd getest via gebruiksinterviews waarbij een storyboard als leidraad voor het gesprek diende. Het storyboard hielp de testpersonen zich voor te stellen hoe het trainingsprogramma zou werken.
 
-Tijdens de interviews werd gepeild naar het gebruik van het toestel in preventieve, rustige momenten, om zo te beoordelen of een trainingsfunctie waardevol wordt geacht. Daarnaast werd via drie fictieve productvarianten met verschillende prijsstellingen inzicht verkregen in de prijsperceptie en voorkeuren van de gebruikers. 
+Tijdens de interviews werd ook gekeken naar het gebruik van het apparaat in rustige, preventieve momenten, om zo te beoordelen of een trainingsfunctie als waardevol wordt ervaren. Tevens werd via drie fictieve productvarianten met verschillende prijsstellingen inzicht verkregen in de prijsperceptie en voorkeuren van de gebruikers.
 
 FOTO OPTIES REMMIE 
 
-
 #### Resultaten 
-Uit de testen kwam interface 1 als duidelijke voorkeur naar boven. Deze interface werd omschreven als rustgevend, overzichtelijk en intuïtief. Dit dankzij de sobere layout, grote knoppen en duidelijke visuele hiërarchie. De symbolen die werden begeleid met tekst en het consistente kleurgebruik droegen bij aan een zeer snelle herkenning. 
-Interface 2 werd als speelser ervaren, ondanks dat sommige visuele elementen (bijv. de smileys) het hier beter deden dan bij interface 1. 
+Uit de tests kwam interface 1 als duidelijke favoriet naar voren. Deze interface werd omschreven als rustgevend, overzichtelijk en intuïtief. Dit komt door de sobere layout, grote knoppen en duidelijke visuele hiërarchie. Symbolen werden begeleid door tekst en het consistente kleurgebruik droeg bij aan snelle herkenning.
 
-Een verbeterpunt was de behoefte aan visuele begeleiding bij trillingsoefeningen, bijvoorbeeld via een eenvoudige animatie.
+Interface 2 werd als speelser ervaren. Hoewel sommige visuele elementen, zoals smileys, hier beter scoorden dan bij interface 1, werd het geheel als minder geschikt gezien voor stressvolle situaties.
 
-De interviews over de nood aan een trainingsprogramma toont aan dat alle respondenten een duidelijke meerwaarde zien in deze functie. Voor beginnende gebruikers volstaat een basispakket (Remmie Basic), terwijl voor gebruikers met veel ervaring met paniekaanvallen die onopgelost blijven Remmie Plus of Premium toch een betere oplossing blijkt. 
-Er werd ook aangehaald dat het zeer korte en krachtige sessies moeten zijn met dagelijkse herinneringen.
+Een verbeterpunt was de behoefte aan visuele begeleiding bij trillingsoefeningen, bijvoorbeeld door een eenvoudige animatie die het ritme aangeeft.
+
+De interviews over het trainingsprogramma laten zien dat alle respondenten deze functie als een duidelijke meerwaarde zien. Voor beginnende gebruikers volstaat een basispakket (Remmie Basic), terwijl ervaren gebruikers met onbehandelde paniekaanvallen meer baat hebben bij Remmie Plus of Premium.
+
+Ook werd benadrukt dat de sessies kort en krachtig moeten zijn, met dagelijkse herinneringen om het gebruik te stimuleren.
 
 ## Bill of materials
 <p align=center>  
