@@ -170,9 +170,6 @@ Het volledige document met design requirements is terug te vinden in de bijlagen
 
 Deze fase legt een sterke basis voor de volgende stap in het ontwikkelingsproces: het ontwerpen van een prototype dat aan deze eisen voldoet, gevolgd door uitgebreide gebruikerstests om de effectiviteit en gebruikservaring te optimaliseren.
 
-(DEZE SCHETS WEG??)
-![sketch_remmie](https://github.com/MattizV/UCD/blob/main/fotos/sketch_remmie.png)
-
 ## Developing
 In de developing fase ligt de focus meer op het optimaliseren van de fysieke ergonomie, de cognitieve en de sensoriële ergonomie. Dit wil zeggen dat er wordt gewerkt naar een verfijning van het product. Frictiepunten worden hierbij actief opgespoord en weggenomen om de gebruikservaring te optimaliseren. Er zal worden gefocust op verschillende lichaamsgerelateerde maten voor het ontwerp (rekening houdend met variatie in ergonomie zoals leeftijd, geslacht, cultuur). Ook zal het gebruiksgemak en de functionaliteit geoptimaliseerd worden (gebruikmakend van principes zoals usability en UX design). 
 
