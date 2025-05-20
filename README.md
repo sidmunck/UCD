@@ -23,7 +23,7 @@ Bestaande hulpmiddelen blijken vaak te algemeen of onvoldoende afgestemd op de n
 
 Het voorgestelde product, in combinatie met een bijhorende app, biedt ruimte voor personalisatie, snelle activatie (<10 seconden), en een toegankelijke interface. De nadruk ligt op discretie, gebruiksgemak en effectiviteit – zodat ondersteuning altijd binnen handbereik is.
 
-## Methodologie semester 1
+## Methodologie 
 Het ontwerpproces volgt een duidelijke en gestructureerde aanpak, waarbij stap voor stap van  probleem naar oplossing werd gewerkt. Drie hoofdfasen zijn te onderscheiden: onderzoek, conceptontwikkeling en prototype & testen. Elke fase bouwt verder op de inzichten uit de voorgaande en strekt zich uit over twee semesters.
 
 Semester 1: onderzoek en concept
@@ -45,37 +45,44 @@ FOTO AANGEPASTE METHODOLOGIE
 
 ## Discovery
 ### Doelstellingen
-In dit project wordt er gestreefd naar een product dat helpt bij het verlagen van de druk op de psychologische sector. Met de hedendaagse producten is dit momenteel nog niet mogelijk waardoor er dus wordt gezocht naar een product dat hier wel aan kan bijdragen. De doelstellingen binnen deze discovery fase zijn: achterhalen wie de gebruiker is en wat de noden en behoeften van deze gebruiker zijn. 
-Wij formuleerden de opdracht uiteindelijk als: "Hoe kunnen we op een betere manier mensen die last hebben van een paniekstoornis ondersteunen met behulp van zelfhulp(tools) aan de hand van technologie?"
+De doelstelling van deze fase was om op gestructureerde wijze inzicht te krijgen in de noden van mensen met paniekaanvallen, met als einddoel het ontwikkelen van een technologisch hulpmiddel dat niet alleen acute ondersteuning biedt, maar ook preventief werkt. In een breder perspectief werd onderzocht hoe zo’n oplossing indirect zou kunnen bijdragen aan het verlagen van de druk op de psychologische zorg. Binnen deze fase lag de nadruk op het achterhalen wie de gebruiker is, wat hun ervaringen zijn met paniekaanvallen, en welke voorwaarden ze stellen aan mogelijke ondersteuning.
+
+De centrale onderzoeksvraag luidde:
+"Hoe kunnen technologie-gebaseerde zelfhulpmiddelen effectief worden ingezet om mensen met paniekaanvallen beter te ondersteunen en tegelijkertijd de druk op de wachtlijsten voor psychologische hulp te verlichten?"
 
 ### Materiaal en methoden
-Na het bepalen van een doelgroep werd er doormiddel van deskresearch en gebruikersinterviews inzicht verkregen in het probleem. 
+Om de doelstellingen te bereiken werd een combinatie van kwalitatieve en kwantitatieve onderzoeksmethoden ingezet.
 
-Uit de Public Health Monitor 2023 kwamen een aantal zeer schokkende cijfers naar boven. Maar liefst 22% van de Vlaamse bevolking kampt met psychische stoornissen, waarvan 12% met angststoornissen [^2]. Een paniekstoornis is een onderdeel binnen de angststoornissen. 
-Naast online naar cijfers zoeken werd er ook een benchmarking onderzoek (n=10) uitgevoerd naar de reeds bestaande hulpmiddelen voor paniekaanvallen. Dit was belangrijk om een beter inzicht te krijgen in welke methoden door de mens als goed werden gezien en welke juist absoluut niet.
-Hierbij werd gekeken naar wat het product net zo goed of slecht maakt en wat de speciale eigenschappen van het product zijn. Uit deze reeds bestaande producten kunnen we eventueel enkele elementen laten terug komen in ons eigen product. 
+Allereerst werd een uitgebreide literatuurstudie uitgevoerd om de maatschappelijke context en de problematiek rondom paniekaanvallen en psychologische zorg in kaart te brengen. Uit recente bronnen, waaronder de Public Health Monitor 2023, blijkt dat maar liefst 22% van de Vlaamse bevolking kampt met psychische stoornissen, waarvan 12% angststoornissen — een significant deel hiervan ervaart paniekaanvallen.
 
+Parallel aan dit deskresearch vond een benchmarkingonderzoek plaats waarin tien bestaande zelfhulpmiddelen voor paniekaanvallen werden geëvalueerd. Deze producten varieerden van apps die ademhalingsoefeningen begeleiden tot fysieke draagbare apparaten die trilling- of geluidssignalen geven. Elk hulpmiddel werd beoordeeld op parameters zoals gebruiksgemak, effectiviteit, discretie en mate van personalisatie. Deze analyse leverde inzicht op in de sterke en zwakke punten van de markt en de mate waarin bestaande oplossingen aansluiten bij de gebruikersbehoeften.
 
-Ook werden er drie gebruikersinterviews afgelegd. Hiervan zijn het protocol, rapport en informed consent terug te vinden in de bijlagen. 
-Om het interview op te stellen werd er gestart vanuit de onderzoeksvraag: “Hoe kunnen technologie-gebaseerde zelfhulpmiddelen effectief worden ingezet om mensen met paniekaanvallen beter te ondersteunen en tegelijkertijd de druk op de wachtlijsten voor psychologische hulp te verminderen?”. Ook werd er dieper ingegaan op de vragen: “Wat zijn de belangrijkste voorwaarden waaraan het product moet voldoen?” en “Welke oplossingen bestaan er nu al? En wat is er goed/slecht aan?”.
+Daarnaast werden drie interviews afgenomen met mensen die regelmatig paniekaanvallen ervaren. De interviewvragen waren gericht op het in kaart brengen van hun ervaringen met paniek, huidige copingstrategieën, en hun wensen ten aanzien van nieuwe ondersteunende technologieën.
+De data uit deze interviews werden geanalyseerd door terugkerende thema’s te clusteren. Op basis daarvan werden de belangrijkste design requirements geformuleerd. (+ LINK NAAR DESIGN REQUIREMENTS)
 
-Uit de verzamelde inzichten konden de steeds herhalende antwoorden worden geclusterd, deze vormen dan ook de basis van het product. In de tabel zijn verschillende functies geordend op hoe belangrijk ze worden gezien door de gebruiker. De meest belangrijke elementen zijn dus discretie, compactheid en gebruiksgemak.
+### Resultaten
+De analyse van de onderzoeksdata bevestigde dat paniekaanvallen een urgent en groeiend maatschappelijk probleem vormen, mede door de lange wachttijden in de psychologische zorg en het gebrek aan laagdrempelige directe ondersteuning.
+
+Uit de interviews bleek dat gebruikers vooral behoefte hebben aan emotionele geruststelling tijdens een paniekaanval. Dit kan bijvoorbeeld worden geleverd door herkenbare en vertrouwde geluiden via het apparaat, waardoor het gevoel van veiligheid wordt versterkt. Daarnaast werd het belang van een eenvoudig, intuïtief ontwerp benadrukt zodat gebruikers in stressvolle situaties snel en zonder extra cognitieve belasting het hulpmiddel kunnen bedienen. Discretie werd ook als cruciaal ervaren, omdat veel mensen zich ongemakkelijk voelen om hun paniekaanval in het openbaar zichtbaar te maken.
+
+Een andere belangrijke uitkomst was de wens om het product te kunnen personaliseren. Dit houdt in dat gebruikers zelf kunnen bepalen welke signalen of functies ze willen gebruiken, zodat het apparaat aansluit bij hun persoonlijke voorkeuren en paniekervaringen.
+
+De benchmarkingstudie toonde dat de meeste bestaande producten zich focussen op één enkele zintuigelijke stimulus (zoals geluid of aanraking), terwijl uit de interviews bleek dat gebruikers juist gebaat zijn bij een combinatie van auditieve, visuele en tactiele signalen. Verder is er weinig aanbod dat training of preventie faciliteert. Dit vormde een aanleiding om in het eigen product ook elementen van interoceptieve exposure te integreren, een psychologische techniek waarbij gebruikers gecontroleerd oefenen met fysieke sensaties om zo de angstreactie te verminderen.
+
+De verkregen kwalitatieve data werden aangevuld met een functieprioriteringsanalyse. De respondenten gaven aan welke producteigenschappen zij het belangrijkst vonden, waarbij functies als discretie, compactheid en intuïtieve bediening bovenaan stonden.
 
 ![functies](https://github.com/MattizV/UCD/blob/main/fotos/grafiek.png)
 
-### Resultaten
-Met de verkregen informatie uit de interviews kon er een rapport, een persona en een WWWWWH model worden opgesteld. 
-Een paar zeer opvallende en veel voorkomende wensen die in de interviews aan bod kwamen zijn:
--	Nood aan emotionele geruststelling van een (vertrouwde) persoon
--	Toegankelijk en makkelijk te gebruiken
--	Discreet in gebruik
--	Manier om het apparaat te personaliseren naar eigen wensen
-
-Al snel werd het idee verkregen om een klein apparaatje te produceren dat als luidspreker zou dienen, met eventueel hierbij horend een app. 
-
 ### Conclusies en implicaties
-Uit het vooronderzoek is het duidelijk geworden aan welke aspecten het apparaat moet voldoen. Het meest belangrijke aspect is dat het toestel de gebruiker tot rust moet kunnen brengen bij paniek. Naast deze functie is een trainingsfunctie bij het toestel ook zeer belangrijk om op deze manier de druk op de psychologische sector effectief te verlagen. Dit vormt een soort cyclisch proces, wanneer er tijdens de training nood is aan een hulpmiddel om te kalmeren, kan dit meteen gebruikt worden. 
-Het is dus duidelijk dat er een nood is aan een variatie van functies. Daarnaast is het ook belangrijk dat de gebruiker snel kan overschakkelen tussen de aangeboden functies. Er zal daarom een manier moeten gezocht worden om al deze functies in een klein apparaatje te steken dat effectief, compact en esthetisch is. 
+De inzichten uit deze discoveryfase leiden tot duidelijke ontwerpprincipes en -eisen voor het ontwikkeltraject.
+
+Allereerst moet het product effectief ondersteunen tijdens een paniekaanval door snel en betrouwbaar rustgevende signalen te geven die meerdere zintuigen aanspreken. De activering moet intuïtief en snel zijn, zonder dat de gebruiker complexe handelingen hoeft te verrichten. Dit vraagt om een gebruikersinterface met minimale cognitieve belasting en een logische structuur.
+
+Daarnaast moet het product ook een preventieve functie hebben. Door middel van oefeningen gebaseerd op interoceptieve exposure kunnen gebruikers de angst voor hun fysieke panieksignalen leren verminderen en zo op termijn minder vaak last krijgen van aanvallen. Dit maakt het product niet alleen een hulpmiddel voor crisismomenten, maar ook een coach voor lange termijn mentale gezondheid.
+
+Personalisatie blijkt eveneens essentieel. Aangezien paniekaanvallen en copingstrategieën sterk persoonsgebonden zijn, moet het product verschillende instellingen en aanpasbare functies bieden. Dit kan bijvoorbeeld door verschillende geluiden, trillingpatronen of visuele signalen aan te bieden die gebruikers kunnen kiezen en combineren.
+
+Tot slot is de fysieke vormgeving van het apparaat een belangrijke factor. Het moet compact en discreet zijn, zodat het overal gedragen kan worden zonder op te vallen. Dit sluit aan bij het belangrijke designcriterium dat het product ‘altijd en overal’ beschikbaar moet zijn zonder extra stress te veroorzaken.
 
 ## Definition
 ### Doestellingen
