@@ -266,7 +266,7 @@ Tijdens deze fase is ook onderzocht of een geïntegreerde hartslagmeter in het a
 
 Hoewel het technisch mogelijk bleek om een sensor in het toestel te integreren, werd het koppelen van bestaande wearables zoals smartwatches als een praktischere en gebruiksvriendelijkere oplossing gezien. Zo kan het apparaat eenvoudig data uit deze externe sensoren halen zonder het product onnodig duur of complex te maken.
 
-Voor de geluidsfunctie werd gebruik gemaakt van muziek op een frequentie van 432 Hz. Deze frequentie wordt in verschillende therapeutische contexten als zachter en rustgevender ervaren dan de gangbare 440 Hz, en zou volgens bepaalde bronnen beter aansluiten bij natuurlijke lichaamsfrequenties (+ LINK VOORONDERZOEK FREQUENTIE). Hoewel het wetenschappelijke bewijs beperkt is, wijzen praktijkervaringen binnen muziektherapie op mogelijke kalmerende effecten op het zenuwstelsel. Aangezien het doel van het product is om panieksymptomen te reguleren, werd deze frequentie als potentieel ondersteunend element in het prototype opgenomen.
+Voor de geluidsfunctie werd gebruik gemaakt van muziek op een frequentie van 432 Hz. Deze frequentie wordt in verschillende therapeutische contexten als zachter en rustgevender ervaren dan de gangbare 440 Hz, en zou volgens bepaalde bronnen beter aansluiten bij natuurlijke lichaamsfrequenties ([Vooronderzoek Frequentiekeuze muziek](https://github.com/sidmunck/UCD/blob/main/files/Deelopdracht%202%20sem%202/Vooronderzoek%20Frequentiekeuze%20muziek.docx)). Hoewel het wetenschappelijke bewijs beperkt is, wijzen praktijkervaringen binnen muziektherapie op mogelijke kalmerende effecten op het zenuwstelsel. Aangezien het doel van het product is om panieksymptomen te reguleren, werd deze frequentie als potentieel ondersteunend element in het prototype opgenomen.
 
 Voor het aspect uiterlijk en vormgeving werden vier verschillende renders van het product aan de testpersonen getoond. Elk ontwerp had dezelfde functionele inhoud, maar verschilden in kleur, materiaal en afwerking. Via het QAP werden gebruikers gevraagd de ontwerpen te beoordelen op rustgevendheid, sociaal aanvaardbaarheid en esthetiek. Tevens moesten ze vier kernwoorden kiezen uit een lijst van tien die volgens hen het beste bij het ontwerp pasten, om zo genuanceerde emotionele associaties te kunnen vastleggen.
 
@@ -340,6 +340,18 @@ De interviews over het trainingsprogramma laten zien dat alle respondenten deze 
 
 Ook werd benadrukt dat de sessies kort en krachtig moeten zijn, met dagelijkse herinneringen om het gebruik te stimuleren.
 
+## Conclusie
+Het uiteindelijke product is een compact hulpmiddel dat mensen op een laagdrempelige en intuïtieve manier ondersteunt tijdens paniekaanvallen. Het ontwerp is zorgvuldig afgestemd op ergonomische principes, waarbij de vorm comfortabel in de hand ligt bij een brede groep gebruikers (P5–P95), met afgeronde hoeken en een matte textuur voor een veilige en prettige grip.
+
+Het apparaat kan volledig zelfstandig functioneren, zonder tussenkomst van een app. Dit zorgt voor directe toegang tot de kalmerende functies in noodsituaties. Aan de zijkant van het apparaat bevinden zich fysieke drukknoppen die duidelijk voelbaar zijn en intuïtieve, snelle activatie mogelijk maken.
+
+Bij het aan- en uitzetten geven korte, herkenbare trillingssignalen directe tactiele feedback – een bewuste keuze om de interactie eenduidig te maken, zonder visuele of auditieve afleiding. Tijdens gebruik zorgt een reeks ritmische, kalmerende trillingen voor sensorische prikkels die het lichaam helpen tot rust te komen. Daarnaast bevat het product een geïntegreerde geluidsfunctie met enkele standaard ingestelde muziektracks op een frequentie van 432 Hz, een toonhoogte die vaak als ontspannend wordt ervaren.
+
+Zowel bij de trilling- als muziekfunctie is het mogelijk om deze via de app vast te zetten (lockfunctie), zodat ze automatisch worden geactiveerd met een eenvoudige druk op de knop.
+
+Een subtiele LED aan de onderzijde van het apparaat communiceert uitsluitend over de oplaadstatus, waarmee onnodige visuele prikkels tijdens gebruik worden vermeden. Ook is het esthetisch ontwerp neutraal en discreet gehouden, met zachte vormen en een ingetogen kleurgebruik, zodat het toestel sociaal acceptabel blijft in publieke contexten. Het eindresultaat is een toegankelijk, zintuiglijk afgestemd hulpmiddel dat rust en controle biedt op het moment dat het nodig is.
+
+## Technische beschrijving
 ## Bill of materials
 <p align=center>  
   <img src="fotos/schema_BillOfMaterials.png") alt=testlocatie width=50% />
