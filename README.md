@@ -258,9 +258,12 @@ Voor het onderzoek werd een prototype ontwikkeld op basis van Arduino-technologi
 
 In een eerste testronde werd onderzocht welke soorten trillingpatronen — zoals korte en pulserende trillingen versus lange, continue trillingen — het meest prettig werden ervaren door gebruikers. In een vervolgtest werd de gebruikersinterface getest, waarbij zowel objectieve data als subjectieve feedback werd verzameld.
 
-De hartslag van elke deelnemer werd gemeten vóór, tijdens en na het gebruik van het prototype, als objectieve maat voor stress- en kalmeringsniveaus. Ook werd de tijd gemeten die elke gebruiker nodig had om te kalmeren. Na iedere testronde vulden deelnemers een Self-Assessment Manikin (SAM)-schaal en de System Usability Scale (SUS) in om emotionele ervaringen en gebruiksvriendelijkheid te evalueren. Door gebruik te maken van de Think Aloud-methode en het Question Asking Protocol (QAP) konden deelnemers bovendien spontane feedback en suggesties geven. Real-time subjectieve feedback werd verzameld met behulp van de Experience Sampling Method (ESM).
+<p float="left">
+  <img src="https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/test%20geluid.png?raw=true" width="35%" />
+  <img src="https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/test%20trillingen.png?raw=true" width="27%" />
+</p>
 
-FOTO VAN TIJDENS TEST
+De hartslag van elke deelnemer werd gemeten vóór, tijdens en na het gebruik van het prototype, als objectieve maat voor stress- en kalmeringsniveaus. Ook werd de tijd gemeten die elke gebruiker nodig had om te kalmeren. Na iedere testronde vulden deelnemers een Self-Assessment Manikin (SAM)-schaal en de System Usability Scale (SUS) in om emotionele ervaringen en gebruiksvriendelijkheid te evalueren. Door gebruik te maken van de Think Aloud-methode en het Question Asking Protocol (QAP) konden deelnemers bovendien spontane feedback en suggesties geven. Real-time subjectieve feedback werd verzameld met behulp van de Experience Sampling Method (ESM).
 
 Tijdens deze fase is ook onderzocht of een geïntegreerde hartslagmeter in het apparaat haalbaar en zinvol is. Biomonitoring is binnen fysiometrisch onderzoek een waardevolle techniek om de impact van producten op gebruikers te evalueren. Een apart literatuuronderzoek ([Onderzoek hartslagmeter](https://github.com/sidmunck/UCD/blob/main/files/Deelopdracht%202%20sem%202/Onderzoek%20hartslagmeter.docx)) wees uit dat het bieden van biofeedback, zoals real-time hartslagmeting, gebruikers kan helpen om stress- en paniekniveaus beter te monitoren en te reguleren.
 
@@ -334,7 +337,7 @@ Daarnaast is onderzocht of er behoefte is aan een ingebouwd trainingsprogramma d
 
 Tijdens de interviews werd ook gekeken naar het gebruik van het apparaat in rustige, preventieve momenten, om zo te beoordelen of een trainingsfunctie als waardevol wordt ervaren. Tevens werd via drie fictieve productvarianten met verschillende prijsstellingen inzicht verkregen in de prijsperceptie en voorkeuren van de gebruikers.
 
-FOTO OPTIES REMMIE 
+<img src="https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/opties%20remmie.png?raw=true" width="70%" />
 
 #### Resultaten 
 Uit de tests kwam interface 1 als duidelijke favoriet naar voren. Deze interface werd omschreven als rustgevend, overzichtelijk en intuïtief. Dit komt door de sobere layout, grote knoppen en duidelijke visuele hiërarchie. Symbolen werden begeleid door tekst en het consistente kleurgebruik droeg bij aan snelle herkenning.
