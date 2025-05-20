@@ -320,10 +320,15 @@ Drie testpersonen met ervaring in het ervaren van paniekaanvallen kregen beide i
 
 De focus lag op de beoordeling van intuïtiviteit, visuele hiërarchie, herkenbaarheid van knoppen en geschiktheid voor gebruik in stressvolle situaties.
 
-![Interface 1-1](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/interface1%201.png?raw=true)
-![Interface 1-2](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/interface1%202.png?raw=true)
-![Interface 2-1](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/interface2%201.png?raw=true)
-![Interface 2-2](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/interface%202%202.png?raw=true)
+<p float="left">
+  <img src="https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/interface1%201.png?raw=true" width="45%" />
+  <img src="https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/interface1%202.png?raw=true" width="45%" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/interface%202%202.png?raw=true" width="45%" />
+  <img src="https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/interface2%201.png?raw=true" width="45%" />
+</p>
 
 Daarnaast is onderzocht of er behoefte is aan een ingebouwd trainingsprogramma dat gebruikers helpt om vooraf te oefenen met ademhalingstechnieken en vibratiemethoden. Dit werd getest via gebruiksinterviews waarbij een storyboard als leidraad voor het gesprek diende. Het storyboard hielp de testpersonen zich voor te stellen hoe het trainingsprogramma zou werken.
 
