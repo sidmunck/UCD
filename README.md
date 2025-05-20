@@ -270,7 +270,7 @@ Voor de geluidsfunctie werd gebruik gemaakt van muziek op een frequentie van 432
 
 Voor het aspect uiterlijk en vormgeving werden vier verschillende renders van het product aan de testpersonen getoond. Elk ontwerp had dezelfde functionele inhoud, maar verschilden in kleur, materiaal en afwerking. Via het QAP werden gebruikers gevraagd de ontwerpen te beoordelen op rustgevendheid, sociaal aanvaardbaarheid en esthetiek. Tevens moesten ze vier kernwoorden kiezen uit een lijst van tien die volgens hen het beste bij het ontwerp pasten, om zo genuanceerde emotionele associaties te kunnen vastleggen.
 
-FOTO 4 RENDERS
+![4 renders protocol](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/4%20renders%20protocol.png?raw=true)
 
 Voor het onderzoek naar feedbackvorm werden drie verschillende testopstellingen ontworpen: één voor visuele, één voor auditieve, en één voor haptische feedback. Gebruikers werden in simulaties geplaatst waarin het apparaat signalen gaf bij bijvoorbeeld het opladen of een bijna lege batterij. Zonder uitleg moesten zij de betekenis van deze signalen interpreteren. Deze tests werden uitgevoerd met een geprint prototype met aan/uit-knop en LED, en een Arduino-gestuurde schakeling met buzzer, DFPlayer, luidspreker en LED. Na afloop werd gebruikgemaakt van Likert-schaalvragen en het TAP om voorkeuren en interpretaties te evalueren. Gebruikers kregen ook de kans hun ideale feedbackconfiguratie samen te stellen.
 
@@ -320,7 +320,10 @@ Drie testpersonen met ervaring in het ervaren van paniekaanvallen kregen beide i
 
 De focus lag op de beoordeling van intuïtiviteit, visuele hiërarchie, herkenbaarheid van knoppen en geschiktheid voor gebruik in stressvolle situaties.
 
-FOTOS INTERFACES
+![Interface 1-1](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/interface1%201.png?raw=true)
+![Interface 1-2](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/interface1%202.png?raw=true)
+![Interface 2-1](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/interface2%201.png?raw=true)
+![Interface 2-2](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/interface%202%202.png?raw=true)
 
 Daarnaast is onderzocht of er behoefte is aan een ingebouwd trainingsprogramma dat gebruikers helpt om vooraf te oefenen met ademhalingstechnieken en vibratiemethoden. Dit werd getest via gebruiksinterviews waarbij een storyboard als leidraad voor het gesprek diende. Het storyboard hielp de testpersonen zich voor te stellen hoe het trainingsprogramma zou werken.
 
@@ -349,6 +352,9 @@ Bij het aan- en uitzetten geven korte, herkenbare trillingssignalen directe tact
 Zowel bij de trilling- als muziekfunctie is het mogelijk om deze via de app vast te zetten (lockfunctie), zodat ze automatisch worden geactiveerd met een eenvoudige druk op de knop.
 
 Een subtiele LED aan de onderzijde van het apparaat communiceert uitsluitend over de oplaadstatus, waarmee onnodige visuele prikkels tijdens gebruik worden vermeden. Ook is het esthetisch ontwerp neutraal en discreet gehouden, met zachte vormen en een ingetogen kleurgebruik, zodat het toestel sociaal acceptabel blijft in publieke contexten. Het eindresultaat is een toegankelijk, zintuiglijk afgestemd hulpmiddel dat rust en controle biedt op het moment dat het nodig is.
+
++ VERTELLEN SCHAKELING EN PROTOPIE
+![Schakeling finaal prototype](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/schakeling%20finaal%20prototype.png?raw=true)
 
 ## Technische beschrijving
 ## Bill of materials
