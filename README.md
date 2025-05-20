@@ -159,12 +159,13 @@ Uit de eerste wave kwam naar voren dat natuurlijke geluiden het meest rustgevend
 
 De tweede wave onderstreepte dat fysieke bediening van het apparaat essentieel is voor gebruik in stressvolle of drukke omgevingen, terwijl een app meer mogelijkheden biedt voor uitgebreide personalisatie en training. Dit betekent dat het product zowel een compact fysiek apparaat moet zijn, als een app moet hebben die als aanvulling dient.
 
-Design requirements die hieruit volgen zijn concreet en toetsbaar:
+Enkele design requirements die hieruit volgen zijn concreet en toetsbaar:
 -	Hoofdfuncties moeten binnen de 5 seconden bediend worden.
 -	Subfuncties moeten binnen de 10 seconden bediend worden.
 -	Het product moet overal te gebruiken zijn.
 -	Het product moet onopvallend kunnen worden gebruikt. 
 -	Eventueel gebruikte LED lampjes moeten ook zichtbaar zijn overdag.
+Het volledige document met design requirements is terug te vinden in de bijlagen (+ LINK)
 
 Deze fase legt een sterke basis voor de volgende stap in het ontwikkelingsproces: het ontwerpen van een prototype dat aan deze eisen voldoet, gevolgd door uitgebreide gebruikerstests om de effectiviteit en gebruikservaring te optimaliseren.
 
