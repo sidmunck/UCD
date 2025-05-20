@@ -14,6 +14,8 @@ Daarnaast ondersteunt het product het leren herkennen en hanteren van paniekgevo
 
 Deze oplossing helpt gebruikers grip te krijgen op hun situatie en biedt ondersteuning op momenten dat professionele hulp (nog) niet beschikbaar is.
 
+<img src="https://github.com/sidmunck/UCD/raw/main/fotos/semester%202/eindrender2.bmp" width="600">
+
 ## Introductie
 Het groeiende bewustzijn rond mentale gezondheid, het afnemen van stigma en de toegenomen prestatiedruk zorgen voor een stijging in het aantal mensen dat psychologische hulp zoekt. Deze toename zet de geestelijke gezondheidszorg onder druk, met lange wachtlijsten en aanmeldstops tot gevolg[^1]. Eén op de acht Vlamingen kampt met een angststoornis, waaronder paniekstoornissen een aanzienlijk aandeel vormen.
 
