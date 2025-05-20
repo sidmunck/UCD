@@ -42,8 +42,7 @@ Het tweede semester richtte zich op drie deelonderzoeken: 'The Human Body', 'The
 
 Met de verkregen inzichten werd een werkend prototype ontwikkeld, bestaande uit elektronica gekoppeld aan een Protopie Connect-interface en een fysieke (niet-werkende) behuizing. Dit prototype vormt de basis voor verdere tests en de eindpresentatie, ondersteund door een productvideo.
 
-FOTO AANGEPASTE METHODOLOGIE
-![methodologie](https://github.com/MattizV/UCD/blob/main/fotos/methodologiesemester1.png) 
+![methodologie](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/methodologiesem1en2.png)
 
 ## Discovery
 ### Doelstellingen
