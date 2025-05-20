@@ -128,7 +128,7 @@ Tijdens beide waves werd gebruik gemaakt van role-playing, zodat respondenten de
 </p>
 
 #### 2. Literatuur onderzoek
-Parallel aan de gebruikerstesten werd een diepgaan literatuuronderzoek uitgevoerd naar interoceptieve exposure, een bewezen klinische techniek waarbij gebruikers bewust fysieke sensaties oproepen die angst uitlokken, om zo geleidelijk de angst voor die signalen te verminderen. Dit onderzoek toonde aan dat er nog geen commercieel product bestaat dat deze methode ondersteunt, waardoor er een duidelijke kans ligt om dit in het eigen product te integreren. De wenselijkheid van deze toepassing moet dan eerst wel onderzocht worden. ([Onderzoek Interoceptieve Exposure (Word)](https://github.com/sidmunck/UCD/raw/main/files/Onderzoek%20Intereceptieve%20exposure.docx))
+Parallel aan de gebruikerstesten werd een diepgaan literatuuronderzoek uitgevoerd naar interoceptieve exposure, een bewezen klinische techniek waarbij gebruikers bewust fysieke sensaties oproepen die angst uitlokken, om zo geleidelijk de angst voor die signalen te verminderen. Dit onderzoek toonde aan dat er nog geen commercieel product bestaat dat deze methode ondersteunt, waardoor er een duidelijke kans ligt om dit in het eigen product te integreren. De wenselijkheid van deze toepassing moet dan eerst wel onderzocht worden. ([Onderzoek Interoceptieve Exposure - Wave 1 (Word)](https://github.com/sidmunck/UCD/raw/main/files/wave%201/Onderzoek%20Interoceptieve%20exposure.docx))
 
 ### Resultaten
 Uit de combinatie van gebruikerstesten en literatuuronderzoek kwamen diverse heldere patronen naar voren die de verdere productontwikkeling richting geven:
