@@ -300,8 +300,7 @@ De ideale feedbackconfiguratie volgens de testpersonen bestaat uit:
 - een zacht knipperende LED bij het starten van het opladen
 - een continu brandende LED bij een volle batterij.
 
-De design requirements die uit deze deelopdracht kunnen worden gehaald zijn hieronder per categorie weergegeven en kunnen ook worden teruggevonden in het algemene document.
-![designr2](https://github.com/sidmunck/UCD/blob/main/fotos/designr2.png)
+De design requirements die in dit onderzoek werden opgesteld zijn ook weergegeven in de excelsheet in de bijlage. 
 
 ### The human mind
 #### Doelstellingen
