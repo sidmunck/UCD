@@ -275,9 +275,9 @@ Voor het aspect uiterlijk en vormgeving werden vier verschillende renders van he
 
 ![4 renders protocol](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/4%20renders%20protocol.png?raw=true)
 
-Voor het onderzoek naar feedbackvorm werden drie verschillende testopstellingen ontworpen: één voor visuele, één voor auditieve, en één voor haptische feedback. Gebruikers werden in simulaties geplaatst waarin het apparaat signalen gaf bij bijvoorbeeld het opladen of een bijna lege batterij. Zonder uitleg moesten zij de betekenis van deze signalen interpreteren. Deze tests werden uitgevoerd met een geprint prototype met aan/uit-knop en LED, en een Arduino-gestuurde schakeling met buzzer, DFPlayer, luidspreker en LED. Na afloop werd gebruikgemaakt van Likert-schaalvragen en het TAP om voorkeuren en interpretaties te evalueren. Gebruikers kregen ook de kans hun ideale feedbackconfiguratie samen te stellen.
+Voor het onderzoek naar feedbackvorm werden drie verschillende testopstellingen ontworpen: één voor visuele, één voor auditieve, en één voor haptische feedback. Gebruikers werden in simulaties geplaatst waarin het apparaat signalen gaf bij bijvoorbeeld het opladen of een bijna lege batterij. Zonder uitleg moesten zij de betekenis van deze signalen interpreteren. Deze tests werden uitgevoerd met een geprint prototype met aan/uit-knop en LED, en een Arduino-gestuurde schakeling met buzzer, DFPlayer, luidspreker en LED. Bij de test werd de "Wizard of Oz"-methode toegepast. Na afloop werd gebruikgemaakt van Likert-schaalvragen en het TAP om voorkeuren en interpretaties te evalueren. Gebruikers kregen ook de kans hun ideale feedbackconfiguratie samen te stellen.
 
-FOTO TESTOPSTELLING LAMP/TRILLING/GELUID
+<img src="https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/toestel%20WoZ%20test.png?raw=true" width="250"/>
 
 #### Resultaten
 Uit de test bleek een duidelijke voorkeur voor korte en pulserende trillingpatronen boven lange, continue trillingen. Alle testpersonen gaven aan dat de korte trillingen bij fasewisselingen het meest aangenaam waren en als kalmerend werden ervaren. Dit patroon wordt daarom als standaard in het ontwerp opgenomen.
