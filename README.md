@@ -359,10 +359,15 @@ Bij het aan- en uitzetten geven korte, herkenbare trillingssignalen directe tact
 
 Zowel bij de trilling- als muziekfunctie is het mogelijk om deze via de app vast te zetten (lockfunctie), zodat ze automatisch worden geactiveerd met een eenvoudige druk op de knop.
 
-Een subtiele LED aan de onderzijde van het apparaat communiceert uitsluitend over de oplaadstatus, waarmee onnodige visuele prikkels tijdens gebruik worden vermeden. Ook is het esthetisch ontwerp neutraal en discreet gehouden, met zachte vormen en een ingetogen kleurgebruik, zodat het toestel sociaal acceptabel blijft in publieke contexten. Het eindresultaat is een toegankelijk, zintuiglijk afgestemd hulpmiddel dat rust en controle biedt op het moment dat het nodig is.
+Een subtiele LED aan de onderzijde van het apparaat communiceert uitsluitend over de oplaadstatus, waarmee onnodige visuele prikkels tijdens gebruik worden vermeden. Ook is het esthetisch ontwerp neutraal en discreet gehouden, met zachte vormen en een ingetogen kleurgebruik, zodat het toestel sociaal acceptabel blijft in publieke contexten.
 
-+ VERTELLEN SCHAKELING EN PROTOPIE
+Deze schakeling (zie afbeelding) werd gebouwd in combinatie met Protopie Connect. Hiermee kunnen de geluids- en trillingsfuncties, evenals de aan/uitwerking, effectief worden bestuurd tijdens een demonstratie of test. Functionaliteiten zoals opladen of batterijbeheer vielen buiten de scope van dit prototype.
+
+Daarnaast werd er ook een fysiek prototype gemaakt waarin de look & feel van het uiteindelijke product en de knoppen werd uitgewerkt. Dit model is visueel en ergonomisch representatief, maar bevat geen functionele elektronica.
+
 ![Schakeling finaal prototype](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/schakeling%20finaal%20prototype.png?raw=true)
+
++ FOTO FYSIEKE EINDPROTOTYPE
 
 ## Technische beschrijving
 ## Bill of materials
