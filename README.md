@@ -262,7 +262,7 @@ De hartslag van elke deelnemer werd gemeten vóór, tijdens en na het gebruik va
 
 FOTO VAN TIJDENS TEST
 
-Tijdens deze fase is ook onderzocht of een geïntegreerde hartslagmeter in het apparaat haalbaar en zinvol is. Biomonitoring is binnen fysiometrisch onderzoek een waardevolle techniek om de impact van producten op gebruikers te evalueren. Een apart literatuuronderzoek (+LINK NAAR ONDERZOEK) wees uit dat het bieden van biofeedback, zoals real-time hartslagmeting, gebruikers kan helpen om stress- en paniekniveaus beter te monitoren en te reguleren.
+Tijdens deze fase is ook onderzocht of een geïntegreerde hartslagmeter in het apparaat haalbaar en zinvol is. Biomonitoring is binnen fysiometrisch onderzoek een waardevolle techniek om de impact van producten op gebruikers te evalueren. Een apart literatuuronderzoek ([Onderzoek hartslagmeter](https://github.com/sidmunck/UCD/blob/main/files/Deelopdracht%202%20sem%202/Onderzoek%20hartslagmeter.docx)) wees uit dat het bieden van biofeedback, zoals real-time hartslagmeting, gebruikers kan helpen om stress- en paniekniveaus beter te monitoren en te reguleren.
 
 Hoewel het technisch mogelijk bleek om een sensor in het toestel te integreren, werd het koppelen van bestaande wearables zoals smartwatches als een praktischere en gebruiksvriendelijkere oplossing gezien. Zo kan het apparaat eenvoudig data uit deze externe sensoren halen zonder het product onnodig duur of complex te maken.
 
