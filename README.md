@@ -388,9 +388,23 @@ De totale geschatte kosten komen op ongeveer 60 euro per apparaat. Dit is zonder
 - De batterij en laadmodule voorzien het toestel van autonome voeding en maken veilig opladen via micro-USB mogelijk.
 
 ### Software en code
+Programmeertaal: C++ (Arduino-framework via Arduino IDE)
 
+Functies:
+- Bij inschakelen: korte tactiele feedback via trillingmotor.
+- Trillingpatroon: ritmische pulsen die ontspanning bevorderen, instelbaar via knoppen/app.
+- Muziekfunctie: afspelen van ingebouwde audio-bestanden via DFPlayer.
+- Lockfunctie: via app kan trillings- en muziekfunctie vastgezet worden.
+- Oplaad-LED: aan/uit afhankelijk van batterijstatus.
+
+Code (LINK CODE!!!!) is modulair opgebouwd: hardware-abstraction layer, functiecontrollers (trilling, audio), gebruikersinterface (knoppen, feedback). 
 
 ### Bouwinstructies
+- Soldeer microcontroler, trilmotor, knoppen, geluidsmodule, LED en batterijbeheer volgens het schema.
+- Print of produceer de ergonomische behuizing.
+- Monteer de schakeling (eventueel op PCB plaats gepositioneerd) en bevestig de trillingsmotor, luidspreker en knoppen correct.
+- Compileer en upload de firmware naar de microcontroller via USB.
+- Test alle functies (aan/uit, trilling, muziek, LED) en kalibreer waar nodig.
 
 ## Kritische reflectie
 In deze reflectie blik ik terug op het volledige traject van het project Werkbaar werk in de zorg, dat liep over twee semesters. Het project bracht grote uitdagingen met zich mee, maar ook waardevolle inzichten. Het leerproces was intens en veelzijdig, en heeft mij zowel op inhoudelijk vlak als in mijn samenwerkingservaring belangrijke lessen opgeleverd.
