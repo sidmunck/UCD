@@ -397,7 +397,8 @@ Functies:
 - Lockfunctie: via app kan trillings- en muziekfunctie vastgezet worden.
 - Oplaad-LED: aan/uit afhankelijk van batterijstatus.
 
-Code (LINK CODE!!!!) is modulair opgebouwd: hardware-abstraction layer, functiecontrollers (trilling, audio), gebruikersinterface (knoppen, feedback). 
+De [Arduino code](https://github.com/sidmunck/UCD/blob/main/files/Finale%20prototype/Code%20Arduino)
+ is modulair opgebouwd: hardware-abstraction layer, functiecontrollers (trilling, audio), gebruikersinterface (knoppen, feedback). 
 
 ### Bouwinstructies
 - Soldeer microcontroler, trilmotor, knoppen, geluidsmodule, LED en batterijbeheer volgens het schema.
