@@ -1,44 +1,45 @@
 # Remmie
-*Een klein apparaatje dat gebruikers zal ondersteunen bij het leren beheersen en hebben van paniekaanvallen.* 
+*Een klein apparaatje dat gebruikers zal ondersteunen bij het ondergaan en het leren beheersen van paniekaanvallen.* 
 
 *Projectteam: Sid De Munck*
 
 *2024-2025*
 
 ## Samenvatting
-De toenemende druk in de maatschappij heeft een directe invloed op de mentale gezondheid van veel mensen. Door lange wachtlijsten bij psychologen en soms een aanmeldstop, blijft hulp vaak uit of vertraagd. Vooral het aantal mensen dat last heeft van paniekaanvallen groeit, wat een urgent maatschappelijk probleem vormt. 
+De toenemende druk in de maatschappij heeft een directe invloed op de mentale gezondheid van veel mensen. Door lange wachtlijsten, en op sommige plaatsen zelfs een aanmeldingsstop, bij psychologen blijft professionele hulp vaak uit of wordt vertraagd. Vooral het aantal mensen dat last heeft van paniekaanvallen groeit, wat een urgent maatschappelijk probleem vormt.
 
-Op basis van interviews en benchmarkingonderzoek is vastgesteld dat er behoeft is aan een laagdrempelige en directe ondersteuning bij paniekaanvallen. Het ontwikkelde product bestaat uit een compact apparaatje in combinatie met een gebruiksvriendelijke app. Het apparaat maakt gebruikt van visuele, auditieve en tactiele signalen om de gebruiker stap voor stap door een paniekaanval te begeleiden en kalmering te bevorderen.
+Op basis van interviews en benchmarkingonderzoek is vastgesteld dat er behoefte is aan een laagdrempelige en directe ondersteuning bij paniekaanvallen. Het ontwikkelde product bestaat uit een compact apparaatje in combinatie met een gebruiksvriendelijke app. Het apparaat maakt gebruik van visuele, auditieve en tactiele signalen om de gebruiker stap voor stap door een paniekaanval te begeleiden en kalmering te bevorderen.
 
-Daarnaast ondersteunt het product het leren herkennen en hanteren van paniekgevoelens via principes uit 'interoceptieve exposure' - een methode waarbij lichamelijke sensaties bewust worden opgezocht en geoefend, zodat angst voor deze signalen vermindert. Zo help het product niet alleen op crisismomenten, maar draagt het ook bij aan het opbouwen van langdurige veerkracht.
+Daarnaast ondersteunt het product het leren herkennen en hanteren van paniekgevoelens via principes uit 'interoceptieve exposure'; een methode waarbij lichamelijke sensaties die angst opwekken bewust worden opgezocht en waarbij door oefening gewenning wordt gecreëerd zodat angst voor deze sensaties vermindert. Zo help het product niet alleen op crisismomenten, maar draagt het ook bij aan het opbouwen van langdurige veerkracht.
 
 Deze oplossing helpt gebruikers grip te krijgen op hun situatie en biedt ondersteuning op momenten dat professionele hulp (nog) niet beschikbaar is.
 
 <img src="https://github.com/sidmunck/UCD/raw/main/fotos/semester%202/eindrender2.bmp" width="600">
 
 ## Introductie
-Het groeiende bewustzijn rond mentale gezondheid, het afnemen van stigma en de toegenomen prestatiedruk zorgen voor een stijging in het aantal mensen dat psychologische hulp zoekt. Deze toename zet de geestelijke gezondheidszorg onder druk, met lange wachtlijsten en aanmeldstops tot gevolg[^1]. Eén op de acht Vlamingen kampt met een angststoornis, waaronder paniekstoornissen een aanzienlijk aandeel vormen.
+Het groeiende bewustzijn rond mentale gezondheid, het afnemen van stigma en de
+toegenomen prestatiedruk zorgen voor een stijging in het aantal mensen dat psychologische hulp zoekt. Deze toename zet de geestelijke gezondheidszorg onder druk, met lange wachtlijsten en aanmeldingsstops tot gevolg[^1]. Eén op de acht Vlamingen kampt met een angststoornis, waarvan paniekstoornissen een aanzienlijk aandeel vormen.
 
-Dit project richt zich op het ontwikkelen van een ondersteunend product voor mensen met paniekaanvallen. Het doel is om gebruikers te helpen zelfstandig met hun klachten om te gaan, waardoor het beroep op psychologische hulp kan worden verminderd. Hierdoor kan het indirect bijdragen aan een verlichting van de druk op de zorgsector.
+Dit project richt zich op het ontwikkelen van een ondersteunend product voor mensen die te kampen hebben met paniekaanvallen. Het doel is om gebruikers te helpen zelfstandig met hun klachten om te gaan, waardoor de vraag naar psychologische hulp kan worden verminderd. Hierdoor kan het indirect bijdragen aan een verlichting van de druk op de zorgsector.
 
-Bestaande hulpmiddelen blijken vaak te algemeen of onvoldoende afgestemd op de noden van mensen met paniekaanvallen. Bovendien ontbreekt het aan producten die deze problematiek bij de kern aanpakken, bijvoorbeeld door het toepassen van technieken uit de klinische praktijk zoals interoceptieve exposure.
+Bestaande hulpmiddelen blijken vaak te algemeen of zijn onvoldoende afgestemd op de noden van mensen die regelmatig in aanraking komen met paniekaanvallen. Bovendien ontbreekt het aan producten die deze problematiek bij de kern aanpakken, bijvoorbeeld door het toepassen van technieken uit de klinische praktijk zoals interoceptieve exposure.
 
-Het voorgestelde product, in combinatie met een bijhorende app, biedt ruimte voor personalisatie, snelle activatie (<10 seconden), en een toegankelijke interface. De nadruk ligt op discretie, gebruiksgemak en effectiviteit – zodat ondersteuning altijd binnen handbereik is.
+Het voorgestelde product, in combinatie met een bijhorende app, biedt ruimte voor personalisatie, snelle activatie (<10 seconden), en een toegankelijke interface. De nadruk ligt op discretie, gebruiksgemak en effectiviteit zodat ondersteuning altijd binnen handbereik is.
 
 ## Methodologie 
-Het ontwerpproces volgt een duidelijke en gestructureerde aanpak, waarbij stap voor stap van  probleem naar oplossing werd gewerkt. Drie hoofdfasen zijn te onderscheiden: onderzoek, conceptontwikkeling en prototype & testen. Elke fase bouwt verder op de inzichten uit de voorgaande en strekt zich uit over twee semesters.
+Het ontwerpproces volgt een duidelijke en gestructureerde aanpak waarbij stap voor stap van  probleem naar oplossing werd gewerkt. Er zijn drie hoofdfases te onderscheiden: onderzoek, conceptontwikkeling en prototype & testen. Elke fase bouwt verder op de inzichten uit de voorgaande en het gehele project strekt zich uit over twee semesters. 
 
 Semester 1: onderzoek en concept
-In het eerste semester vond een individueel onderzoek plaats naar het onderwerp paniekaanvallen. Hierbij werd uitgebreid literatuuronderzoek gedaan, evenals benchmarking en het afnemen van drie interviews om inzicht te verkrijgen in de gebruikersbehoeften. De verzamelde data werden geanalyseerd en samengebracht in een persona en een WWWWWH-analyse. Op 31 november 2024 werd het eerste concept gepresenteerd, waarna alle teams werden samengesteld. 
+In het eerste semester vond een individueel onderzoek plaats naar het onderwerp 'paniekaanvallen'. Hierbij werd uitgebreid literatuuronderzoek gedaan, evenals benchmarking en het afnemen van drie interviews om inzicht te verkrijgen in de gebruikersbehoeften. De verzamelde data werden geanalyseerd en samengebracht in een persona en een WWWWWH-analyse. Op 31 november 2024 werd het eerste concept gepresenteerd, waarna alle teams werden samengesteld. 
 
-Vervolgend werd binnen het team samengewerkt aan ideeontwikkeling via brainstormsessies. Er werden storyboards en eenvoudige prototypes gemaakt. Deze prototypes werden in twee testwaves door zeven gebruikers geëvalueerd. Wave 1 richtte zich op het concept, terwijl wave 2 de noodzaak van een ondersteunende app onderzocht. Parallel hieraan werd een literatuurstudie uitgevoerd naar 'interoceptieve exposure', een therapeutische methode bij paniek.
+Vervolgens werd binnen het team samengewerkt aan ideeontwikkeling via brainstormsessies. Er werden storyboards en eenvoudige prototypes gemaakt. Deze prototypes werden in twee testwaves door zeven gebruikers geëvalueerd. Wave 1 richtte zich op het concept, terwijl wave 2 de noodzaak aan een ondersteunende app onderzocht. Parallel hieraan werd een literatuurstudie uitgevoerd naar 'interoceptieve exposure', een therapeutische methode die ingezet wordt bij het behandelen van angst en paniek.
 
 Semester 2: verdieping en verfijning
 Het tweede semester richtte zich op drie deelonderzoeken: 'The Human Body', 'The Human Senses' en 'The Human Mind'.
 
-- Bij 'The Human Mind' werd de antropometrie van het menselijke hand bestudeerd om een geschikte productvorm te bepalen. Op basis van gebruikerstesten werd een voorkeursontwerp geselecteerd.
-- 'The Human Senses' onderzocht hoe trillingen en muziek optimaal ingezet kunnen worden om kalmering te bieden. Er werd getoetst met prototypes en literatuur over muziekfrequentie geraadpleegd.
-- Binnen 'The Human Mind' lag de focus op de intuïtiviteit van de interface. Met behulp van de 'Wizard of Oz'-methode werd onderzocht hoe gebruikers verschillende signalen interpreten.
+- Bij 'The Human Body' werd de antropometrie van het menselijke hand bestudeerd om een geschikte productvorm te bepalen. Op basis van gebruikerstesten werd een voorkeursontwerp geselecteerd.
+- Bij 'The Human Senses' werd onderzocht hoe trillingen en muziek optimaal ingezet kunnen worden om kalmering te bieden. Er werd getoetst met prototypes en er werd literatuur over muziekfrequentie geraadpleegd.
+- Bij 'The Human Mind' lag de focus op de intuïtiviteit van de interface. Met behulp van de 'Wizard of Oz'-methode werd onderzocht hoe gebruikers verschillende signalen interpreteren.
 
 Met de verkregen inzichten werd een werkend prototype ontwikkeld, bestaande uit elektronica gekoppeld aan een Protopie Connect-interface en een fysieke (niet-werkende) behuizing. Dit prototype vormt de basis voor verdere tests en de eindpresentatie, ondersteund door een productvideo.
 
@@ -46,7 +47,7 @@ Met de verkregen inzichten werd een werkend prototype ontwikkeld, bestaande uit 
 
 ## Discovery
 ### Doelstellingen
-De doelstelling van deze fase was om op gestructureerde wijze inzicht te krijgen in de noden van mensen met paniekaanvallen, met als einddoel het ontwikkelen van een technologisch hulpmiddel dat niet alleen acute ondersteuning biedt, maar ook preventief werkt. In een breder perspectief werd onderzocht hoe zo’n oplossing indirect zou kunnen bijdragen aan het verlagen van de druk op de psychologische zorg. Binnen deze fase lag de nadruk op het achterhalen wie de gebruiker is, wat hun ervaringen zijn met paniekaanvallen, en welke voorwaarden ze stellen aan mogelijke ondersteuning.
+De doelstelling van deze fase was om op gestructureerde wijze inzicht te krijgen in de noden van mensen met paniekaanvallen, met als einddoel het ontwikkelen van een technologisch hulpmiddel dat niet alleen acute ondersteuning biedt, maar ook preventief werkt. In een breder perspectief werd onderzocht hoe zo’n oplossing indirect zou kunnen bijdragen aan het verlagen van de druk op de psychologische zorg. Binnen deze fase lag de nadruk op het achterhalen wie de gebruikers zijn, wat hun ervaringen zijn met paniekaanvallen, en welke voorwaarden ze stellen aan mogelijke ondersteuning.
 
 De centrale onderzoeksvraag luidde:
 "Hoe kunnen technologie-gebaseerde zelfhulpmiddelen effectief worden ingezet om mensen met paniekaanvallen beter te ondersteunen en tegelijkertijd de druk op de wachtlijsten voor psychologische hulp te verlichten?"
@@ -54,49 +55,49 @@ De centrale onderzoeksvraag luidde:
 ### Materiaal en methoden
 Om de doelstellingen te bereiken werd een combinatie van kwalitatieve en kwantitatieve onderzoeksmethoden ingezet.
 
-Allereerst werd een uitgebreide literatuurstudie uitgevoerd om de maatschappelijke context en de problematiek rondom paniekaanvallen en psychologische zorg in kaart te brengen. Uit recente bronnen, waaronder de Public Health Monitor 2023, blijkt dat maar liefst 22% van de Vlaamse bevolking kampt met psychische stoornissen, waarvan 12% angststoornissen — een significant deel hiervan ervaart paniekaanvallen.
+Allereerst werd een uitgebreide literatuurstudie uitgevoerd om de maatschappelijke context en de problematiek rondom paniekaanvallen en psychologische zorg in kaart te brengen. Uit recente bronnen, waaronder de Public Health Monitor 2023, blijkt dat maar liefst 22% van de Vlaamse bevolking kampt met psychische stoornissen, waarvan 12% te maken krijgt met angststoornissen — een significant deel hiervan ervaart paniekaanvallen.
 
-Parallel aan dit deskresearch vond een benchmarkingonderzoek plaats waarin tien bestaande zelfhulpmiddelen voor paniekaanvallen werden geëvalueerd. Deze producten varieerden van apps die ademhalingsoefeningen begeleiden tot fysieke draagbare apparaten die trilling- of geluidssignalen geven. Elk hulpmiddel werd beoordeeld op parameters zoals gebruiksgemak, effectiviteit, discretie en mate van personalisatie. Deze analyse leverde inzicht op in de sterke en zwakke punten van de markt en de mate waarin bestaande oplossingen aansluiten bij de gebruikersbehoeften.
+Parallel aan deze deskresearch vond een benchmarkingonderzoek plaats waarin tien bestaande zelfhulpmiddelen voor paniekaanvallen werden geëvalueerd. Deze producten varieerden van apps die ademhalingsoefeningen begeleiden tot fysieke draagbare apparaten die trilling- of geluidssignalen geven. Elk hulpmiddel werd beoordeeld op parameters zoals gebruiksgemak, effectiviteit, discretie en mate van personalisatie. Deze analyse leverde inzicht op in de sterke en zwakke punten van de markt en de mate waarin bestaande oplossingen aansluiten bij de gebruikersbehoeften.
 
-Daarnaast werden drie interviews afgenomen met mensen die regelmatig paniekaanvallen ervaren. De interviewvragen waren gericht op het in kaart brengen van hun ervaringen met paniek, huidige copingstrategieën, en hun wensen ten aanzien van nieuwe ondersteunende technologieën.
+Daarnaast werden drie interviews afgenomen van mensen die regelmatig paniekaanvallen ervaren. De interviewvragen waren gericht op het in kaart brengen van hun ervaringen met paniek, hun huidige copingstrategieën en hun wensen ten aanzien van nieuwe ondersteunende technologieën.
 De data uit deze interviews werden geanalyseerd door terugkerende thema’s te clusteren. Op basis daarvan werden de belangrijkste design requirements geformuleerd. ([Design Requirements - REMMIE](https://github.com/sidmunck/UCD/raw/main/files/design%20requirements/designrequirements%20REMMIE%20excel.xlsx))
 
 ### Resultaten
-De analyse van de onderzoeksdata bevestigde dat paniekaanvallen een urgent en groeiend maatschappelijk probleem vormen, mede door de lange wachttijden in de psychologische zorg en het gebrek aan laagdrempelige directe ondersteuning.
+De analyse van de onderzoeksdata bevestigde dat paniekaanvallen een urgent en groeiend maatschappelijk probleem vormen, mede door de lange wachttijden in de psychologische zorg en het gebrek aan laagdrempelige, directe ondersteuning.
 
-Uit de interviews bleek dat gebruikers vooral behoefte hebben aan emotionele geruststelling tijdens een paniekaanval. Dit kan bijvoorbeeld worden geleverd door herkenbare en vertrouwde geluiden via het apparaat, waardoor het gevoel van veiligheid wordt versterkt. Daarnaast werd het belang van een eenvoudig, intuïtief ontwerp benadrukt zodat gebruikers in stressvolle situaties snel en zonder extra cognitieve belasting het hulpmiddel kunnen bedienen. Discretie werd ook als cruciaal ervaren, omdat veel mensen zich ongemakkelijk voelen om hun paniekaanval in het openbaar zichtbaar te maken.
+Uit de interviews bleek dat gebruikers vooral behoefte hebben aan emotionele geruststelling tijdens een paniekaanval. Dit kan bijvoorbeeld worden geleverd door herkenbare en vertrouwde geluiden via het apparaat, waardoor het gevoel van veiligheid wordt versterkt. Daarnaast werd het belang van een eenvoudig, intuïtief ontwerp benadrukt zodat gebruikers in stressvolle situaties snel en zonder extra cognitieve belasting het hulpmiddel kunnen bedienen. Discretie werd ook als cruciaal ervaren, omdat veel mensen liefst vermijden dat hun paniekaanval en de bestrijding ervan publiek zichtbaar zouden zijn.
 
 Een andere belangrijke uitkomst was de wens om het product te kunnen personaliseren. Dit houdt in dat gebruikers zelf kunnen bepalen welke signalen of functies ze willen gebruiken, zodat het apparaat aansluit bij hun persoonlijke voorkeuren en paniekervaringen.
 
-De benchmarkingstudie toonde dat de meeste bestaande producten zich focussen op één enkele zintuigelijke stimulus (zoals geluid of aanraking), terwijl uit de interviews bleek dat gebruikers juist gebaat zijn bij een combinatie van auditieve, visuele en tactiele signalen. Verder is er weinig aanbod dat training of preventie faciliteert. Dit vormde een aanleiding om in het eigen product ook elementen van interoceptieve exposure te integreren, een psychologische techniek waarbij gebruikers gecontroleerd oefenen met fysieke sensaties om zo de angstreactie te verminderen.
+De benchmarkingstudie toonde dat de meeste bestaande producten zich focussen op één enkele zintuigelijke stimulus (zoals geluid of aanraking), terwijl uit de interviews bleek dat gebruikers juist gebaat zijn bij een combinatie van auditieve, visuele en tactiele signalen. Verder is er weinig aanbod dat training of preventie faciliteert. Dit vormde de aanleiding om in het eigen product ook elementen van interoceptieve exposure te integreren, een psychologische techniek waarbij gebruikers gecontroleerd oefenen met fysieke sensaties om zo de angstreactie te verminderen.
 
 De verkregen kwalitatieve data werden aangevuld met een functieprioriteringsanalyse. De respondenten gaven aan welke producteigenschappen zij het belangrijkst vonden, waarbij functies als discretie, compactheid en intuïtieve bediening bovenaan stonden.
 
 ![functies](https://github.com/MattizV/UCD/blob/main/fotos/grafiek.png)
 
 ### Conclusies en implicaties
-De inzichten uit deze discoveryfase leiden tot duidelijke ontwerpprincipes en -eisen voor het ontwikkeltraject.
+De inzichten uit deze discoveryfase leidden tot duidelijke ontwerpprincipes en -eisen voor het ontwikkeltraject.
 
 Allereerst moet het product effectief ondersteunen tijdens een paniekaanval door snel en betrouwbaar rustgevende signalen te geven die meerdere zintuigen aanspreken. De activering moet intuïtief en snel zijn, zonder dat de gebruiker complexe handelingen hoeft te verrichten. Dit vraagt om een gebruikersinterface met minimale cognitieve belasting en een logische structuur.
 
-Daarnaast moet het product ook een preventieve functie hebben. Door middel van oefeningen gebaseerd op interoceptieve exposure kunnen gebruikers de angst voor hun fysieke panieksignalen leren verminderen en zo op termijn minder vaak last krijgen van aanvallen. Dit maakt het product niet alleen een hulpmiddel voor crisismomenten, maar ook een coach voor lange termijn mentale gezondheid.
+Daarnaast moet het product ook een preventieve functie hebben. Door middel van oefeningen gebaseerd op interoceptieve exposure kunnen gebruikers de angst voor hun fysieke panieksignalen leren verminderen en zo op termijn minder vaak last krijgen van aanvallen. Dit maakt het product niet alleen een hulpmiddel voor crisismomenten, maar ook een coach voor mentale gezondheid op lange termijn. 
 
-Personalisatie blijkt eveneens essentieel. Aangezien paniekaanvallen en copingstrategieën sterk persoonsgebonden zijn, moet het product verschillende instellingen en aanpasbare functies bieden. Dit kan bijvoorbeeld door verschillende geluiden, trillingpatronen of visuele signalen aan te bieden die gebruikers kunnen kiezen en combineren.
+Personalisatie blijkt eveneens essentieel. Aangezien paniekaanvallen en copingstrategieën sterk persoonsgebonden zijn, moet het product verschillende instellingen en aanpasbare functies bieden. Dit kan bijvoorbeeld door verschillende geluiden, trillingspatronen of visuele signalen aan te bieden die gebruikers kunnen kiezen en combineren.
 
-Tot slot is de fysieke vormgeving van het apparaat een belangrijke factor. Het moet compact en discreet zijn, zodat het overal gedragen kan worden zonder op te vallen. Dit sluit aan bij het belangrijke designcriterium dat het product ‘altijd en overal’ beschikbaar moet zijn zonder extra stress te veroorzaken.
+Tot slot is de fysieke vormgeving van het apparaat een belangrijke factor. Het moet compact en discreet zijn, zodat het overal meegedragen kan worden zonder op te vallen. Dit sluit aan bij het belangrijke designcriterium dat het product ‘altijd en overal’ beschikbaar moet zijn zonder extra stress te veroorzaken.
 
 ## Definition
 ### Doestellingen
-In de Definition-fase lag de focus op het verfijnen van inzichten die tijdens de voorgaande Discovery-fase waren verkregen, en op het verkennen van concrete manieren om bestaande oplossingen te verbeteren of te combineren tot een effectief hulpmiddel. Hierbij was het essentieel om vast te stellen welke methoden het meest effectief zijn bij het kalmeren van mensen die een paniekaanval ervaren, en op welke wijze deze methoden het beste kunnen worden aangeboden.
+In de Definition-fase lag de focus op het verfijnen van inzichten die tijdens de voorgaande Discovery-fase waren verkregen en op het verkennen van concrete manieren om bestaande oplossingen te verbeteren of te combineren tot een effectief hulpmiddel. Hierbij was het essentieel om vast te stellen welke methoden het meest effectief zijn bij het kalmeren van mensen die een paniekaanval ervaren en op welke wijze deze methoden het best kunnen worden aangeboden.
 
 Het primaire doel was om de sterke en zwakke punten van reeds beschikbare hulpmiddelen te identificeren en op basis daarvan een concept te ontwikkelen dat optimaal aansluit bij de behoeften van de gebruikers. De centrale vraag was: welke combinatie van signalen, bediening en ondersteunende technologie levert het meeste effect bij het verminderen van paniekgevoelens, zonder de gebruiker extra stress te bezorgen?
 
 Deze fase was cruciaal om niet enkel theoretische inzichten te verwerken, maar om daadwerkelijk te toetsen wat in de praktijk werkt, met gebruikers als belangrijkste raadgevers.
 
 ### Materiaal & methoden
-Om de doelstellingen van deze fase te bereiken, werd een mix van kwalitatieve en praktische onderzoeksmethoden ingezet, waaronder twee opeenvolgende waves van gebruikerstesten en aanvullend literatuur onderzoek. 
+Om de doelstellingen van deze fase te bereiken, werd een mix van kwalitatieve en praktische onderzoeksmethoden ingezet, waaronder twee opeenvolgende waves van gebruikerstesten en aanvullend literatuuronderzoek. 
 
-#### 1. Gebruikertesten
+#### 1. Gebruikerstesten
 Er werden twee waves uitgevoerd met elk zeven respondenten. Hierbij lag de nadruk telkens op een ander aspect van het productconcept. 
 
 ##### Wave 1: Ademhalingsoefeningen
@@ -119,23 +120,23 @@ De prototypes die werden gebruikt:
 ##### Wave 2: App versus fysieke bediening
 De tweede test richtte zich op de vraag of een bijhorende app noodzakelijk is, of dat het product ook zonder app effectief kan zijn. Hiervoor werden drie prototypes getest: één puur fysiek apparaat zonder app, een hybride model dat zowel fysieke knoppen als een app combineert, en een volledige app-gebaseerde oplossing.
 
-De testen vonden plaats in omgevingen zoals drukke openbare ruimtes en rustige settings. Respondenten moesten oefeningen starten, geluiden en trillingen aanpassen, en het gebruiksgemak in diverse siuaties beoordelen. De volledige werking van het onderzoek is uitgeschreven in [protocol wave 2](https://github.com/sidmunck/UCD/raw/main/files/wave%202/Wave%202%20protocol%20Remmie.pdf).
+De testen vonden plaats in omgevingen zoals drukke openbare ruimtes en rustige settings. Respondenten moesten oefeningen starten, geluiden en trillingen aanpassen, en het gebruiksgemak in diverse situaties beoordelen. De volledige werking van het onderzoek is uitgeschreven in [protocol wave 2](https://github.com/sidmunck/UCD/raw/main/files/wave%202/Wave%202%20protocol%20Remmie.pdf).
 
 Tijdens beide waves werd gebruik gemaakt van role-playing, zodat respondenten de ervaring van een paniekaanval konden simuleren en meteen konden toetsen hoe intuïtief en effectief de prototypes in zulke stressvolle momenten zijn. Alle deelnemers tekenden vooraf een informed consent.
 
 <img src="https://github.com/sidmunck/UCD/raw/main/fotos/wave%202%20prototype.png" width="400">
 
-#### 2. Literatuur onderzoek
-Parallel aan de gebruikerstesten werd een diepgaan literatuuronderzoek uitgevoerd naar interoceptieve exposure, een bewezen klinische techniek waarbij gebruikers bewust fysieke sensaties oproepen die angst uitlokken, om zo geleidelijk de angst voor die signalen te verminderen. Dit onderzoek toonde aan dat er nog geen commercieel product bestaat dat deze methode ondersteunt, waardoor er een duidelijke kans ligt om dit in het eigen product te integreren. De wenselijkheid van deze toepassing moet dan eerst wel onderzocht worden. ([Onderzoek interoceptieve exposure](https://github.com/sidmunck/UCD/raw/main/files/wave%201/Onderzoek%20Interoceptieve%20exposure.docx))
+#### 2. Literatuuronderzoek
+Parallel aan de gebruikerstesten werd een diepgaand literatuuronderzoek uitgevoerd naar interoceptieve exposure, een bewezen klinische techniek waarbij gebruikers bewust fysieke sensaties oproepen die angst uitlokken, om zo geleidelijk de angst voor die signalen te verminderen. Dit onderzoek toonde aan dat er nog geen commercieel product bestaat dat deze methode ondersteunt, waardoor er een duidelijke kans ligt om dit in het eigen product te integreren. De wenselijkheid van deze toepassing moest dan eerst wel onderzocht worden. ([Onderzoek interoceptieve exposure](https://github.com/sidmunck/UCD/raw/main/files/wave%201/Onderzoek%20Interoceptieve%20exposure.docx))
 
 ### Resultaten
 Uit de combinatie van gebruikerstesten en literatuuronderzoek kwamen diverse heldere patronen naar voren die de verdere productontwikkeling richting geven:
 
 #### 1. Gebruiksvriendelijkheid
-Gebruikers benadrukten dat het apparaat direct en intuïtief bedienbaar moet zijn, zeker in panieksituaties waarin stress en cognitieve overbelasting heersen. Complexe menu's of trage reacties verhogen de angst juist. Het activeren van functies moet daarom binnen enkele seconden kunnen, zonder ingewikkelde handelingen.
+Gebruikers benadrukten dat het apparaat direct en intuïtief bedienbaar moet zijn, zeker in panieksituaties waarin stress en cognitieve overbelasting overheersen. Complexe menu's of trage reacties verhogen de angst juist. Het activeren van functies moet daarom binnen enkele seconden kunnen gebeuren, zonder ingewikkelde handelingen.
 
 #### 2. Discretie en draagbaarheid
-Respondenten gaven aan dat het product klein en onopvallend moet zijn, zodat het ook in publieke ruimtes zonder schaamte kan worden gebruikt. Bij een paniekaanval is het vaak niet haalbaar om uitgebruik met een app te werken. Daarom is een fysieke besturing van het toestel in veel situaties veel praktischer. Dit ondersteunt het idee van een hybride ontwerp waarbij zowel fysieke bediening als app-functionaliteit wordt aangeboden.
+Respondenten gaven aan dat het product klein en onopvallend moet zijn, zodat het ook in publieke ruimtes zonder schaamte kan worden gebruikt. Bij een paniekaanval is het vaak niet haalbaar om uitgebreid met een app te werken. Daarom is een fysieke besturing van het toestel in veel situaties veel praktischer. Dit ondersteunt het idee van een hybride ontwerp waarbij zowel fysieke bediening als app-functionaliteit wordt aangeboden.
 
 #### 3. Effectiviteit van signalen
 Verschillende zintuigelijke signalen werden getest met volgende bevindingen: 
@@ -144,7 +145,7 @@ Verschillende zintuigelijke signalen werden getest met volgende bevindingen:
 - Tactiel (trillingen): Werden wisselend beoordeeld. Voor sommigen boden trillingen een extra houvast, maar voor anderen waren ze juist storend. Dit benadrukt het belang van personalisatie.
 
 #### 4. Personalisatie
-Gebruikers hechten veel waarde aan de mogelijkheid om het apparaat naar eigen voorkeur in te stellen. Denk aan het aanoassen van lichtintensiteit, geluidsvolume, trillingspatronen en welke signalen worden ingezet. Deze flexibiliteit vergroot de effectiviteit en het gebruiksgemak aanzienlijk. 
+Gebruikers hechten veel waarde aan de mogelijkheid om het apparaat naar eigen voorkeur in te stellen. Denk aan het aanpassen van lichtintensiteit, geluidsvolume, trillingspatronen en welke signalen worden ingezet. Deze flexibiliteit vergroot de effectiviteit en het gebruiksgemak aanzienlijk. 
 
 #### 5. App
 De app bleek vooral in rustigere omgevingen nuttig voor het uitvoeren van uitgebreide oefeningen en het aanpassen van instellingen. In drukke of stressvolle situaties werd fysieke bediening sneller en intuïtiever ervaren. Dit bevestigt de keuze voor een hybride interactiemodel waarin het beste van beide werelden wordt gecombineerd.
@@ -154,16 +155,16 @@ De inzichten uit de Definition-fase wijzen duidelijk in de richting van een hybr
 
 De combinatie van meerdere zintuigelijke signalen – visueel, auditief en tactiel – vormt de kern van een effectief kalmeringshulpmiddel. Daarbij is het cruciaal om de gebruiker zelf te laten kiezen welke signalen voor hem of haar het beste werken, door middel van personalisatiemogelijkheden.
 
-Uit de eerste wave kwam naar voren dat natuurlijke geluiden het meest rustgevend worden ervaren bij ademhalingsoefeningen, en dat lichtpatronen een krachtig visueel hulpmiddel zijn. Omdat trillingen per persoon verschillen in effectiviteit, moet het product deze functie optioneel maken.
+Uit de eerste wave kwam naar voren dat natuurlijke geluiden als het meest rustgevend worden ervaren bij ademhalingsoefeningen, en dat lichtpatronen een krachtig visueel hulpmiddel zijn. Omdat trillingen per persoon verschillen in effectiviteit, moet het product deze functie optioneel maken.
 
 De tweede wave onderstreepte dat fysieke bediening van het apparaat essentieel is voor gebruik in stressvolle of drukke omgevingen, terwijl een app meer mogelijkheden biedt voor uitgebreide personalisatie en training. Dit betekent dat het product zowel een compact fysiek apparaat moet zijn, als een app moet hebben die als aanvulling dient.
 
 Enkele design requirements die hieruit volgen zijn concreet en toetsbaar:
--	Hoofdfuncties moeten binnen de 5 seconden bediend worden.
--	Subfuncties moeten binnen de 10 seconden bediend worden.
+-	Hoofdfuncties moeten binnen de 5 seconden bediend kunnen worden.
+-	Subfuncties moeten binnen de 10 seconden bediend kunnen worden.
 -	Het product moet overal te gebruiken zijn.
 -	Het product moet onopvallend kunnen worden gebruikt. 
--	Eventueel gebruikte LED lampjes moeten ook zichtbaar zijn overdag.
+-	Eventueel gebruikte LED-lampjes moeten ook zichtbaar zijn overdag.
 Het volledige document met design requirements is terug te vinden in de bijlagen.
 
 Deze fase legt een sterke basis voor de volgende stap in het ontwikkelingsproces: het ontwerpen van een prototype dat aan deze eisen voldoet, gevolgd door uitgebreide gebruikerstests om de effectiviteit en gebruikservaring te optimaliseren.
