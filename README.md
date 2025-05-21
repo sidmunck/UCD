@@ -102,8 +102,7 @@ Er werden twee waves uitgevoerd met elk zeven respondenten. Hierbij lag de nadru
 ##### Wave 1: Ademhalingsoefeningen
 Deze eerste test richtte zich op het onderzoeken van verschillende manieren om ademhalingsoefeningen te begeleiden. Ademhalingsoefeningen zijn immers de meest gebruikte en bewezen methode om tijdens een paniekaanval rust te vinden. Aangezien het product in allerlei situaties moet kunnen worden toegepast, moest deze methode discreet en gemakkelijk toepasbaar zijn. Met behulp van een role playing werd het belang van ademhalingsoefeningen aangetoond. De volledige werking van het onderzoek werd uitgeschreven in [protocol wave 1](https://github.com/sidmunck/UCD/raw/main/files/wave%201/Wave%201%20protocol%20Remmie.pdf).
 
-
-FOTO ROLEPLAYING
+<img src="https://github.com/sidmunck/UCD/raw/main/fotos/Role%20playing%20ademhalingsoefeningen.png" width="450">
 
 Met behulp van low-fidelity prototypes kregen gebruikers de mogelijkheid om verschillende soorten signalen uit te proberen: kleuren en lichtpatronen, trillingen, natuurlijke geluiden zoals het kabbelende geluid van de zee, een klok, timer of stembegeleiding. Respondenten gaven feedback over wat het meest hielp om hun ademhaling te reguleren en rust te ervaren.
 
