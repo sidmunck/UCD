@@ -365,48 +365,32 @@ Daarnaast werd er ook een fysiek prototype gemaakt waarin de look & feel van het
 + FOTO FYSIEKE EINDPROTOTYPE
 
 ## Technische beschrijving
-## Bill of materials
-<p align=center>  
-  <img src="fotos/schema_BillOfMaterials.png") alt=testlocatie width=50% />
-</p>
+### Bill of materials
+- Microcontroller: Arduino Uno (1 stuk) [Arduino Uno](https://www.bitsandparts.nl/product/FUNDUINO_ARDUINO_UNO_R3?gad_source=1&gad_campaignid=22404178302&gbraid=0AAAAADpItpckOorsIinuHnMItEorYakiD&gclid=CjwKCAjw87XBBhBIEiwAxP3_A9ddGmQ3-A8vZx0zjzjzKPsJ6b-HEvwvlw0mPq3e78KXJu_2vK-2jjBoCxUgQAvD_BwE)
+- Trillingsmotor:  3.0V 0.5A mini vibratiemodule (1 stuk) <a href="https://www.amazon.com.be/-/nl/3-0-5-3-Telefoon-Trilling-Trillingsmodule-Compatibel/dp/B07QL8CMH7/ref=asc_df_B07QL8CMH7?mcid=28aab8932ada3f74be4498398a817b97&tag=begogshpadd0d-21&linkCode=df0&hvadid=714474122060&hvpos=&hvnetw=g&hvrand=7902026829698400949&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001021&hvtargid=pla-837063758574&psc=1&language=nl_BE&gad_source=1">trillingsmodule</a><br>
+- Drukknoppen: Tactile push buttons, 12x12mm (5 stuks) <a href="https://funduinoshop.com/nl/onderdelen/knoppen-en-schakelaars/knop/drukknop-2-pinnen-12-12-6mm">drukknop</a><br>
+- Geluidsmodule: DFPlayer Mini MP3 player module (1 stuk) <a href="https://www.tinytronics.nl/nl/audio/audio-bronnen/dfrobot-dfplayer-mini-mp3-module">DFRobot DFPlayer Mini</a><br>
+- Luidspreker: 8Ω 0.5W mini speaker (1 stuk)(<a href="https://funduinoshop.com/nl/onderdelen/passieve-componenten/zoemer-en-luidspreker/luidspreker-8o-0.5w">luidspreker 8Ω</a><br>
+- LED: LED (1 stuk) <a href="https://www.allekabels.be/led-diode/7369/1096838/led-diode.html?mc=nl-be&gad_source=1&gad_campaignid=19947949570&gbraid=0AAAAAC3CB_o2ImI5tXLTE-KkPbjmZXfP5&gclid=CjwKCAjw87XBBhBIEiwAxP3_A9X08MkcAq4n5ssKkmRALukiATyn_0XUEf5iuU2aEuoGz3hkScWMqhoCgi8QAvD_BwE">LED diode</a><br>
+- Batterij: Li-ion 3.7V 1000mAh (1 stuk) <a href="https://www.123accu.nl/Luvion-JS803438-accu-3-7V-1000-mAh-Li-pl-123accu-huismerk-i32988.html">Li-ion accu 3,7V 1000mAh</a><br>
+- Batterijbeheer IC: TP4056 Li-ion charger module (1 stuk) <a href="https://www.amazon.com.be/AZDelivery-TP4056-Charging-Regulator-Lithium/dp/B089QK7SFD/ref=sr_1_2_sspa?adgrpid=159859282524&dib=eyJ2IjoiMSJ9.UJUX5-s8MlITARltJZfQQJenJ51ffhHJTodm51tYaAGqHhAubKnuDP9xrQgfs8fwu8c-DAXrlMTsadPlHIqM6W_0vkWSjnGsdjsGLuODGCnMxmSx_G8cUlfmcwFjwKtY7uQuEMITzNoaRq9b06glbDgfz0Ibl5SdqzRfLe53Y9AKHX6n3Bs13Ybd_5c4oVx46tqbPpkFA94IiRVFmHQg-VmvOw0phwspgms0_XOEH4JJjeWcmFvUm1KtMMQwsGQlVEzb1ibQAYT90QXzqA7URKZXYtqEXy6Bwvg--2Y0yZw.6LJb_soYypLXiCdXJGYjQfY7fV8NG91bKYgQ8gG_8OA&dib_tag=se&gad_source=1&hvadid=689080560199&hvdev=c&hvlocphy=1001021&hvnetw=g&hvqmt=e&hvrand=16450520649693051747&hvtargid=kwd-324097400066&hydadcr=14737_2323246&keywords=tp4056%2Bcharging%2Bmodule&mcid=6a2935843aad3e1fb45ba11e60ff9edf&qid=1747839197&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">TP4056 laadmodule</a><br>
+- Behuizing: 3D-geprint PLA (1 stuk)
+- Draden, soldeer, knoppenkapjes
 
-<table align=center>
-        <tr>
-            <th></th>
-            <th>Product/ Materiaal</th>
-            <th>Prijs (Bulk - Enkel)</th>
-        </tr>
-        <tr>
-            <td>Behuizing</td>
-            <td>PLA</td>
-            <td>~ €18/kg</td>
-        </tr>
-        <tr>
-            <td>Microcontroller</td>
-            <td>Adafruit Trinket M0</td>
-            <td>€6.87 - €8.59</td>
-        </tr>
-        <tr>
-            <td>Battery pack</td>
-            <td>3V battery pack</td>
-            <td>€0.44</td>
-        </tr>
-        <tr>
-            <td>Trilmotor</td>
-            <td>Grove Vibration Motor</td>
-            <td>€2.50</td>
-        </tr>
-        <tr>
-            <td>Speaker</td>
-            <td>RS Pro 117-6046</td>
-            <td>€2.23 - €2.43</td>
-        </tr>
-        <tr>
-            <td><strong>Totaalprijs (Zonder PLA kosten)</strong></td>
-            <td></td>
-            <td><strong>€12.04 - €13.96</strong></td>
-        </tr>
-    </table>
+De totale geschatte kosten komen op ongeveer 60 euro per apparaat. Dit is zonder arbeid en R&D bijgerekend. 
+
+### Hardwareopbouw
+- De microcontroller vormt het centrale besturingssysteem van het toestel. Hij stuurt zowel de trillingspatronen als de geluidsmodule aan, en verwerkt de input van de drukknoppen.
+- De trillingsmotoren zorgen voor tactiele feedback en kalmerende trillingen tijdens het gebruik. Ze kunnen worden geactiveerd via de drukknoppen of via seriële communicatie met de app.
+- De drukknoppen aan de zijkant van het toestel maken het mogelijk om het apparaat in of uit te schakelen, het volume aan te passen en functies zoals trilling of muziek te activeren.
+- De geluidsmodule speelt rustgevende audiotracks af en kan net als de trillingen worden aangestuurd via de knoppen of via de app.
+- Een LED-indicator toont de oplaadstatus van het apparaat.
+- De batterij en laadmodule voorzien het toestel van autonome voeding en maken veilig opladen via micro-USB mogelijk.
+
+### Software en code
+
+
+### Bouwinstructies
 
 ## Kritische reflectie
 In deze reflectie blik ik terug op het volledige traject van het project Werkbaar werk in de zorg, dat liep over twee semesters. Het project bracht grote uitdagingen met zich mee, maar ook waardevolle inzichten. Het leerproces was intens en veelzijdig, en heeft mij zowel op inhoudelijk vlak als in mijn samenwerkingservaring belangrijke lessen opgeleverd.
