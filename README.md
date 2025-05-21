@@ -419,15 +419,6 @@ Een zeer waardevolle toevoeging aan dit project was de externe PESTEL-analyse di
 
 Al met al was dit project een intens maar zeer waardevol leertraject. Ik heb geleerd hoe belangrijk het is om kritisch te blijven reflecteren op samenwerking, keuzes en processen. Tegelijk heb ik ervaren hoe motiverend het is om een project zelfstandig te kunnen dragen en daarin tot een concreet en doordacht resultaat te komen. De combinatie van inhoudelijke verdieping, praktische uitvoering en maatschappelijke reflectie heeft mij als ontwerper sterker en zelfstandiger gemaakt.
 
-## Bronnen
-[^1]: Vlaamse Vereniging van Klinisch Psychologen. (2023). Ook de wachtlijst vol. Vlaamse Vereniging van Klinisch Psychologen. https://vvkp.be/nieuws/ook-de-wachtlijst-vol
-
-[^2]: Zorgnet-Icuro. (2023). De mythes bevraagd: Resultaten van de Public Mental Health Monitor 2023. Zorgnet-Icuro. https://www.zorgneticuro.be/sites/default/files/publication/2024-02/De%20mythes%20bevraagd.%20Resultaten%20van%20de%20Public%20Mental%20Health%20Monitor%202023.pdf
-
-[^3]: Dinbelg. (2005). Volwassenentotaal. Geraadpleegd op 6 maart 2025, van https://www.dinbelg.be/volwassenentotaal.htm 
-
-[^4]: Makkes van der Deijl, G. B., & Panfilov, A. V. (2007). Formation of fast spirals on heterogeneities of an excitable medium. Physica D: Nonlinear Phenomena, 231(2), 112–120. https://doi.org/10.1016/j.physd.2006.09.019 
-
 ## Bijlagen
 storyboards:
 
@@ -438,3 +429,12 @@ Storyboard: Remmie gebruiken in een drukke ruimte
 Storyboard: Remmie gebruiken als hulpmiddel om met angst te leren omgaan
 
 Link naar protopie finaal prototype: https://cloud.protopie.io/p/492e9a57d45aad214b922e24?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&bgImage=undefined&playSpeed=1 
+
+## Bronnen
+[^1]: Vlaamse Vereniging van Klinisch Psychologen. (2023). Ook de wachtlijst vol. Vlaamse Vereniging van Klinisch Psychologen. https://vvkp.be/nieuws/ook-de-wachtlijst-vol
+
+[^2]: Zorgnet-Icuro. (2023). De mythes bevraagd: Resultaten van de Public Mental Health Monitor 2023. Zorgnet-Icuro. https://www.zorgneticuro.be/sites/default/files/publication/2024-02/De%20mythes%20bevraagd.%20Resultaten%20van%20de%20Public%20Mental%20Health%20Monitor%202023.pdf
+
+[^3]: Dinbelg. (2005). Volwassenentotaal. Geraadpleegd op 6 maart 2025, van https://www.dinbelg.be/volwassenentotaal.htm 
+
+[^4]: Makkes van der Deijl, G. B., & Panfilov, A. V. (2007). Formation of fast spirals on heterogeneities of an excitable medium. Physica D: Nonlinear Phenomena, 231(2), 112–120. https://doi.org/10.1016/j.physd.2006.09.019 
