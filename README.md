@@ -100,18 +100,21 @@ Om de doelstellingen van deze fase te bereiken, werd een mix van kwalitatieve en
 Er werden twee waves uitgevoerd met elk zeven respondenten. Hierbij lag de nadruk telkens op een ander aspect van het productconcept. 
 
 ##### Wave 1: Ademhalingsoefeningen
-Deze eerste test richtte zich op het onderzoeken van verschillende manieren om ademhalingsoefeningen te begeleiden. Ademhalingsoefeningen zijn immers de meest gebruikte en bewezen methode om tijdens een paniekaanval rust te vinden. Aangezien het product in allerlei situaties moet kunnen worden toegepast, moest deze methode discreet en gemakkelijk toepasbaar zijn.
+Deze eerste test richtte zich op het onderzoeken van verschillende manieren om ademhalingsoefeningen te begeleiden. Ademhalingsoefeningen zijn immers de meest gebruikte en bewezen methode om tijdens een paniekaanval rust te vinden. Aangezien het product in allerlei situaties moet kunnen worden toegepast, moest deze methode discreet en gemakkelijk toepasbaar zijn. Met behulp van een role playing werd het belang van ademhalingsoefeningen aangetoond. 
+
+FOTO ROLEPLAYING
 
 Met behulp van low-fidelity prototypes kregen gebruikers de mogelijkheid om verschillende soorten signalen uit te proberen: kleuren en lichtpatronen, trillingen, natuurlijke geluiden zoals het kabbelende geluid van de zee, een klok, timer of stembegeleiding. Respondenten gaven feedback over wat het meest hielp om hun ademhaling te reguleren en rust te ervaren.
 
-FOTOS PROTOTYPES MAKEN EN PLAKKEN
+De prototypes die werden gebruikt:
+- Een video met afwisselende kleuren die de ademhalingsfasen aangaven
+- Een aftelklok die werd weergegeven op een smartphone
+- Een aftelbalk die werd weergegeven op een smartphone
+- Een trillingpatroon, opgewekt met een trilmotor die verbonden was met ProtoPie
+- Een audiobestand met het geluid van de zee
+- Een audiobestand met een stemassistent die de gebruiker instructies gaf
 
-<p align=center>  
-  <img src="fotos/device_test_wave_1.png") alt=testlocatie width=50% />
-</p>
-<p align=center>  
-  <img src="fotos/tril_protoype.jpg") alt=testlocatie width=50% />
-</p>
+FOTOS PROTOTYPES MAKEN EN PLAKKEN
 
 ##### Wave 2: App versus fysieke bediening
 De tweede test richtte zich op de vraag of een bijhorende app noodzakelijk is, of dat het product ook zonder app effectief kan zijn. Hiervoor werden drie prototypes getest: één puur fysiek apparaat zonder app, een hybride model dat zowel fysieke knoppen als een app combineert, en een volledige app-gebaseerde oplossing.
@@ -120,12 +123,7 @@ De testen vonden plaats in omgevingen zoals drukke openbare ruimtes en rustige s
 
 Tijdens beide waves werd gebruik gemaakt van role-playing, zodat respondenten de ervaring van een paniekaanval konden simuleren en meteen konden toetsen hoe intuïtief en effectief de prototypes in zulke stressvolle momenten zijn. Alle deelnemers tekenden vooraf een informed consent.
 
-<p align=center>  
-  <img src="fotos/device_test_wave2.png") alt=testlocatie width=50% />
-</p>
-<p align=center>  
-  <img src="fotos/device_input.png") alt=testlocatie width=50% />
-</p>
+FOTO PROTOTYPE 3 OPTIES
 
 #### 2. Literatuur onderzoek
 Parallel aan de gebruikerstesten werd een diepgaan literatuuronderzoek uitgevoerd naar interoceptieve exposure, een bewezen klinische techniek waarbij gebruikers bewust fysieke sensaties oproepen die angst uitlokken, om zo geleidelijk de angst voor die signalen te verminderen. Dit onderzoek toonde aan dat er nog geen commercieel product bestaat dat deze methode ondersteunt, waardoor er een duidelijke kans ligt om dit in het eigen product te integreren. De wenselijkheid van deze toepassing moet dan eerst wel onderzocht worden. ([Onderzoek Interoceptieve Exposure - Wave 1 (Word)](https://github.com/sidmunck/UCD/raw/main/files/wave%201/Onderzoek%20Interoceptieve%20exposure.docx))
