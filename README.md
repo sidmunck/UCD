@@ -59,7 +59,7 @@ Allereerst werd een uitgebreide literatuurstudie uitgevoerd om de maatschappelij
 Parallel aan dit deskresearch vond een benchmarkingonderzoek plaats waarin tien bestaande zelfhulpmiddelen voor paniekaanvallen werden geëvalueerd. Deze producten varieerden van apps die ademhalingsoefeningen begeleiden tot fysieke draagbare apparaten die trilling- of geluidssignalen geven. Elk hulpmiddel werd beoordeeld op parameters zoals gebruiksgemak, effectiviteit, discretie en mate van personalisatie. Deze analyse leverde inzicht op in de sterke en zwakke punten van de markt en de mate waarin bestaande oplossingen aansluiten bij de gebruikersbehoeften.
 
 Daarnaast werden drie interviews afgenomen met mensen die regelmatig paniekaanvallen ervaren. De interviewvragen waren gericht op het in kaart brengen van hun ervaringen met paniek, huidige copingstrategieën, en hun wensen ten aanzien van nieuwe ondersteunende technologieën.
-De data uit deze interviews werden geanalyseerd door terugkerende thema’s te clusteren. Op basis daarvan werden de belangrijkste design requirements geformuleerd. ([Design Requirements - REMMIE (Excel)](https://github.com/sidmunck/UCD/raw/main/files/design%20requirements/designrequirements%20REMMIE%20excel.xlsx))
+De data uit deze interviews werden geanalyseerd door terugkerende thema’s te clusteren. Op basis daarvan werden de belangrijkste design requirements geformuleerd. ([Design Requirements - REMMIE](https://github.com/sidmunck/UCD/raw/main/files/design%20requirements/designrequirements%20REMMIE%20excel.xlsx))
 
 ### Resultaten
 De analyse van de onderzoeksdata bevestigde dat paniekaanvallen een urgent en groeiend maatschappelijk probleem vormen, mede door de lange wachttijden in de psychologische zorg en het gebrek aan laagdrempelige directe ondersteuning.
@@ -100,7 +100,8 @@ Om de doelstellingen van deze fase te bereiken, werd een mix van kwalitatieve en
 Er werden twee waves uitgevoerd met elk zeven respondenten. Hierbij lag de nadruk telkens op een ander aspect van het productconcept. 
 
 ##### Wave 1: Ademhalingsoefeningen
-Deze eerste test richtte zich op het onderzoeken van verschillende manieren om ademhalingsoefeningen te begeleiden. Ademhalingsoefeningen zijn immers de meest gebruikte en bewezen methode om tijdens een paniekaanval rust te vinden. Aangezien het product in allerlei situaties moet kunnen worden toegepast, moest deze methode discreet en gemakkelijk toepasbaar zijn. Met behulp van een role playing werd het belang van ademhalingsoefeningen aangetoond. 
+Deze eerste test richtte zich op het onderzoeken van verschillende manieren om ademhalingsoefeningen te begeleiden. Ademhalingsoefeningen zijn immers de meest gebruikte en bewezen methode om tijdens een paniekaanval rust te vinden. Aangezien het product in allerlei situaties moet kunnen worden toegepast, moest deze methode discreet en gemakkelijk toepasbaar zijn. Met behulp van een role playing werd het belang van ademhalingsoefeningen aangetoond. De volledige werking van het onderzoek werd uitgeschreven in [protocol wave 1](https://github.com/sidmunck/UCD/raw/main/files/wave%201/Wave%201%20protocol%20Remmie.pdf).
+
 
 FOTO ROLEPLAYING
 
@@ -114,19 +115,19 @@ De prototypes die werden gebruikt:
 - Een audiobestand met het geluid van de zee
 - Een audiobestand met een stemassistent die de gebruiker instructies gaf
 
-FOTOS PROTOTYPES MAKEN EN PLAKKEN
+<img src="https://github.com/sidmunck/UCD/raw/main/fotos/foto's%20wave%201%20prototype.png" width="250">
 
 ##### Wave 2: App versus fysieke bediening
 De tweede test richtte zich op de vraag of een bijhorende app noodzakelijk is, of dat het product ook zonder app effectief kan zijn. Hiervoor werden drie prototypes getest: één puur fysiek apparaat zonder app, een hybride model dat zowel fysieke knoppen als een app combineert, en een volledige app-gebaseerde oplossing.
 
-De testen vonden plaats in omgevingen zoals drukke openbare ruimtes en rustige settings. Respondenten moesten oefeningen starten, geluiden en trillingen aanpassen, en het gebruiksgemak in diverse siuaties beoordelen.
+De testen vonden plaats in omgevingen zoals drukke openbare ruimtes en rustige settings. Respondenten moesten oefeningen starten, geluiden en trillingen aanpassen, en het gebruiksgemak in diverse siuaties beoordelen. De volledige werking van het onderzoek is uitgeschreven in [protocol wave 2](https://github.com/sidmunck/UCD/raw/main/files/wave%202/Wave%202%20protocol%20Remmie.pdf).
 
 Tijdens beide waves werd gebruik gemaakt van role-playing, zodat respondenten de ervaring van een paniekaanval konden simuleren en meteen konden toetsen hoe intuïtief en effectief de prototypes in zulke stressvolle momenten zijn. Alle deelnemers tekenden vooraf een informed consent.
 
-FOTO PROTOTYPE 3 OPTIES
+<img src="https://github.com/sidmunck/UCD/raw/main/fotos/wave%202%20prototype.png" width="400">
 
 #### 2. Literatuur onderzoek
-Parallel aan de gebruikerstesten werd een diepgaan literatuuronderzoek uitgevoerd naar interoceptieve exposure, een bewezen klinische techniek waarbij gebruikers bewust fysieke sensaties oproepen die angst uitlokken, om zo geleidelijk de angst voor die signalen te verminderen. Dit onderzoek toonde aan dat er nog geen commercieel product bestaat dat deze methode ondersteunt, waardoor er een duidelijke kans ligt om dit in het eigen product te integreren. De wenselijkheid van deze toepassing moet dan eerst wel onderzocht worden. ([Onderzoek Interoceptieve Exposure - Wave 1 (Word)](https://github.com/sidmunck/UCD/raw/main/files/wave%201/Onderzoek%20Interoceptieve%20exposure.docx))
+Parallel aan de gebruikerstesten werd een diepgaan literatuuronderzoek uitgevoerd naar interoceptieve exposure, een bewezen klinische techniek waarbij gebruikers bewust fysieke sensaties oproepen die angst uitlokken, om zo geleidelijk de angst voor die signalen te verminderen. Dit onderzoek toonde aan dat er nog geen commercieel product bestaat dat deze methode ondersteunt, waardoor er een duidelijke kans ligt om dit in het eigen product te integreren. De wenselijkheid van deze toepassing moet dan eerst wel onderzocht worden. ([Onderzoek interoceptieve exposure](https://github.com/sidmunck/UCD/raw/main/files/wave%201/Onderzoek%20Interoceptieve%20exposure.docx))
 
 ### Resultaten
 Uit de combinatie van gebruikerstesten en literatuuronderzoek kwamen diverse heldere patronen naar voren die de verdere productontwikkeling richting geven:
@@ -198,20 +199,13 @@ De negen prototypes werden elk getest op comfort, grip en gebruiksgemak door mid
 
 De testpersonen kregen de prototypes één voor één in verschillende situaties, zoals zittend, staand en lopend, om de variatie in gebruik te simuleren. Hierbij werden de Think Aloud- en Question Asking Protocols toegepast, waarbij gebruikers hun ervaringen en voorkeuren mondeling konden toelichten tijdens het testen. Na het uittesten van elk prototype werd de CQH-schaal ingevuld. Op basis van deze gegevens konden later de gemiddelde scores vergeleken worden.
 
-
-(Om daarnaast de gebruikservaring verder te verbeteren, werd onderzocht hoe een eenvoudig visueel feedbacksysteem geïntegreerd kan worden. Gebruik van zichtbaarheid en feedbackmechanismen zijn tenslotte kernprincipes uit interaction design.
-In een afzonderlijk benchmarkonderzoek naar de cases van draadloze oortjes werd vastgesteld dat LED-indicatoren essentieel zijn om eenvoudig feedback te geven over de status van een apparaat, zoals opladen, batterijstatus en activatie. 
-Door gebruik te maken van eenvoudige knipper- en brandpatronen van LED's in plaats van gekleurde lichten, wordt rekening gehouden met toegankelijkheidsrichtlijnen zoals differentiatie op basis van patronen i.p.v. kleur.
-Het toevoegen van zo een visueel feedbacklampje zal bijdragen aan meer gebruiksvriendelijkheid en vertrouwen tijdens panieksituaties.
-
-Voor dit onderzoek werd er gebruik gemaakt van gebruikersinterviews in combinatie met een morfologische matrix. )
-
-
 Voor de fysieke bediening werden vier combinaties samengesteld via een morfologische matrix, bestaande uit drukknoppen, draaiknoppen, schuifschakelaars en joystick-achtige bedieningselementen. Deze combinaties werden weergegeven in schetsen en getest met drie proefpersonen, die hun voorkeuren en motivatie toelichtten tijdens interviews.
 
 Bij de evaluatie werd gelet op intuïtiviteit, foutgevoeligheid, snelheid en vertrouwen in het gebruik onder stressvolle omstandigheden. Dit onderzoek vond plaats in een rustige setting om de focus op de bedieningservaring te behouden. Ook hier werden de TAP en QAP methodes toegepast om diepgaande feedback te verkrijgen.
 
 Op het einde werd er aan de testpersonen gevraagd om hun eigen ideale combinatie samen te stellen en elke keuze grondig te onderbouwen.
+
+Alle stappen van dit onderzoek werden zorgvuldig beschreven in het [protocol Human Body](https://github.com/sidmunck/UCD/raw/main/files/Deelopdracht%201%20sem%202/protocol%20%2B%20aanvulling%20antropometrie.docx).
 
 <img src="https://github.com/sidmunck/UCD/raw/main/fotos/semester%202/morfologische%20matrix%20.png" width="500">
 <img src="https://github.com/sidmunck/UCD/raw/main/fotos/semester%202/schetsen%20protocol.png" width="500">
@@ -267,13 +261,15 @@ Tijdens deze fase is ook onderzocht of een geïntegreerde hartslagmeter in het a
 
 Hoewel het technisch mogelijk bleek om een sensor in het toestel te integreren, werd het koppelen van bestaande wearables zoals smartwatches als een praktischere en gebruiksvriendelijkere oplossing gezien. Zo kan het apparaat eenvoudig data uit deze externe sensoren halen zonder het product onnodig duur of complex te maken.
 
-Voor de geluidsfunctie werd gebruik gemaakt van muziek op een frequentie van 432 Hz. Deze frequentie wordt in verschillende therapeutische contexten als zachter en rustgevender ervaren dan de gangbare 440 Hz, en zou volgens bepaalde bronnen beter aansluiten bij natuurlijke lichaamsfrequenties ([Vooronderzoek Frequentiekeuze muziek](https://github.com/sidmunck/UCD/blob/main/files/Deelopdracht%202%20sem%202/Vooronderzoek%20Frequentiekeuze%20muziek.docx)). Hoewel het wetenschappelijke bewijs beperkt is, wijzen praktijkervaringen binnen muziektherapie op mogelijke kalmerende effecten op het zenuwstelsel. Aangezien het doel van het product is om panieksymptomen te reguleren, werd deze frequentie als potentieel ondersteunend element in het prototype opgenomen.
+Voor de geluidsfunctie werd gebruik gemaakt van muziek op een frequentie van 432 Hz. Deze frequentie wordt in verschillende therapeutische contexten als zachter en rustgevender ervaren dan de gangbare 440 Hz, en zou volgens bepaalde bronnen beter aansluiten bij natuurlijke lichaamsfrequenties ([Vooronderzoek frequentiekeuze muziek](https://github.com/sidmunck/UCD/blob/main/files/Deelopdracht%202%20sem%202/Vooronderzoek%20Frequentiekeuze%20muziek.docx)). Hoewel het wetenschappelijke bewijs beperkt is, wijzen praktijkervaringen binnen muziektherapie op mogelijke kalmerende effecten op het zenuwstelsel. Aangezien het doel van het product is om panieksymptomen te reguleren, werd deze frequentie als potentieel ondersteunend element in het prototype opgenomen.
 
 Voor het aspect uiterlijk en vormgeving werden vier verschillende renders van het product aan de testpersonen getoond. Elk ontwerp had dezelfde functionele inhoud, maar verschilden in kleur, materiaal en afwerking. Via het QAP werden gebruikers gevraagd de ontwerpen te beoordelen op rustgevendheid, sociaal aanvaardbaarheid en esthetiek. Tevens moesten ze vier kernwoorden kiezen uit een lijst van tien die volgens hen het beste bij het ontwerp pasten, om zo genuanceerde emotionele associaties te kunnen vastleggen.
 
 ![4 renders protocol](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/4%20renders%20protocol.png?raw=true)
 
 Voor het onderzoek naar feedbackvorm werden drie verschillende testopstellingen ontworpen: één voor visuele, één voor auditieve, en één voor haptische feedback. Gebruikers werden in simulaties geplaatst waarin het apparaat signalen gaf bij bijvoorbeeld het opladen of een bijna lege batterij. Zonder uitleg moesten zij de betekenis van deze signalen interpreteren. Deze tests werden uitgevoerd met een geprint prototype met aan/uit-knop en LED, en een Arduino-gestuurde schakeling met buzzer, DFPlayer, luidspreker en LED. Bij de test werd de "Wizard of Oz"-methode toegepast. Na afloop werd gebruikgemaakt van Likert-schaalvragen en het TAP om voorkeuren en interpretaties te evalueren. Gebruikers kregen ook de kans hun ideale feedbackconfiguratie samen te stellen.
+
+Het volledige onderzoek werd zorgvuldig genoteerd in het [protocol Human Senses)](https://github.com/sidmunck/UCD/raw/main/files/Deelopdracht%202%20sem%202/PROTOCOL%20DEELOPDRACHT%202.docx).
 
 <img src="https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/toestel%20WoZ%20test.png?raw=true" width="250"/>
 
@@ -334,6 +330,8 @@ De focus lag op de beoordeling van intuïtiviteit, visuele hiërarchie, herkenba
 Daarnaast is onderzocht of er behoefte is aan een ingebouwd trainingsprogramma dat gebruikers helpt om vooraf te oefenen met ademhalingstechnieken en vibratiemethoden. Dit werd getest via gebruiksinterviews waarbij een storyboard als leidraad voor het gesprek diende. Het storyboard hielp de testpersonen zich voor te stellen hoe het trainingsprogramma zou werken.
 
 Tijdens de interviews werd ook gekeken naar het gebruik van het apparaat in rustige, preventieve momenten, om zo te beoordelen of een trainingsfunctie als waardevol wordt ervaren. Tevens werd via drie fictieve productvarianten met verschillende prijsstellingen inzicht verkregen in de prijsperceptie en voorkeuren van de gebruikers.
+
+De volledig uitgeschreven versie van het onderzoek is weergegeven in het [protocol Human Mind](https://github.com/sidmunck/UCD/raw/main/files/Deelopdracht%203%20sem%202/PROTOCOL%20DEELOPDRACHT%203.docx).
 
 <img src="https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/opties%20remmie.png?raw=true" width="70%" />
 
