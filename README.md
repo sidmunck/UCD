@@ -360,9 +360,15 @@ Deze schakeling (zie afbeelding) werd gebouwd in combinatie met Protopie Connect
 
 Daarnaast werd er ook een fysiek prototype gemaakt waarin de look & feel van het uiteindelijke product en de knoppen werd uitgewerkt. Dit model is visueel en ergonomisch representatief, maar bevat geen functionele elektronica.
 
-![Schakeling finaal prototype](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/schakeling%20finaal%20prototype.png?raw=true)
+Voor de behuizing van het prototype worden momenteel drie materiaalopties overwogen:
+1. Soft-touch ABS met matte coating
+2. Siliconenrubber
+3. Thermoplastisch polyurethaan (TPU)
 
-+ FOTO FYSIEKE EINDPROTOTYPE
+Bij de materiaalkeuze is het essentieel dat het materiaal waterdicht, krasbestendig en niet glad is (voldoende grip biedt). Daarnaast moet het beschikbaar zijn in beige of andere neutrale kleurtinten om aan de esthetische eisen te voldoen.
+Er is op dit moment nog geen gebruikersonderzoek uitgevoerd naar de tactiele en ergonomische beleving van de verschillende materialen. Verdere testen zijn noodzakelijk om te bepalen welk materiaal het meest comfortabel en geschikt is voor langdurig gebruik.
+
+![Schakeling finaal prototype](https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/schakeling%20finaal%20prototype.png?raw=true)
 
 ## Technische beschrijving
 ### Bill of materials
