@@ -287,7 +287,9 @@ De gemiddelde tijd die nodig was om tot kalmering te komen, was ongeveer 6 minut
 ![resultatenT](https://github.com/sidmunck/UCD/blob/main/fotos/resultatenT.png)
 ![resultatenG](https://github.com/sidmunck/UCD/blob/main/fotos/resultatenG.png)
 
-Het onderzoek naar uiterlijk en materiaalkeuze liet zien dat gebruikers unaniem de voorkeur gaven aan een matte, zachte afwerking in neutrale kleuren zoals beige. Glanzende materialen werden als storend ervaren. Het meest gekozen ontwerp werd omschreven met woorden als “rustgevend”, “zorgzaam” en “vertrouwd”. Discretie was een belangrijke eis; gebruikers wilden zich niet schamen om het apparaat te gebruiken in het openbaar. Subtiele materiaalcontrasten binnen eenzelfde kleurenschema werden als positief ervaren. De combinatie van visuele rust en sociaal aanvaardbare esthetiek was doorslaggevend.
+Het onderzoek naar uiterlijk en materiaalkeuze liet zien dat gebruikers unaniem de voorkeur gaven aan een matte, zachte afwerking in neutrale kleuren zoals beige. Glanzende materialen werden als storend ervaren. Het meest gekozen ontwerp werd omschreven met woorden als “rustgevend”, “zorgzaam” en “vertrouwd”. Discretie was een belangrijke eis; gebruikers wilden zich niet schamen om het apparaat te gebruiken in het openbaar. Subtiele materiaalcontrasten binnen eenzelfde kleurenschema werden als positief ervaren. De combinatie van visuele rust en sociaal aanvaardbare esthetiek was doorslaggevend. Op basis van de verkregen informatie kon een moodboard worden opgesteld dat gebruikt zou worden bij het ontwerpen van het finale product.
+
+<img src="https://github.com/sidmunck/UCD/blob/main/fotos/semester%202/moodboard.png?raw=true" width="450">
 
 Wat betreft de feedbackvorm werd haptische feedback het meest intuïtief, aangenaam en effectief bevonden. Deze kreeg de hoogste scores op de Likert-schaal. Visuele feedback werd neutraal beoordeeld, terwijl auditieve feedback het laagst scoorde en vaak als storend of ongepast werd ervaren, vooral in sociale contexten.
 
