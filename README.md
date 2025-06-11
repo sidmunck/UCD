@@ -30,11 +30,13 @@ Het voorgestelde product, in combinatie met een bijhorende app, biedt ruimte voo
 Het ontwerpproces volgt een duidelijke en gestructureerde aanpak waarbij stap voor stap van  probleem naar oplossing werd gewerkt. Er zijn drie hoofdfases te onderscheiden: onderzoek, conceptontwikkeling en prototype & testen. Elke fase bouwt verder op de inzichten uit de voorgaande en het gehele project strekt zich uit over twee semesters. 
 
 Semester 1: onderzoek en concept
+
 In het eerste semester vond een individueel onderzoek plaats naar het onderwerp 'paniekaanvallen'. Hierbij werd uitgebreid literatuuronderzoek gedaan, evenals benchmarking en het afnemen van drie interviews om inzicht te verkrijgen in de gebruikersbehoeften. De verzamelde data werden geanalyseerd en samengebracht in een persona en een WWWWWH-analyse. Op 31 november 2024 werd het eerste concept gepresenteerd, waarna alle teams werden samengesteld. 
 
 Vervolgens werd binnen het team samengewerkt aan ideeontwikkeling via brainstormsessies. Er werden storyboards en eenvoudige prototypes gemaakt. Deze prototypes werden in twee testwaves door zeven gebruikers geëvalueerd. Wave 1 richtte zich op het concept, terwijl wave 2 de noodzaak aan een ondersteunende app onderzocht. Parallel hieraan werd een literatuurstudie uitgevoerd naar 'interoceptieve exposure', een therapeutische methode die ingezet wordt bij het behandelen van angst en paniek.
 
 Semester 2: verdieping en verfijning
+
 Het tweede semester richtte zich op drie deelonderzoeken: 'The Human Body', 'The Human Senses' en 'The Human Mind'.
 
 - Bij 'The Human Body' werd de antropometrie van het menselijke hand bestudeerd om een geschikte productvorm te bepalen. Op basis van gebruikerstesten werd een voorkeursontwerp geselecteerd.
