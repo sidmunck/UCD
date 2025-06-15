@@ -1,0 +1,174 @@
+#include <SoftwareSerial.h>
+#include <DFRobotDFPlayerMini.h>
+
+SoftwareSerial mySerial(10, 11); // RX, TX voor DFPlayer
+DFRobotDFPlayerMini myDFPlayer;
+
+const int buzzerPin = 3;         // passieve buzzer op pin 3
+const int buttonPin = 6;         // knop 1 (play/stop muziek)
+const int patternButtonPin = 7;  // knop 2 (start/stop patroon 10 = 2s,4s)
+
+bool runningPattern = false;
+unsigned long lastEventTime = 0;
+int patternStep = 0;
+int patternType = 0;
+
+enum BuzzerStatus { IDLE, BUZZING, WAITING };
+BuzzerStatus buzzerStatus = IDLE;
+
+int activeNumber = 0;
+
+bool buttonState = LOW;
+bool lastButtonState = LOW;
+bool patternButtonState = LOW;
+bool lastPatternButtonState = LOW;
+
+unsigned long lastDebounceTime = 0;
+const unsigned long debounceDelay = 50;
+
+void setup() {
+  Serial.begin(9600);
+  mySerial.begin(9600);
+  pinMode(buzzerPin, OUTPUT);
+  pinMode(buttonPin, INPUT_PULLUP);
+  pinMode(patternButtonPin, INPUT_PULLUP);
+
+  if (!myDFPlayer.begin(mySerial)) {
+    Serial.println("DFPlayer niet gevonden.");
+    while (true);
+  }
+  myDFPlayer.volume(20);
+  Serial.println("DFPlayer klaar.");
+}
+
+void loop() {
+  // Knop 1 (pin 6) inlezen (play/stop muziek)
+  int reading = digitalRead(buttonPin);
+  if (reading != lastButtonState) lastDebounceTime = millis();
+  if ((millis() - lastDebounceTime) > debounceDelay) {
+    if (reading != buttonState) {
+      buttonState = reading;
+      if (buttonState == LOW) {
+        if (activeNumber == 4) {
+          myDFPlayer.stop();
+          noTone(buzzerPin);
+          runningPattern = false;
+          buzzerStatus = IDLE;
+          patternType = 0;
+          activeNumber = 0;
+        } else {
+          myDFPlayer.play(4);
+          runningPattern = false;
+          noTone(buzzerPin);
+          buzzerStatus = IDLE;
+          patternType = 0;
+          activeNumber = 4;
+        }
+      }
+    }
+  }
+  lastButtonState = reading;
+
+  // Knop 2 (pin 7) inlezen (start/stop patroon 10 = 2s,4s)
+  int patternReading = digitalRead(patternButtonPin);
+  if (patternReading != lastPatternButtonState) lastDebounceTime = millis();
+  if ((millis() - lastDebounceTime) > debounceDelay) {
+    if (patternReading != patternButtonState) {
+      patternButtonState = patternReading;
+      if (patternButtonState == LOW) {
+        if (runningPattern && patternType == 10) {
+          // stop patroon 10
+          runningPattern = false;
+          buzzerStatus = IDLE;
+          noTone(buzzerPin);
+          patternType = 0;
+          activeNumber = 0;
+        } else {
+          // stop alles eerst
+          myDFPlayer.stop();
+          noTone(buzzerPin);
+          // start patroon 10
+          runningPattern = true;
+          patternStep = 1; // eerste trilling skippen
+          patternType = 10;
+          buzzerStatus = WAITING;
+          lastEventTime = millis();
+          activeNumber = 10;
+        }
+      }
+    }
+  }
+  lastPatternButtonState = patternReading;
+
+  // Seriële input verwerken
+  if (Serial.available()) {
+    int input = Serial.parseInt();
+    if (input >= 1 && input <= 6) {
+      if (activeNumber != input) {
+        myDFPlayer.play(input);
+        runningPattern = false;
+        noTone(buzzerPin);
+        buzzerStatus = IDLE;
+        patternType = 0;
+        activeNumber = input;
+      }
+    } else if (input >= 7 && input <= 10) {
+      if (activeNumber != input) {
+        runningPattern = true;
+        patternStep = 1;
+        patternType = input;
+        buzzerStatus = WAITING;
+        lastEventTime = millis();
+        noTone(buzzerPin);
+        activeNumber = input;
+      }
+    } else if (input == 20) {
+      myDFPlayer.stop();
+      noTone(buzzerPin);
+      runningPattern = false;
+      buzzerStatus = IDLE;
+      patternType = 0;
+      activeNumber = 0;
+    }
+  }
+
+  if (runningPattern) {
+    unsigned long currentTime = millis();
+    int waitTimes[6] = {0};
+
+    switch (patternType) {
+      case 7:
+        waitTimes[1] = 3000; waitTimes[3] = 7000; waitTimes[5] = 8000; break;
+      case 8:
+        waitTimes[1] = 4000; waitTimes[3] = 4000; waitTimes[5] = 4000; break;
+      case 9:
+        waitTimes[1] = 3000; waitTimes[3] = 6000; break;
+      case 10:
+        waitTimes[1] = 2000; waitTimes[3] = 4000; break;
+    }
+
+    switch (buzzerStatus) {
+      case BUZZING:
+        if (currentTime - lastEventTime >= 50) {   // nu 50 ms buzzer toon
+          noTone(buzzerPin);
+          lastEventTime = currentTime;
+          buzzerStatus = WAITING;
+        }
+        break;
+
+      case WAITING:
+        if (waitTimes[patternStep] == 0 || currentTime - lastEventTime >= waitTimes[patternStep]) {
+          patternStep++;
+          if (patternStep >= 6) patternStep = 0;
+          tone(buzzerPin, 700); // zachtere toon, 700 Hz
+          lastEventTime = millis();
+          buzzerStatus = BUZZING;
+        }
+        break;
+
+      case IDLE:
+        // niks doen
+        break;
+    }
+  }
+}
